@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T23:37:41.153Z",
+  "updatedAt": "2026-09-12T23:49:45.888Z",
   "core": [
     {
       "id": "5bec0de2e6614427acdbef2a5e9611a293a8c6d8",
@@ -2443,7 +2443,10 @@
       "influentialCitationCount": 1488,
       "source": "avi-thesis.bib: Deep Contextualized Word Representations",
       "addedAt": "2026-09-12",
-      "score": 6.451612903225806
+      "score": 6.451612903225806,
+      "aliases": [
+        "avi-thesis.bib: Deep contextualized word representations"
+      ]
     },
     {
       "id": "f6b51c8753a871dc94ff32152c00c01e94f90f09",
@@ -4411,6 +4414,73 @@
       "referenceCount": 34,
       "influentialCitationCount": 31,
       "source": "avi-thesis.bib: Variability signatures distinguish verbal from nonverbal counting for both large and small numbers",
+      "addedAt": "2026-09-12",
+      "score": 1.6129032258064515
+    },
+    {
+      "id": "40dbb25a15b63af3faccb81c8e64a3f5d659e07e",
+      "title": "The Theory of Parsing, Translation, and Compiling",
+      "authors": [
+        "A. Aho",
+        "J. Ullman"
+      ],
+      "year": 1972,
+      "venue": null,
+      "publicationDate": null,
+      "summary": "It is the hope that the algorithms and concepts presented in this book will survive the next generation of computers and programming languages, and that at least some of them will be applicable to fields other than compiler writing.",
+      "url": "https://www.semanticscholar.org/paper/40dbb25a15b63af3faccb81c8e64a3f5d659e07e",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 2040,
+      "referenceCount": 0,
+      "influentialCitationCount": 141,
+      "source": "avi-thesis.bib: The Theory of Parsing, Translation and Compiling",
+      "addedAt": "2026-09-12",
+      "score": 0
+    },
+    {
+      "id": "7b23b4285f6f302b96d97b1363685e3551704067",
+      "title": "Tabular Functional Block Detection with Embedding-based Agglomerative Cell Clustering",
+      "authors": [
+        "Kexuan Sun",
+        "Fei Wang",
+        "Muhao Chen",
+        "J. Pujara"
+      ],
+      "year": 2021,
+      "venue": "International Conference on Information and Knowledge Management",
+      "publicationDate": "2021-10-26",
+      "summary": "A flexible functional block detection method is introduced by applying agglomerative clustering techniques which merge smaller blocks into larger blocks using two merging strategies and uses cell embeddings with a customized dissimilarity function which utilizes local and margin distances, as well as block coherence metrics to capture cell, block, and table scoped features.",
+      "url": "https://www.semanticscholar.org/paper/7b23b4285f6f302b96d97b1363685e3551704067",
+      "doi": "10.1145/3459637.3482484",
+      "arxivId": null,
+      "pdf": "https://dl.acm.org/doi/pdf/10.1145/3459637.3482484",
+      "citationCount": 1,
+      "referenceCount": 44,
+      "influentialCitationCount": 0,
+      "source": "avi-thesis.bib: Tabular Functional Block Detection with Embedding-based Agglomerative Cell Clustering",
+      "addedAt": "2026-09-12",
+      "score": 1.6129032258064515
+    },
+    {
+      "id": "9d848d5c278b8765767814a7e4b3021abd64704d",
+      "title": "The Composition and Use of the Universal Morphological Feature Schema (UniMorph Schema)",
+      "authors": [
+        "John Sylak-Glassman"
+      ],
+      "year": 2016,
+      "venue": null,
+      "publicationDate": null,
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/9d848d5c278b8765767814a7e4b3021abd64704d",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 75,
+      "referenceCount": 102,
+      "influentialCitationCount": 6,
+      "source": "avi-thesis.bib: The Composition and Use of the Universal Morphological Feature Schema (UniMorph Schema)",
       "addedAt": "2026-09-12",
       "score": 0
     }
