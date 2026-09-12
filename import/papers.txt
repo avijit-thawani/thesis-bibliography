@@ -6,11 +6,37 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
+avi-thesis.bib: The United Nations Parallel Corpus v1.0
+avi-thesis.bib: An Empirical Investigation of Contextualized Number Prediction
+avi-thesis.bib: Multiword Expression aware Neural Machine Translation
+avi-thesis.bib: An Empirical Investigation of Contextualized Number Prediction
+avi-thesis.bib: Multiword Expression aware Neural Machine Translation
+avi-thesis.bib: Learning Numerical Attributes in Knowledge Bases
+avi-thesis.bib: Do Language Embeddings capture Scales?
+avi-thesis.bib: Learning Numeral Embedding
+avi-thesis.bib: An Empirical Investigation of Contextualized Number Prediction
+avi-thesis.bib: Methods for Numeracy-Preserving Word Embeddings
+avi-thesis.bib: Learning Numerical Attributes in Knowledge Bases
+avi-thesis.bib: Learning Numeral Embedding
+avi-thesis.bib: An Empirical Investigation of Contextualized Number Prediction
+avi-thesis.bib: Do Language Embeddings capture Scales?
+avi-thesis.bib: The United Nations Parallel Corpus v1.0
+avi-thesis.bib: Methods for Numeracy-Preserving Word Embeddings
+avi-thesis.bib: Moses: Open Source Toolkit for Statistical Machine Translation
+avi-thesis.bib: An Empirical Investigation of Contextualized Number Prediction
+avi-thesis.bib: Paying Attention to Multi-Word Expressions in Neural Machine Translation
+avi-thesis.bib: An Empirical Investigation of Contextualized Number Prediction
+avi-thesis.bib: Multiword Expression aware Neural Machine Translation
+avi-thesis.bib: From characters to words: the turning point of BPE merges
+avi-thesis.bib: Paying Attention to Multi-Word Expressions in Neural Machine Translation
+avi-thesis.bib: \-Masking: Principled masking of correlated spans
+avi-thesis.bib: Multiword Expression aware Neural Machine Translation
+avi-thesis.bib: Subword Pooling Makes a Difference
+avi-thesis.bib: Multiword Expression aware Neural Machine Translation
 avi-thesis.bib: An Empirical Investigation of Contextualized Number Prediction
 avi-thesis.bib: Multiword Expression aware Neural Machine Translation
 avi-thesis.bib: Paying Attention to Multi-Word Expressions in Neural Machine Translation
 avi-thesis.bib: The United Nations Parallel Corpus v1.0
-avi-thesis.bib: Moses: Open Source Toolkit for Statistical Machine Translation
 avi-thesis.bib: An Empirical Investigation of Contextualized Number Prediction
 avi-thesis.bib: Multiword Expression aware Neural Machine Translation
 avi-thesis.bib: Paying Attention to Multi-Word Expressions in Neural Machine Translation
@@ -34,7 +60,6 @@ avi-thesis.bib: Methods for Numeracy-Preserving Word Embeddings
 avi-thesis.bib: Analysing Mathematical Reasoning Abilities of Neural Models
 avi-thesis.bib: On the Computational Power of Transformers and Its Implications in Sequence Modeling
 avi-thesis.bib: The United Nations Parallel Corpus v1.0
-avi-thesis.bib: Moses: Open Source Toolkit for Statistical Machine Translation
 avi-thesis.bib: An Empirical Investigation of Contextualized Number Prediction
 avi-thesis.bib: Multiword Expression aware Neural Machine Translation
 avi-thesis.bib: Paying Attention to Multi-Word Expressions in Neural Machine Translation
