@@ -1,6 +1,59 @@
 {
-  "updatedAt": "2026-09-12T17:49:57.724Z",
+  "updatedAt": "2026-09-12T18:12:31.468Z",
   "core": [
+    {
+      "id": "5bec0de2e6614427acdbef2a5e9611a293a8c6d8",
+      "title": "Chemical Compositions Of Red Giant Stars in the Old Open Cluster NGC 7789",
+      "authors": [
+        "N. Nagarajan",
+        "C. Sneden",
+        "M. Afşar",
+        "C. Pilachowski"
+      ],
+      "year": 2023,
+      "venue": "Astronomical Journal",
+      "publicationDate": "2023-04-14",
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/5bec0de2e6614427acdbef2a5e9611a293a8c6d8",
+      "doi": "10.3847/1538-3881/accdda",
+      "arxivId": "2304.07359",
+      "pdf": "https://iopscience.iop.org/article/10.3847/1538-3881/accdda/pdf",
+      "citationCount": 2,
+      "referenceCount": 6,
+      "influentialCitationCount": 0,
+      "source": "avi-thesis.bib: The Wall Street Neophyte: A Zero-Shot Analysis of ChatGPT Over MultiModal Stock Movement Prediction Challenges",
+      "addedAt": "2026-09-12",
+      "score": 0
+    },
+    {
+      "id": "83edcfbb206ddad38a971d605da09390604248ea",
+      "title": "BloombergGPT: A Large Language Model for Finance",
+      "authors": [
+        "Shijie Wu",
+        "Ozan Irsoy",
+        "Steven Lu",
+        "Vadim Dabravolski",
+        "Mark Dredze",
+        "Sebastian Gehrmann",
+        "P. Kambadur",
+        "David Stuart Rosenberg",
+        "Gideon Mann"
+      ],
+      "year": 2023,
+      "venue": "arXiv.org",
+      "publicationDate": "2023-03-30",
+      "summary": "This work presents BloombergGPT, a 50 billion parameter language model that is trained on a wide range of financial data, and constructs a 363 billion token dataset based on Bloomberg's extensive data sources, perhaps the largest domain-specific dataset yet.",
+      "url": "https://www.semanticscholar.org/paper/83edcfbb206ddad38a971d605da09390604248ea",
+      "doi": null,
+      "arxivId": "2303.17564",
+      "pdf": null,
+      "citationCount": 1501,
+      "referenceCount": 138,
+      "influentialCitationCount": 75,
+      "source": "avi-thesis.bib: BloombergGPT: A Large Language Model for Finance",
+      "addedAt": "2026-09-12",
+      "score": 20
+    },
     {
       "id": "ffd5d435c9534cf7e4e6995cd9d6a888d317e2f9",
       "title": "Numerical Correlation in Text",
@@ -22,7 +75,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Numerical Correlation in Text",
       "addedAt": "2026-09-12",
-      "score": 21.568627450980394
+      "score": 22
     },
     {
       "id": "a9cd3b1ad7ea09dfddf1a22124c27070c6f910e1",
@@ -46,7 +99,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Assessing the Importance of Frequency versus Compositionality for Subword-based Tokenization in NMT",
       "addedAt": "2026-09-12",
-      "score": 21.568627450980394
+      "score": 20
     },
     {
       "id": "05dd7254b632376973f3a1b4d39485da17814df5",
@@ -94,7 +147,7 @@
       "influentialCitationCount": 11,
       "source": "avi-thesis.bib: SberQuAD -- Russian Reading Comprehension Dataset: Description and Analysis",
       "addedAt": "2026-09-12",
-      "score": 9.803921568627452
+      "score": 8
     },
     {
       "id": "6bfa1b07cb1f46294adac73afe33616cd919b603",
@@ -118,7 +171,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: MANTa: Efficient Gradient-Based Tokenization for End-to-End Robust Language Modeling",
       "addedAt": "2026-09-12",
-      "score": 3.9215686274509802
+      "score": 2
     },
     {
       "id": "a794a92e1fa516250390514eeeb3c3b3140876a3",
@@ -143,7 +196,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: RetVec: Resilient and Efficient Text Vectorizer",
       "addedAt": "2026-09-12",
-      "score": 15.686274509803921
+      "score": 16
     },
     {
       "id": "473921de1b52f98f34f37afd507e57366ff7d1ca",
@@ -169,7 +222,7 @@
       "influentialCitationCount": 18,
       "source": "avi-thesis.bib: CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters",
       "addedAt": "2026-09-12",
-      "score": 29.411764705882355
+      "score": 26
     },
     {
       "id": "0427110f0e79f41e69a8eb00a3ec8868bac26a4f",
@@ -194,7 +247,7 @@
       "influentialCitationCount": 37,
       "source": "avi-thesis.bib: Do NLP Models Know Numbers? Probing Numeracy in Embeddings",
       "addedAt": "2026-09-12",
-      "score": 39.21568627450981
+      "score": 36
     },
     {
       "id": "163b4d6a79a5b19af88b8585456363340d9efd04",
@@ -514,7 +567,121 @@
       "influentialCitationCount": 153,
       "source": "avi-thesis.bib: Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates",
       "addedAt": "2026-09-12",
-      "score": 47.05882352941176
+      "score": 44
+    },
+    {
+      "id": "c6850869aa5e78a107c378d2e8bfa39633158c0c",
+      "title": "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation",
+      "authors": [
+        "Yonghui Wu",
+        "M. Schuster",
+        "Z. Chen",
+        "Quoc V. Le",
+        "Mohammad Norouzi",
+        "Wolfgang Macherey",
+        "M. Krikun",
+        "Yuan Cao",
+        "Qin Gao",
+        "Klaus Macherey",
+        "J. Klingner",
+        "Apurva Shah",
+        "Melvin Johnson",
+        "Xiaobing Liu",
+        "Lukasz Kaiser",
+        "Stephan Gouws",
+        "Yoshikiyo Kato",
+        "Taku Kudo",
+        "H. Kazawa",
+        "K. Stevens",
+        "George Kurian",
+        "Nishant Patil",
+        "Wei Wang",
+        "C. Young",
+        "Jason R. Smith",
+        "Jason Riesa",
+        "Alex Rudnick",
+        "O. Vinyals",
+        "G. Corrado",
+        "Macduff Hughes",
+        "J. Dean"
+      ],
+      "year": 2016,
+      "venue": "arXiv.org",
+      "publicationDate": "2016-09-26",
+      "summary": "GNMT, Google's Neural Machine Translation system, is presented, which attempts to address many of the weaknesses of conventional phrase-based translation systems and provides a good balance between the flexibility of \"character\"-delimited models and the efficiency of \"word\"-delicited models.",
+      "url": "https://www.semanticscholar.org/paper/c6850869aa5e78a107c378d2e8bfa39633158c0c",
+      "doi": null,
+      "arxivId": "1609.08144",
+      "pdf": null,
+      "citationCount": 7384,
+      "referenceCount": 53,
+      "influentialCitationCount": 481,
+      "source": "avi-thesis.bib: Google's neural machine translation system: Bridging the gap between human and machine translation",
+      "addedAt": "2026-09-12",
+      "aliases": [
+        "avi-thesis.bib: Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation"
+      ],
+      "score": 6
+    },
+    {
+      "id": "412e266cddfd87c79087a88ba1e4d11b89a45a13",
+      "title": "MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers",
+      "authors": [
+        "L. Yu",
+        "Daniel Simig",
+        "Colin Flaherty",
+        "Armen Aghajanyan",
+        "Luke Zettlemoyer",
+        "M. Lewis"
+      ],
+      "year": 2023,
+      "venue": "Neural Information Processing Systems",
+      "publicationDate": "2023-05-12",
+      "summary": "Megabyte, a multi-scale decoder architecture that enables end-to-end differentiable modeling of sequences of over one million bytes, is proposed, establishing the viability of tokenization-free autoregressive sequence modeling at scale.",
+      "url": "https://www.semanticscholar.org/paper/412e266cddfd87c79087a88ba1e4d11b89a45a13",
+      "doi": "10.48550/arXiv.2305.07185",
+      "arxivId": "2305.07185",
+      "pdf": "http://arxiv.org/pdf/2305.07185",
+      "citationCount": 187,
+      "referenceCount": 47,
+      "influentialCitationCount": 11,
+      "source": "avi-thesis.bib: Megabyte: Predicting million-byte sequences with multiscale transformers",
+      "addedAt": "2026-09-12",
+      "score": 18
+    },
+    {
+      "id": "d617f51833860dc50d202af7f80be71304b2e994",
+      "title": "Between words and characters: A Brief History of Open-Vocabulary Modeling and Tokenization in NLP",
+      "authors": [
+        "Sabrina J. Mielke",
+        "Zaid Alyafeai",
+        "Elizabeth Salesky",
+        "Colin Raffel",
+        "Manan Dey",
+        "Matthias Gallé",
+        "Arun Raja",
+        "Chenglei Si",
+        "Wilson Y. Lee",
+        "Benoît Sagot",
+        "Samson Tan"
+      ],
+      "year": 2021,
+      "venue": "arXiv.org",
+      "publicationDate": "2021-12-20",
+      "summary": "It is concluded that there is and likely will never be a silver bullet singular solution for all applications and that thinking seriously about tokenization remains important for many applications.",
+      "url": "https://www.semanticscholar.org/paper/d617f51833860dc50d202af7f80be71304b2e994",
+      "doi": null,
+      "arxivId": "2112.10508",
+      "pdf": null,
+      "citationCount": 234,
+      "referenceCount": 200,
+      "influentialCitationCount": 9,
+      "source": "avi-thesis.bib: Between words and characters: A brief history of open-vocabulary modeling and tokenization in NLP",
+      "addedAt": "2026-09-12",
+      "aliases": [
+        "avi-thesis.bib: Between words and characters: A Brief History of Open-Vocabulary Modeling and Tokenization in NLP"
+      ],
+      "score": 44
     },
     {
       "id": "28a5a53dafacebad8a7c47773079caeffb9a5baa",
@@ -566,7 +733,7 @@
       "influentialCitationCount": 98,
       "source": "avi-thesis.bib: ByT5: Towards a Token-Free Future with Pre-trained Byte-to-Byte Models",
       "addedAt": "2026-09-12",
-      "score": 41.17647058823529
+      "score": 36
     },
     {
       "id": "969287b8a96e242793b11f0dbb99ec341228106f",
@@ -593,7 +760,39 @@
       "aliases": [
         "avi-thesis.bib: CANINE: Pre-training an Efficient Tokenization-Free Encoder for Language Representation"
       ],
-      "score": 50.98039215686274
+      "score": 48
+    },
+    {
+      "id": "5dee4ece8ec1725a7d071b74bf60f4f5fd2e78ad",
+      "title": "Sub-Character Tokenization for Chinese Pretrained Language Models",
+      "authors": [
+        "Chenglei Si",
+        "Zhengyan Zhang",
+        "Yingfa Chen",
+        "Fanchao Qi",
+        "Xiaozhi Wang",
+        "Zhiyuan Liu",
+        "Yasheng Wang",
+        "Qun Liu",
+        "Maosong Sun"
+      ],
+      "year": 2021,
+      "venue": "Transactions of the Association for Computational Linguistics",
+      "publicationDate": "2021-06-01",
+      "summary": "Experimental results show that SubChar tokenizers have two main advantages over existing tokenizers: 1) They can tokenize inputs into much shorter sequences, thus improving the computational efficiency, and 2) Pronunciation-based SubChartokenization can encode Chinese homophones into the same transliteration sequences and produce the same tokenization output, hence being robust to homophone typos.",
+      "url": "https://www.semanticscholar.org/paper/5dee4ece8ec1725a7d071b74bf60f4f5fd2e78ad",
+      "doi": "10.1162/tacl_a_00560",
+      "arxivId": "2106.00400",
+      "pdf": "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00560/2102899/tacl_a_00560.pdf",
+      "citationCount": 17,
+      "referenceCount": 61,
+      "influentialCitationCount": 0,
+      "source": "avi-thesis.bib: SHUOWEN-JIEZI: Linguistically informed tokenizers for Chinese language model pretraining",
+      "addedAt": "2026-09-12",
+      "aliases": [
+        "avi-thesis.bib: Sub-Character Tokenization for Chinese Pretrained Language Models"
+      ],
+      "score": 20
     },
     {
       "id": "674265c672777b6d10d5455adc58a6cacb0d0cfe",
@@ -615,7 +814,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: BPE beyond Word Boundary: How NOT to use Multi Word Expressions in Neural Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 39.21568627450981
+      "score": 36
     },
     {
       "id": "5c3005e22e6fb218aa76fea49971f3f991993b32",
@@ -638,7 +837,7 @@
       "influentialCitationCount": 5,
       "source": "avi-thesis.bib: Robust Open-Vocabulary Translation from Visual Text Representations",
       "addedAt": "2026-09-12",
-      "score": 15.686274509803921
+      "score": 14.000000000000002
     },
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -664,7 +863,29 @@
       "influentialCitationCount": 8,
       "source": "avi-thesis.bib: Language Modelling with Pixels",
       "addedAt": "2026-09-12",
-      "score": 37.254901960784316
+      "score": 36
+    },
+    {
+      "id": "9a1a9ae2fc2911f1f275702bef38aa8f79c86986",
+      "title": "What do tokens know about their characters and how do they know it?",
+      "authors": [
+        "Ayush Kaushal",
+        "Kyle Mahowald"
+      ],
+      "year": 2022,
+      "venue": "North American Chapter of the Association for Computational Linguistics",
+      "publicationDate": "2022-06-06",
+      "summary": "The mechanisms through which PLMs acquire English-language character information during training are investigated and it is argued that this knowledge is acquired through multiple phenomena, including a systematic relationship between particular characters and particular parts of speech, as well as natural variability in the tokenization of related strings.",
+      "url": "https://www.semanticscholar.org/paper/9a1a9ae2fc2911f1f275702bef38aa8f79c86986",
+      "doi": "10.48550/arXiv.2206.02608",
+      "arxivId": "2206.02608",
+      "pdf": "http://arxiv.org/pdf/2206.02608",
+      "citationCount": 52,
+      "referenceCount": 83,
+      "influentialCitationCount": 3,
+      "source": "avi-thesis.bib: What do tokens know about their characters and how do they know it?",
+      "addedAt": "2026-09-12",
+      "score": 30
     },
     {
       "id": "d023e4c652dc21b2068a8527203a70d9eaf195d9",
@@ -687,7 +908,7 @@
       "influentialCitationCount": 62,
       "source": "avi-thesis.bib: BPE-Dropout: Simple and Effective Subword Regularization",
       "addedAt": "2026-09-12",
-      "score": 41.17647058823529
+      "score": 38
     },
     {
       "id": "a77643bff6f50ccc4f80ec081e4d078a2e788ae7",
@@ -710,7 +931,7 @@
       "influentialCitationCount": 9,
       "source": "avi-thesis.bib: Multi-view Subword Regularization",
       "addedAt": "2026-09-12",
-      "score": 25.49019607843137
+      "score": 24
     },
     {
       "id": "31699d03a49e38295298f1b1a53185644abba12e",
@@ -733,7 +954,7 @@
       "influentialCitationCount": 3,
       "source": "avi-thesis.bib: Numeracy enhances the Literacy of Language Models",
       "addedAt": "2026-09-12",
-      "score": 27.450980392156865
+      "score": 26
     },
     {
       "id": "2dee21f5605054a5d4ede63aca0bf75f9a28e55e",
@@ -784,36 +1005,7 @@
       "influentialCitationCount": 19,
       "source": "avi-thesis.bib: Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models",
       "addedAt": "2026-09-12",
-      "score": 15.686274509803921
-    },
-    {
-      "id": "5dee4ece8ec1725a7d071b74bf60f4f5fd2e78ad",
-      "title": "Sub-Character Tokenization for Chinese Pretrained Language Models",
-      "authors": [
-        "Chenglei Si",
-        "Zhengyan Zhang",
-        "Yingfa Chen",
-        "Fanchao Qi",
-        "Xiaozhi Wang",
-        "Zhiyuan Liu",
-        "Yasheng Wang",
-        "Qun Liu",
-        "Maosong Sun"
-      ],
-      "year": 2021,
-      "venue": "Transactions of the Association for Computational Linguistics",
-      "publicationDate": "2021-06-01",
-      "summary": "Experimental results show that SubChar tokenizers have two main advantages over existing tokenizers: 1) They can tokenize inputs into much shorter sequences, thus improving the computational efficiency, and 2) Pronunciation-based SubChartokenization can encode Chinese homophones into the same transliteration sequences and produce the same tokenization output, hence being robust to homophone typos.",
-      "url": "https://www.semanticscholar.org/paper/5dee4ece8ec1725a7d071b74bf60f4f5fd2e78ad",
-      "doi": "10.1162/tacl_a_00560",
-      "arxivId": "2106.00400",
-      "pdf": "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00560/2102899/tacl_a_00560.pdf",
-      "citationCount": 17,
-      "referenceCount": 61,
-      "influentialCitationCount": 0,
-      "source": "avi-thesis.bib: Sub-Character Tokenization for Chinese Pretrained Language Models",
-      "addedAt": "2026-09-12",
-      "score": 21.568627450980394
+      "score": 16
     },
     {
       "id": "e19b54ad4c1c8af045069e9cac350ffc2ce60e1a",
@@ -875,6 +1067,29 @@
       "score": 0
     },
     {
+      "id": "174a9b78350e9561555052bc6901cc44782f4c62",
+      "title": "Estimating Numbers without Regression",
+      "authors": [
+        "Avijit Thawani",
+        "Jay Pujara",
+        "A. Kalyan"
+      ],
+      "year": 2023,
+      "venue": "arXiv.org",
+      "publicationDate": "2023-10-09",
+      "summary": "A carefully designed tokenization scheme is both the simplest to implement and sufficient, with similar performance to the state-of-the-art approach that requires making significant architectural changes, in the context of masked number prediction.",
+      "url": "https://www.semanticscholar.org/paper/174a9b78350e9561555052bc6901cc44782f4c62",
+      "doi": "10.48550/arXiv.2310.06204",
+      "arxivId": "2310.06204",
+      "pdf": "https://arxiv.org/pdf/2310.06204",
+      "citationCount": 2,
+      "referenceCount": 17,
+      "influentialCitationCount": 0,
+      "source": "avi-thesis.bib: Estimating Numbers without Regression",
+      "addedAt": "2026-09-12",
+      "score": 12
+    },
+    {
       "id": "a640215755e23e2649f4b3d3246a47b14fea93f7",
       "title": "Getting the most out of your tokenizer for pre-training and domain adaptation",
       "authors": [
@@ -895,7 +1110,7 @@
       "influentialCitationCount": 5,
       "source": "avi-thesis.bib: Getting the most out of your tokenizer for pre-training and domain adaptation",
       "addedAt": "2026-09-12",
-      "score": 19.607843137254903
+      "score": 22
     },
     {
       "id": "de5e7320729f5d3cbb6709eb6329ec41ace8c95d",
@@ -917,7 +1132,7 @@
       "influentialCitationCount": 471,
       "source": "avi-thesis.bib: Gaussian Error Linear Units (GELUs)",
       "addedAt": "2026-09-12",
-      "score": 1.9607843137254901
+      "score": 2
     },
     {
       "id": "57e849d0de13ed5f91d086936296721d4ff75a75",
@@ -951,7 +1166,7 @@
       "influentialCitationCount": 2214,
       "source": "avi-thesis.bib: LLaMA: Open and Efficient Foundation Language Models",
       "addedAt": "2026-09-12",
-      "score": 11.76470588235294
+      "score": 10
     },
     {
       "id": "db633c6b1c286c0386f0078d8a2e6224e03a6227",
@@ -989,7 +1204,7 @@
       "influentialCitationCount": 446,
       "source": "avi-thesis.bib: Mistral 7B",
       "addedAt": "2026-09-12",
-      "score": 5.88235294117647
+      "score": 6
     },
     {
       "id": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
@@ -1040,7 +1255,7 @@
       "influentialCitationCount": 5476,
       "source": "avi-thesis.bib: Language Models are Few-Shot Learners",
       "addedAt": "2026-09-12",
-      "score": 21.568627450980394
+      "score": 16
     },
     {
       "id": "ac45bbf9940512d9d686cf8cd3a95969bc313570",
@@ -1103,7 +1318,7 @@
       "influentialCitationCount": 107,
       "source": "avi-thesis.bib: OLMo: Accelerating the Science of Language Models",
       "addedAt": "2026-09-12",
-      "score": 11.76470588235294
+      "score": 12
     },
     {
       "id": "104b0bb1da562d53cbda87aec79ef6a2827d191a",
@@ -1191,7 +1406,7 @@
       "influentialCitationCount": 2263,
       "source": "avi-thesis.bib: Llama 2: Open Foundation and Fine-Tuned Chat Models",
       "addedAt": "2026-09-12",
-      "score": 13.725490196078432
+      "score": 14.000000000000002
     },
     {
       "id": "8fd47bff451220ce612463dbfb5bff2423fb06ab",
@@ -1219,7 +1434,7 @@
       "influentialCitationCount": 21,
       "source": "avi-thesis.bib: No Language Left Behind: Scaling Human-Centered Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 11.76470588235294
+      "score": 10
     },
     {
       "id": "9237d6efc603465765e80eb5ca1268c2bd7b5c24",
@@ -1245,7 +1460,7 @@
       "influentialCitationCount": 7,
       "source": "avi-thesis.bib: compare-mt: A Tool for Holistic Comparison of Language Generation Systems",
       "addedAt": "2026-09-12",
-      "score": 3.9215686274509802
+      "score": 2
     },
     {
       "id": "285c165c81fc9275955147a892b9a039ec8b1052",
@@ -1266,7 +1481,7 @@
       "influentialCitationCount": 200,
       "source": "avi-thesis.bib: chrF: character n-gram F-score for automatic MT evaluation",
       "addedAt": "2026-09-12",
-      "score": 1.9607843137254901
+      "score": 2
     },
     {
       "id": "1518039b5001f1836565215eb047526b3ac7f462",
@@ -1289,7 +1504,7 @@
       "influentialCitationCount": 1065,
       "source": "avi-thesis.bib: Neural Machine Translation of Rare Words with Subword Units",
       "addedAt": "2026-09-12",
-      "score": 3.9215686274509802
+      "score": 4
     },
     {
       "id": "b4bfadfca9742bb3ee98a0cd322d5ce4e59a3ceb",
@@ -1310,7 +1525,7 @@
       "influentialCitationCount": 378,
       "source": "avi-thesis.bib: A Call for Clarity in Reporting BLEU Scores",
       "addedAt": "2026-09-12",
-      "score": 7.8431372549019605
+      "score": 6
     },
     {
       "id": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
@@ -1332,7 +1547,7 @@
       "influentialCitationCount": 27003,
       "source": "avi-thesis.bib: Adam: A Method for Stochastic Optimization",
       "addedAt": "2026-09-12",
-      "score": 0
+      "score": 2
     },
     {
       "id": "8d188daf721fde8de4877718e96f89ae9d7a1925",
@@ -1371,7 +1586,7 @@
       "influentialCitationCount": 17,
       "source": "avi-thesis.bib: Findings of the 2022 Conference on Machine Translation (WMT22)",
       "addedAt": "2026-09-12",
-      "score": 11.76470588235294
+      "score": 12
     },
     {
       "id": "aa30c3e357c8e0f0eea7c67cd64539d7688a8470",
@@ -1395,41 +1610,7 @@
       "influentialCitationCount": 8,
       "source": "avi-thesis.bib: Many-to-English Machine Translation Tools, Data, and Pretrained Models",
       "addedAt": "2026-09-12",
-      "score": 27.450980392156865
-    },
-    {
-      "id": "d617f51833860dc50d202af7f80be71304b2e994",
-      "title": "Between words and characters: A Brief History of Open-Vocabulary Modeling and Tokenization in NLP",
-      "authors": [
-        "Sabrina J. Mielke",
-        "Zaid Alyafeai",
-        "Elizabeth Salesky",
-        "Colin Raffel",
-        "Manan Dey",
-        "Matthias Gallé",
-        "Arun Raja",
-        "Chenglei Si",
-        "Wilson Y. Lee",
-        "Benoît Sagot",
-        "Samson Tan"
-      ],
-      "year": 2021,
-      "venue": "arXiv.org",
-      "publicationDate": "2021-12-20",
-      "summary": "It is concluded that there is and likely will never be a silver bullet singular solution for all applications and that thinking seriously about tokenization remains important for many applications.",
-      "url": "https://www.semanticscholar.org/paper/d617f51833860dc50d202af7f80be71304b2e994",
-      "doi": null,
-      "arxivId": "2112.10508",
-      "pdf": null,
-      "citationCount": 234,
-      "referenceCount": 200,
-      "influentialCitationCount": 9,
-      "source": "avi-thesis.bib: Between words and characters: A Brief History of Open-Vocabulary Modeling and Tokenization in NLP",
-      "addedAt": "2026-09-12",
-      "aliases": [
-        "avi-thesis.bib: Between words and characters: A brief history of open-vocabulary modeling and tokenization in NLP"
-      ],
-      "score": 47.05882352941176
+      "score": 28.000000000000004
     },
     {
       "id": "28c75ab7f6951f1c2bb349b34abc3204ba8b9498",
@@ -1451,7 +1632,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Toucan: Token-Aware Character Level Language Modeling",
       "addedAt": "2026-09-12",
-      "score": 13.725490196078432
+      "score": 12
     },
     {
       "id": "2c8935ec872eca14636a090e5f6b49bc1c90c30d",
@@ -1476,7 +1657,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: Are Character-level Translations Worth the Wait? Comparing Character- and Subword-level Models for Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 13.725490196078432
+      "score": 14.000000000000002
     },
     {
       "id": "b7bfabf8610f46075e8034032589c9f1baeacea5",
@@ -1544,7 +1725,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: Are discrete units necessary for Spoken Language Modeling?",
       "addedAt": "2026-09-12",
-      "score": 7.8431372549019605
+      "score": 6
     },
     {
       "id": "9c2e4e5ee224c20a45c37244924138b50f3fe603",
@@ -1568,36 +1749,32 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Learning to Look Inside: Augmenting Token-Based Encoders with Character-Level Information",
       "addedAt": "2026-09-12",
-      "score": 23.52941176470588
+      "score": 20
     },
     {
-      "id": "83edcfbb206ddad38a971d605da09390604248ea",
-      "title": "BloombergGPT: A Large Language Model for Finance",
+      "id": "ef4cb88b1635b34af15059567dfdf134f79797aa",
+      "title": "The Wall Street Neophyte: A Zero-Shot Analysis of ChatGPT Over MultiModal Stock Movement Prediction Challenges",
       "authors": [
-        "Shijie Wu",
-        "Ozan Irsoy",
-        "Steven Lu",
-        "Vadim Dabravolski",
-        "Mark Dredze",
-        "Sebastian Gehrmann",
-        "P. Kambadur",
-        "David Stuart Rosenberg",
-        "Gideon Mann"
+        "Qianqian Xie",
+        "Weiguang Han",
+        "Yanzhao Lai",
+        "Min Peng",
+        "Jimin Huang"
       ],
       "year": 2023,
       "venue": "arXiv.org",
-      "publicationDate": "2023-03-30",
-      "summary": "This work presents BloombergGPT, a 50 billion parameter language model that is trained on a wide range of financial data, and constructs a 363 billion token dataset based on Bloomberg's extensive data sources, perhaps the largest domain-specific dataset yet.",
-      "url": "https://www.semanticscholar.org/paper/83edcfbb206ddad38a971d605da09390604248ea",
-      "doi": null,
-      "arxivId": "2303.17564",
-      "pdf": null,
-      "citationCount": 1501,
-      "referenceCount": 138,
-      "influentialCitationCount": 75,
-      "source": "avi-thesis.bib: BloombergGPT: A Large Language Model for Finance",
+      "publicationDate": "2023-04-10",
+      "summary": "It is indicated that ChatGPT is a \"Wall Street Neophyte\" with limited success in predicting stock movements, as it underperforms not only state-of-the-art methods but also traditional methods like linear regression using price features.",
+      "url": "https://www.semanticscholar.org/paper/ef4cb88b1635b34af15059567dfdf134f79797aa",
+      "doi": "10.48550/arXiv.2304.05351",
+      "arxivId": "2304.05351",
+      "pdf": "http://arxiv.org/pdf/2304.05351",
+      "citationCount": 88,
+      "referenceCount": 25,
+      "influentialCitationCount": 1,
+      "source": "avi-thesis.bib: The wall street neophyte: A zero-shot analysis of chatgpt over multimodal stock movement prediction challenges",
       "addedAt": "2026-09-12",
-      "score": 23.52941176470588
+      "score": 2
     },
     {
       "id": "18cad1aa7a3f6e783183a5588e85a9dc3ba6ede6",
@@ -1623,7 +1800,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Enhancing Quantitative Reasoning Skills of Large Language Models through Dimension Perception",
       "addedAt": "2026-09-12",
-      "score": 23.52941176470588
+      "score": 24
     },
     {
       "id": "24f09c1eb5d7b662bd53892f846600c5e0b66a6c",
@@ -1647,7 +1824,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Masked Measurement Prediction: Learning to Jointly Predict Quantities and Units from Textual Context",
       "addedAt": "2026-09-12",
-      "score": 31.372549019607842
+      "score": 32
     },
     {
       "id": "4eb8ac1f091befb9eebb60d5b80fdac5667fd758",
@@ -1669,7 +1846,7 @@
       "influentialCitationCount": 11,
       "source": "avi-thesis.bib: Numeracy for Language Models: Evaluating and Improving their Ability to Predict Numbers",
       "addedAt": "2026-09-12",
-      "score": 33.33333333333333
+      "score": 34
     },
     {
       "id": "c825b92effcf400ab1679071cef8233a5a6a18ba",
@@ -1691,7 +1868,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: How Much is 131 Million Dollars? Putting Numbers in Perspective with Compositional Descriptions",
       "addedAt": "2026-09-12",
-      "score": 9.803921568627452
+      "score": 10
     },
     {
       "id": "7e342021e0a6d2e2dd8f6127fbac4c586f187f48",
@@ -1739,7 +1916,7 @@
       "influentialCitationCount": 2,
       "source": "avi-thesis.bib: How Large Are Lions? Inducing Distributions over Quantitative Attributes",
       "addedAt": "2026-09-12",
-      "score": 19.607843137254903
+      "score": 20
     },
     {
       "id": "41094beddc498680d807e99e07efa41fec5d6724",
@@ -1760,7 +1937,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: How Pre-trained Word Representations Capture Commonsense Physical Comparisons",
       "addedAt": "2026-09-12",
-      "score": 13.725490196078432
+      "score": 14.000000000000002
     },
     {
       "id": "11bb73c6cdec9c5ce579194c26ad74c722e32f95",
@@ -1784,7 +1961,7 @@
       "influentialCitationCount": 7,
       "source": "avi-thesis.bib: Numeracy-600K: Learning Numeracy for Detecting Exaggerated Information in Market Comments",
       "addedAt": "2026-09-12",
-      "score": 13.725490196078432
+      "score": 14.000000000000002
     },
     {
       "id": "a5dde0a71fb0465d33b95496c4bb64914b3d62d9",
@@ -1808,7 +1985,7 @@
       "influentialCitationCount": 6,
       "source": "avi-thesis.bib: Exploring Numeracy in Word Embeddings",
       "addedAt": "2026-09-12",
-      "score": 19.607843137254903
+      "score": 20
     },
     {
       "id": "5f277d2605a272c321615373254097939aae4fac",
@@ -1833,7 +2010,7 @@
       "influentialCitationCount": 3,
       "source": "avi-thesis.bib: ``When Numbers Matter!'': Detecting Sarcasm in Numerical Portions of Text",
       "addedAt": "2026-09-12",
-      "score": 5.88235294117647
+      "score": 6
     },
     {
       "id": "730043364aed106241ef18ab3e3b5e316802a254",
@@ -1858,7 +2035,7 @@
       "influentialCitationCount": 31,
       "source": "avi-thesis.bib: NumNet: Machine Reading Comprehension with Numerical Reasoning",
       "addedAt": "2026-09-12",
-      "score": 21.568627450980394
+      "score": 22
     },
     {
       "id": "72e6b14c081ad3e6a1c295b60e5c834837e6b304",
@@ -1883,7 +2060,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: Towards Question Format Independent Numerical Reasoning: A Set of Prerequisite Tasks",
       "addedAt": "2026-09-12",
-      "score": 31.372549019607842
+      "score": 26
     },
     {
       "id": "dda6fb309f62e2557a071522354d8c2c897a2805",
@@ -1909,7 +2086,7 @@
       "influentialCitationCount": 233,
       "source": "avi-thesis.bib: DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs",
       "addedAt": "2026-09-12",
-      "score": 17.647058823529413
+      "score": 20
     },
     {
       "id": "52fa450740913a6cdcb4d9395b45e203f46cab79",
@@ -1933,7 +2110,7 @@
       "influentialCitationCount": 7,
       "source": "avi-thesis.bib: Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension",
       "addedAt": "2026-09-12",
-      "score": 17.647058823529413
+      "score": 20
     },
     {
       "id": "d0d030ccebd669ed5faeca504091bbe5fff4aefb",
@@ -1956,7 +2133,7 @@
       "influentialCitationCount": 8,
       "source": "avi-thesis.bib: Bootstrapping for Numerical Open IE",
       "addedAt": "2026-09-12",
-      "score": 5.88235294117647
+      "score": 4
     },
     {
       "id": "ea68d467d08252c8f9002512dce6dfae360e5157",
@@ -1981,7 +2158,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: Is a 204 cm Man Tall or Small ? Acquisition of Numerical Common Sense from the Web",
       "addedAt": "2026-09-12",
-      "score": 7.8431372549019605
+      "score": 8
     },
     {
       "id": "36d6c8895bbc755964b8b2136c6fd6087a7af089",
@@ -2007,7 +2184,7 @@
       "influentialCitationCount": 16,
       "source": "avi-thesis.bib: TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions",
       "addedAt": "2026-09-12",
-      "score": 11.76470588235294
+      "score": 12
     },
     {
       "id": "077f8329a7b6fa3b7c877a57b81eb6c18b5f87de",
@@ -2037,61 +2214,31 @@
       "influentialCitationCount": 6084,
       "source": "avi-thesis.bib: RoBERTa: A Robustly Optimized BERT Pretraining Approach",
       "addedAt": "2026-09-12",
-      "score": 19.607843137254903
+      "score": 16
     },
     {
-      "id": "c6850869aa5e78a107c378d2e8bfa39633158c0c",
-      "title": "Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation",
+      "id": "716efab73e1916fdc2a23727b581d200271ed499",
+      "title": "BERT in Negotiations: Early Prediction of Buyer-Seller Negotiation Outcomes",
       "authors": [
-        "Yonghui Wu",
-        "M. Schuster",
-        "Z. Chen",
-        "Quoc V. Le",
-        "Mohammad Norouzi",
-        "Wolfgang Macherey",
-        "M. Krikun",
-        "Yuan Cao",
-        "Qin Gao",
-        "Klaus Macherey",
-        "J. Klingner",
-        "Apurva Shah",
-        "Melvin Johnson",
-        "Xiaobing Liu",
-        "Lukasz Kaiser",
-        "Stephan Gouws",
-        "Yoshikiyo Kato",
-        "Taku Kudo",
-        "H. Kazawa",
-        "K. Stevens",
-        "George Kurian",
-        "Nishant Patil",
-        "Wei Wang",
-        "C. Young",
-        "Jason R. Smith",
-        "Jason Riesa",
-        "Alex Rudnick",
-        "O. Vinyals",
-        "G. Corrado",
-        "Macduff Hughes",
-        "J. Dean"
+        "Kushal Chawla",
+        "Gale M. Lucas",
+        "J. Gratch",
+        "Jonathan May"
       ],
-      "year": 2016,
+      "year": 2020,
       "venue": "arXiv.org",
-      "publicationDate": "2016-09-26",
-      "summary": "GNMT, Google's Neural Machine Translation system, is presented, which attempts to address many of the weaknesses of conventional phrase-based translation systems and provides a good balance between the flexibility of \"character\"-delimited models and the efficiency of \"word\"-delicited models.",
-      "url": "https://www.semanticscholar.org/paper/c6850869aa5e78a107c378d2e8bfa39633158c0c",
+      "publicationDate": "2020-04-06",
+      "summary": "This model is able to predict a negotiation's outcome within 10% for more than 70% of the cases, and suggests that rather than just being a way to realize a negotiation, natural language should be incorporated in the negotiation planning as well.",
+      "url": "https://www.semanticscholar.org/paper/716efab73e1916fdc2a23727b581d200271ed499",
       "doi": null,
-      "arxivId": "1609.08144",
+      "arxivId": "2004.02363",
       "pdf": null,
-      "citationCount": 7384,
-      "referenceCount": 53,
-      "influentialCitationCount": 481,
-      "source": "avi-thesis.bib: Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation",
+      "citationCount": 6,
+      "referenceCount": 15,
+      "influentialCitationCount": 0,
+      "source": "avi-thesis.bib: BERT in Negotiations: Early Prediction of Buyer-Seller Negotiation Outcomes",
       "addedAt": "2026-09-12",
-      "aliases": [
-        "avi-thesis.bib: Google's neural machine translation system: Bridging the gap between human and machine translation"
-      ],
-      "score": 5.88235294117647
+      "score": 4
     },
     {
       "id": "eef7cfe8267954adbb4675576072a1d80ca7a3a8",
@@ -2117,7 +2264,7 @@
       "influentialCitationCount": 114,
       "source": "avi-thesis.bib: MathQA: Towards Interpretable Math Word Problem Solving with Operation-Based Formalisms",
       "addedAt": "2026-09-12",
-      "score": 9.803921568627452
+      "score": 14.000000000000002
     },
     {
       "id": "b8e6e8fd64d71f7c89b1aa9cf1fa073451f6d5e9",
@@ -2140,7 +2287,7 @@
       "influentialCitationCount": 9,
       "source": "avi-thesis.bib: ``Was It Good? It Was Provocative.'' Learning the Meaning of Scalar Adjectives",
       "addedAt": "2026-09-12",
-      "score": 3.9215686274509802
+      "score": 4
     },
     {
       "id": "ef89a1f27d1b1bfd451d4482a6de2dcd3d4a1318",
@@ -2165,7 +2312,41 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Grounding Gradable Adjectives through Crowdsourcing",
       "addedAt": "2026-09-12",
-      "score": 7.8431372549019605
+      "score": 8
+    },
+    {
+      "id": "007bc04c97f9f8bcec0487699e197315418f22e7",
+      "title": "From 'F' to 'A' on the N.Y. Regents Science Exams: An Overview of the Aristo Project",
+      "authors": [
+        "Peter Clark",
+        "Oren Etzioni",
+        "Daniel Khashabi",
+        "Tushar Khot",
+        "Bhavana Dalvi",
+        "Kyle Richardson",
+        "Ashish Sabharwal",
+        "Carissa Schoenick",
+        "Oyvind Tafjord",
+        "Niket Tandon",
+        "Sumithra Bhakthavatsalam",
+        "Dirk Groeneveld",
+        "Michal Guerquin",
+        "Michael Schmitz"
+      ],
+      "year": 2019,
+      "venue": "The AI Magazine",
+      "publicationDate": "2019-09-04",
+      "summary": "Success is reported on the Grade 8 New York Regents Science Exam, where for the first time a system scores more than 90 percent on the exam’s nondiagram, multiple choice (NDMC) questions, demonstrating that modern natural language processing methods can result in mastery on this task.",
+      "url": "https://www.semanticscholar.org/paper/007bc04c97f9f8bcec0487699e197315418f22e7",
+      "doi": "10.1609/aimag.v41i4.5304",
+      "arxivId": "1909.01958",
+      "pdf": "https://ojs.aaai.org/index.php/aimagazine/article/download/5304/14933",
+      "citationCount": 107,
+      "referenceCount": 65,
+      "influentialCitationCount": 13,
+      "source": "avi-thesis.bib: From'F'to'A'on the NY Regents Science Exams: An Overview of the Aristo Project",
+      "addedAt": "2026-09-12",
+      "score": 14.000000000000002
     },
     {
       "id": "df2b0e26d0599ce3e70df8a9da02e51594e0e992",
@@ -2189,7 +2370,7 @@
       "influentialCitationCount": 22916,
       "source": "avi-thesis.bib: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
       "addedAt": "2026-09-12",
-      "score": 11.76470588235294
+      "score": 12
     },
     {
       "id": "0772212420238b48233256a59912f8e6a31cde3d",
@@ -2212,7 +2393,7 @@
       "influentialCitationCount": 5,
       "source": "avi-thesis.bib: NumClaim: Investor's Fine-Grained Claim Detection",
       "addedAt": "2026-09-12",
-      "score": 13.725490196078432
+      "score": 14.000000000000002
     },
     {
       "id": "f37e1b62a767a307c046404ca96bc140b3e68cb5",
@@ -2235,7 +2416,7 @@
       "influentialCitationCount": 4077,
       "source": "avi-thesis.bib: GloVe: Global Vectors for Word Representation",
       "addedAt": "2026-09-12",
-      "score": 1.9607843137254901
+      "score": 2
     },
     {
       "id": "3febb2bed8865945e7fddc99efd791887bb7e14f",
@@ -2262,10 +2443,31 @@
       "influentialCitationCount": 1488,
       "source": "avi-thesis.bib: Deep Contextualized Word Representations",
       "addedAt": "2026-09-12",
-      "aliases": [
-        "avi-thesis.bib: Deep contextualized word representations"
+      "score": 8
+    },
+    {
+      "id": "f6b51c8753a871dc94ff32152c00c01e94f90f09",
+      "title": "Efficient Estimation of Word Representations in Vector Space",
+      "authors": [
+        "Tomas Mikolov",
+        "Kai Chen",
+        "G. Corrado",
+        "J. Dean"
       ],
-      "score": 7.8431372549019605
+      "year": 2013,
+      "venue": "International Conference on Learning Representations",
+      "publicationDate": "2013-01-16",
+      "summary": "Two novel model architectures for computing continuous vector representations of words from very large data sets are proposed and it is shown that these vectors provide state-of-the-art performance on the authors' test set for measuring syntactic and semantic word similarities.",
+      "url": "https://www.semanticscholar.org/paper/f6b51c8753a871dc94ff32152c00c01e94f90f09",
+      "doi": null,
+      "arxivId": "1301.3781",
+      "pdf": null,
+      "citationCount": 35047,
+      "referenceCount": 36,
+      "influentialCitationCount": 4366,
+      "source": "avi-thesis.bib: Efficient estimation of word representations in vector space",
+      "addedAt": "2026-09-12",
+      "score": 0
     },
     {
       "id": "c9f343b492c170c726f607c255ec6c7177dc5800",
@@ -2287,7 +2489,7 @@
       "influentialCitationCount": 9,
       "source": "avi-thesis.bib: Verb Physics: Relative Physical Knowledge of Actions and Objects",
       "addedAt": "2026-09-12",
-      "score": 17.647058823529413
+      "score": 16
     },
     {
       "id": "4c6fe6179c408e1fbb3871af13d1a8e64f766e54",
@@ -2309,7 +2511,7 @@
       "influentialCitationCount": 109,
       "source": "avi-thesis.bib: Solving General Arithmetic Word Problems",
       "addedAt": "2026-09-12",
-      "score": 19.607843137254903
+      "score": 18
     },
     {
       "id": "b9485d1e2c66c3ae452ec4903c2a157caef4d2ed",
@@ -2333,7 +2535,7 @@
       "influentialCitationCount": 13,
       "source": "avi-thesis.bib: Temporal Common Sense Acquisition with Minimal Supervision",
       "addedAt": "2026-09-12",
-      "score": 15.686274509803921
+      "score": 16
     },
     {
       "id": "1eff94b44432a8e6af29288b8234494516579ad3",
@@ -2357,7 +2559,7 @@
       "influentialCitationCount": 14,
       "source": "avi-thesis.bib: EQUATE: A Benchmark Evaluation Framework for Quantitative Reasoning in Natural Language Inference",
       "addedAt": "2026-09-12",
-      "score": 29.411764705882355
+      "score": 24
     },
     {
       "id": "187c25de08261760cf48b4e9dabf308d2f7f15d9",
@@ -2380,7 +2582,7 @@
       "influentialCitationCount": 22,
       "source": "avi-thesis.bib: Reasoning about Quantities in Natural Language",
       "addedAt": "2026-09-12",
-      "score": 21.568627450980394
+      "score": 20
     },
     {
       "id": "da4fc448a81ca207609e78bced9a02a10f75866e",
@@ -2403,7 +2605,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: SemEval-2018 Task 5: Counting Events and Participants in the Long Tail",
       "addedAt": "2026-09-12",
-      "score": 3.9215686274509802
+      "score": 4
     },
     {
       "id": "da6ba9f19581bd7e28bc280c53385a1327eb09dd",
@@ -2427,7 +2629,33 @@
       "influentialCitationCount": 20,
       "source": "avi-thesis.bib: LSTM Networks Can Perform Dynamic Counting",
       "addedAt": "2026-09-12",
-      "score": 3.9215686274509802
+      "score": 4
+    },
+    {
+      "id": "a20712b1b9779ee43ce143a19b3f67f0cacbbf57",
+      "title": "Neural Databases",
+      "authors": [
+        "James Thorne",
+        "Majid Yazdani",
+        "Marzieh Saeidi",
+        "F. Silvestri",
+        "Sebastian Riedel",
+        "A. Halevy"
+      ],
+      "year": 2020,
+      "venue": "arXiv.org",
+      "publicationDate": "2020-10-14",
+      "summary": "This paper describes NeuralDB, a database system with no pre-defined schema, in which updates and queries are given in natural language, and describes an algorithm that learns how to create the appropriate sets of facts to be fed into each of the Neural SPJ operators.",
+      "url": "https://www.semanticscholar.org/paper/a20712b1b9779ee43ce143a19b3f67f0cacbbf57",
+      "doi": null,
+      "arxivId": "2010.06973",
+      "pdf": null,
+      "citationCount": 9,
+      "referenceCount": 57,
+      "influentialCitationCount": 0,
+      "source": "avi-thesis.bib: Neural Databases",
+      "addedAt": "2026-09-12",
+      "score": 14.000000000000002
     },
     {
       "id": "451d4a16e425ecbf38c4b1cca0dcf5d9bec8255c",
@@ -2453,7 +2681,7 @@
       "influentialCitationCount": 1446,
       "source": "avi-thesis.bib: GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
       "addedAt": "2026-09-12",
-      "score": 9.803921568627452
+      "score": 8
     },
     {
       "id": "4d1c856275744c0284312a3a50efb6ca9dc4cd4c",
@@ -2476,7 +2704,29 @@
       "influentialCitationCount": 849,
       "source": "avi-thesis.bib: Know What You Don't Know: Unanswerable Questions for SQuAD",
       "addedAt": "2026-09-12",
-      "score": 3.9215686274509802
+      "score": 4
+    },
+    {
+      "id": "5f5dc5b9a2ba710937e2c413b37b053cd673df02",
+      "title": "Auto-Encoding Variational Bayes",
+      "authors": [
+        "Diederik P. Kingma",
+        "M. Welling"
+      ],
+      "year": 2013,
+      "venue": "International Conference on Learning Representations",
+      "publicationDate": "2013-12-20",
+      "summary": "A stochastic variational inference and learning algorithm that scales to large datasets and, under some mild differentiability conditions, even works in the intractable case is introduced.",
+      "url": "https://www.semanticscholar.org/paper/5f5dc5b9a2ba710937e2c413b37b053cd673df02",
+      "doi": null,
+      "arxivId": "1312.6114",
+      "pdf": null,
+      "citationCount": 17416,
+      "referenceCount": 26,
+      "influentialCitationCount": 3124,
+      "source": "avi-thesis.bib: Auto-encoding variational bayes",
+      "addedAt": "2026-09-12",
+      "score": 0
     },
     {
       "id": "f5309ce8a1ba8e47bb9d01e83094d88ac8d3f3e1",
@@ -2498,7 +2748,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Where's My Head? Definition, Data Set, and Models for Numeric Fused-Head Identification and Resolution",
       "addedAt": "2026-09-12",
-      "score": 19.607843137254903
+      "score": 18
     },
     {
       "id": "ed6262b569c0a62c51d941228c54f34e563af022",
@@ -2520,7 +2770,7 @@
       "influentialCitationCount": 61,
       "source": "avi-thesis.bib: Japanese and Korean voice search",
       "addedAt": "2026-09-12",
-      "score": 25.49019607843137
+      "score": 24
     },
     {
       "id": "016760dc4a05489ddf5dbb48aecbb49e214e1b71",
@@ -2544,7 +2794,80 @@
       "influentialCitationCount": 12,
       "source": "avi-thesis.bib: Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-Trained Language Models",
       "addedAt": "2026-09-12",
-      "score": 23.52941176470588
+      "score": 24
+    },
+    {
+      "id": "2cc3ab9fa41ba2804e301f7eae9598636e62422a",
+      "title": "Investigating the Limitations of Transformers with Simple Arithmetic Tasks",
+      "authors": [
+        "Rodrigo Nogueira",
+        "Zhiying Jiang",
+        "Jimmy J. Li"
+      ],
+      "year": 2021,
+      "venue": null,
+      "publicationDate": "2021-02-25",
+      "summary": "It is found that how a number is represented in its surface form has a strong influence on the model's accuracy, and this result bolsters evidence that subword tokenizers and positional encodings are components in current transformer designs that might need improvement.",
+      "url": "https://www.semanticscholar.org/paper/2cc3ab9fa41ba2804e301f7eae9598636e62422a",
+      "doi": null,
+      "arxivId": "2102.13019",
+      "pdf": null,
+      "citationCount": 165,
+      "referenceCount": 49,
+      "influentialCitationCount": 15,
+      "source": "avi-thesis.bib: Investigating the Limitations of the Transformers with Simple Arithmetic Tasks",
+      "addedAt": "2026-09-12",
+      "score": 30
+    },
+    {
+      "id": "57d1e7ac339e783898f2c3b1af55737cbeee9fc5",
+      "title": "Measuring Mathematical Problem Solving With the MATH Dataset",
+      "authors": [
+        "Dan Hendrycks",
+        "Collin Burns",
+        "Saurav Kadavath",
+        "Akul Arora",
+        "Steven Basart",
+        "Eric Tang",
+        "D. Song",
+        "J. Steinhardt"
+      ],
+      "year": 2021,
+      "venue": "NeurIPS Datasets and Benchmarks",
+      "publicationDate": "2021-03-05",
+      "summary": "This work introduces MATH, a new dataset of 12,500 challenging competition mathematics problems which can be used to teach models to generate answer derivations and explanations and shows that accuracy remains relatively low, even with enormous Transformer models.",
+      "url": "https://www.semanticscholar.org/paper/57d1e7ac339e783898f2c3b1af55737cbeee9fc5",
+      "doi": null,
+      "arxivId": "2103.03874",
+      "pdf": null,
+      "citationCount": 6384,
+      "referenceCount": 71,
+      "influentialCitationCount": 1446,
+      "source": "avi-thesis.bib: Measuring Mathematical Problem Solving With the MATH Dataset",
+      "addedAt": "2026-09-12",
+      "score": 6
+    },
+    {
+      "id": "63e39cdf1ad884da6bc69096bb3413b5b1100559",
+      "title": "Using the Output Embedding to Improve Language Models",
+      "authors": [
+        "Ofir Press",
+        "Lior Wolf"
+      ],
+      "year": 2016,
+      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
+      "publicationDate": "2016-08-20",
+      "summary": "The topmost weight matrix of neural network language models is studied and it is shown that this matrix constitutes a valid word embedding and a new method of regularizing the output embedding is offered.",
+      "url": "https://www.semanticscholar.org/paper/63e39cdf1ad884da6bc69096bb3413b5b1100559",
+      "doi": "10.18653/V1/E17-2025",
+      "arxivId": "1608.05859",
+      "pdf": "https://www.aclweb.org/anthology/E17-2025.pdf",
+      "citationCount": 846,
+      "referenceCount": 45,
+      "influentialCitationCount": 36,
+      "source": "avi-thesis.bib: Using the output embedding to improve language models",
+      "addedAt": "2026-09-12",
+      "score": 14.000000000000002
     },
     {
       "id": "13c4e5a6122f3fa2663f63e49537091da6532f35",
@@ -2567,7 +2890,32 @@
       "influentialCitationCount": 274,
       "source": "avi-thesis.bib: Are NLP Models really able to Solve Simple Math Word Problems?",
       "addedAt": "2026-09-12",
-      "score": 5.88235294117647
+      "score": 4
+    },
+    {
+      "id": "2c871df72c52b58f05447fcb3afc838168d94505",
+      "title": "Knowledge Neurons in Pretrained Transformers",
+      "authors": [
+        "Damai Dai",
+        "Li Dong",
+        "Y. Hao",
+        "Zhifang Sui",
+        "Furu Wei"
+      ],
+      "year": 2021,
+      "venue": "Annual Meeting of the Association for Computational Linguistics",
+      "publicationDate": "2021-04-18",
+      "summary": "This paper examines the fill-in-the-blank cloze task for BERT and proposes a knowledge attribution method to identify the neurons that express the fact, finding that the activation of such knowledge neurons is positively correlated to the expression of their corresponding facts.",
+      "url": "https://www.semanticscholar.org/paper/2c871df72c52b58f05447fcb3afc838168d94505",
+      "doi": "10.18653/v1/2022.acl-long.581",
+      "arxivId": "2104.08696",
+      "pdf": "https://aclanthology.org/2022.acl-long.581.pdf",
+      "citationCount": 752,
+      "referenceCount": 38,
+      "influentialCitationCount": 75,
+      "source": "avi-thesis.bib: Knowledge neurons in pretrained transformers",
+      "addedAt": "2026-09-12",
+      "score": 10
     },
     {
       "id": "4a54d58a4b20e4f3af25cea3c188a12082a95e02",
@@ -2591,7 +2939,7 @@
       "influentialCitationCount": 134,
       "source": "avi-thesis.bib: Transformer Feed-Forward Layers Are Key-Value Memories",
       "addedAt": "2026-09-12",
-      "score": 7.8431372549019605
+      "score": 6
     },
     {
       "id": "ff156cfff059005318bcfabe6d4d74814d062893",
@@ -2612,7 +2960,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: On the number of k-skip-n-grams",
       "addedAt": "2026-09-12",
-      "score": 1.9607843137254901
+      "score": 2
     },
     {
       "id": "3c8f280d4e5a1cc4b978ee510252f5bbb2f6baf7",
@@ -2638,7 +2986,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: A Generalized Language Model as the Combination of Skipped n-grams and Modified Kneser Ney Smoothing",
       "addedAt": "2026-09-12",
-      "score": 1.9607843137254901
+      "score": 2
     },
     {
       "id": "0db6eb46ca9941660acc775e3ca39bf4434c18be",
@@ -2659,7 +3007,7 @@
       "influentialCitationCount": 289,
       "source": "avi-thesis.bib: Hierarchical Phrase-Based Translation",
       "addedAt": "2026-09-12",
-      "score": 1.9607843137254901
+      "score": 2
     },
     {
       "id": "31100d7f8fdd3d263238624a888dab0f7aba3d5a",
@@ -2681,7 +3029,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: Adaptor Grammars for Learning Non-Concatenative Morphology",
       "addedAt": "2026-09-12",
-      "score": 3.9215686274509802
+      "score": 4
     },
     {
       "id": "b8375d7d333f2789dd743150fc1daaba3a2ba521",
@@ -2703,7 +3051,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Learning to Generate Word- and Phrase-Embeddings for Efficient Phrase-Based Neural Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 13.725490196078432
+      "score": 12
     },
     {
       "id": "48925fef94500cf19ee220ed74217816f1ab5e60",
@@ -2728,7 +3076,7 @@
       "influentialCitationCount": 127,
       "source": "avi-thesis.bib: Phrase-Based \\& Neural Unsupervised Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 17.647058823529413
+      "score": 18
     },
     {
       "id": "9af39292b9407888b98df2c697d92be229be9a07",
@@ -2752,7 +3100,7 @@
       "influentialCitationCount": 3,
       "source": "avi-thesis.bib: Translating Phrases in Neural Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 9.803921568627452
+      "score": 10
     },
     {
       "id": "b5246fa284f86b544a7c31f050b3bd0defd053fd",
@@ -2774,7 +3122,7 @@
       "influentialCitationCount": 273,
       "source": "avi-thesis.bib: SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing",
       "addedAt": "2026-09-12",
-      "score": 9.803921568627452
+      "score": 8
     },
     {
       "id": "5e788c833321b12671206b96a438c0e5b1202027",
@@ -2796,7 +3144,7 @@
       "influentialCitationCount": 10,
       "source": "avi-thesis.bib: Finding the Optimal Vocabulary Size for Neural Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 21.568627450980394
+      "score": 22
     },
     {
       "id": "5849552213363da6c309999f937710778fb749f6",
@@ -2852,7 +3200,7 @@
       "influentialCitationCount": 899,
       "source": "avi-thesis.bib: Moses: Open Source Toolkit for Statistical Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 3.9215686274509802
+      "score": 4
     },
     {
       "id": "25c0e5ad89b77ae9c7ff91765ebd4e1e21abdcb3",
@@ -2875,7 +3223,7 @@
       "influentialCitationCount": 27,
       "source": "avi-thesis.bib: The IIT Bombay English-Hindi Parallel Corpus",
       "addedAt": "2026-09-12",
-      "score": 11.76470588235294
+      "score": 12
     },
     {
       "id": "ea3e18c7b10a137d495054682c055a80b5be768c",
@@ -2910,79 +3258,7 @@
       "influentialCitationCount": 49,
       "source": "avi-thesis.bib: Findings of the 2019 Conference on Machine Translation (WMT19)",
       "addedAt": "2026-09-12",
-      "score": 17.647058823529413
-    },
-    {
-      "id": "d26c55bee1ac6856a20862b0f7b4ff38fa39af50",
-      "title": "Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models",
-      "authors": [
-        "Alejandro Lopez-Lira",
-        "Yuehua Tang"
-      ],
-      "year": 2023,
-      "venue": "Social Science Research Network",
-      "publicationDate": "2023-04-15",
-      "summary": "The capability of large language models like ChatGPT to predict stock market reactions from news headlines without direct financial training is document, and a theoretical model is developed that incorporates LLM technology, information-processing capacity constraints, underreaction, and limits to arbitrage.",
-      "url": "https://www.semanticscholar.org/paper/d26c55bee1ac6856a20862b0f7b4ff38fa39af50",
-      "doi": "10.2139/ssrn.4412788",
-      "arxivId": "2304.07619",
-      "pdf": "http://arxiv.org/pdf/2304.07619",
-      "citationCount": 395,
-      "referenceCount": 79,
-      "influentialCitationCount": 23,
-      "source": "avi-thesis.bib: Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models",
-      "addedAt": "2026-09-12",
-      "score": 11.76470588235294
-    },
-    {
-      "id": "ef4cb88b1635b34af15059567dfdf134f79797aa",
-      "title": "The Wall Street Neophyte: A Zero-Shot Analysis of ChatGPT Over MultiModal Stock Movement Prediction Challenges",
-      "authors": [
-        "Qianqian Xie",
-        "Weiguang Han",
-        "Yanzhao Lai",
-        "Min Peng",
-        "Jimin Huang"
-      ],
-      "year": 2023,
-      "venue": "arXiv.org",
-      "publicationDate": "2023-04-10",
-      "summary": "It is indicated that ChatGPT is a \"Wall Street Neophyte\" with limited success in predicting stock movements, as it underperforms not only state-of-the-art methods but also traditional methods like linear regression using price features.",
-      "url": "https://www.semanticscholar.org/paper/ef4cb88b1635b34af15059567dfdf134f79797aa",
-      "doi": "10.48550/arXiv.2304.05351",
-      "arxivId": "2304.05351",
-      "pdf": "http://arxiv.org/pdf/2304.05351",
-      "citationCount": 88,
-      "referenceCount": 25,
-      "influentialCitationCount": 1,
-      "source": "avi-thesis.bib: The Wall Street Neophyte: A Zero-Shot Analysis of ChatGPT Over MultiModal Stock Movement Prediction Challenges",
-      "addedAt": "2026-09-12",
-      "aliases": [
-        "avi-thesis.bib: The wall street neophyte: A zero-shot analysis of chatgpt over multimodal stock movement prediction challenges"
-      ],
-      "score": 5.88235294117647
-    },
-    {
-      "id": "f3fded0fc942e615dd0aef1fe8bd4836327a7518",
-      "title": "Can Chatgpt Improve Investment Decision? From a Portfolio Management Perspective",
-      "authors": [
-        "Hyungjin Ko",
-        "Jaewook Lee"
-      ],
-      "year": 2023,
-      "venue": "Social Science Research Network",
-      "publicationDate": null,
-      "summary": "",
-      "url": "https://www.semanticscholar.org/paper/f3fded0fc942e615dd0aef1fe8bd4836327a7518",
-      "doi": "10.2139/ssrn.4390529",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 26,
-      "referenceCount": 0,
-      "influentialCitationCount": 0,
-      "source": "avi-thesis.bib: Can Chatgpt Improve Investment Decision? From a Portfolio Management Perspective",
-      "addedAt": "2026-09-12",
-      "score": 1.9607843137254901
+      "score": 16
     },
     {
       "id": "e2dba792360873aef125572812f3673b1a85d850",
@@ -3006,27 +3282,126 @@
       "influentialCitationCount": 1072,
       "source": "avi-thesis.bib: Enriching word vectors with subword information",
       "addedAt": "2026-09-12",
-      "score": 3.9215686274509802
+      "score": 4
     },
     {
-      "id": "cd18800a0fe0b668a1cc19f2ec95b5003d0a5035",
-      "title": "Improving Language Understanding by Generative Pre-Training",
+      "id": "e6b73466bab5e52ce0db19dd06d9353c26557dae",
+      "title": "CodeBPE: Investigating Subtokenization Options for Large Language Model Pretraining on Source Code",
       "authors": [
-        "Alec Radford",
-        "Karthik Narasimhan"
+        "Nadezhda Chirkova",
+        "Sergey Troshin"
       ],
-      "year": 2018,
-      "venue": null,
+      "year": 2023,
+      "venue": "International Conference on Learning Representations",
+      "publicationDate": "2023-08-01",
+      "summary": "This work proposes subtokenziation that reduces average length by 17% without downstream performance drop, and shows that a carefully chosen subtokenization may improve quality by 0.5-2%, possibly with some length increase.",
+      "url": "https://www.semanticscholar.org/paper/e6b73466bab5e52ce0db19dd06d9353c26557dae",
+      "doi": "10.48550/arXiv.2308.00683",
+      "arxivId": "2308.00683",
+      "pdf": "https://arxiv.org/pdf/2308.00683",
+      "citationCount": 10,
+      "referenceCount": 48,
+      "influentialCitationCount": 0,
+      "source": "avi-thesis.bib: CodeBPE: Investigating Subtokenization Options for Large Language Model Pretraining on Source Code",
+      "addedAt": "2026-09-12",
+      "score": 24
+    },
+    {
+      "id": "694b3c58712deefb59502847ba1b52b192c413e5",
+      "title": "Europarl: A Parallel Corpus for Statistical Machine Translation",
+      "authors": [
+        "Philipp Koehn"
+      ],
+      "year": 2005,
+      "venue": "Machine Translation Summit",
       "publicationDate": null,
-      "summary": "The general task-agnostic model outperforms discriminatively trained models that use architectures speciﬁcally crafted for each task, improving upon the state of the art in 9 out of the 12 tasks studied.",
-      "url": "https://www.semanticscholar.org/paper/cd18800a0fe0b668a1cc19f2ec95b5003d0a5035",
+      "summary": "A corpus of parallel text in 11 languages from the proceedings of the European Parliament is collected and its acquisition and application as training data for statistical machine translation (SMT) is focused on.",
+      "url": "https://www.semanticscholar.org/paper/694b3c58712deefb59502847ba1b52b192c413e5",
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 15305,
-      "referenceCount": 73,
-      "influentialCitationCount": 1381,
-      "source": "avi-thesis.bib: Improving language understanding by generative pre-training",
+      "citationCount": 4084,
+      "referenceCount": 13,
+      "influentialCitationCount": 530,
+      "source": "avi-thesis.bib: Europarl: A parallel corpus for statistical machine translation",
+      "addedAt": "2026-09-12",
+      "score": 2
+    },
+    {
+      "id": "a401510c434b2274b299e9444085df0b18808aaa",
+      "title": "Learn Your Tokens: Word-Pooled Tokenization for Language Modeling",
+      "authors": [
+        "Avijit Thawani",
+        "Saurabh Ghanekar",
+        "Xiaoyuan Zhu",
+        "Jay Pujara"
+      ],
+      "year": 2023,
+      "venue": "Conference on Empirical Methods in Natural Language Processing",
+      "publicationDate": "2023-10-17",
+      "summary": "This paper considers an alternative 'learn your tokens' scheme which utilizes the word boundary to pool bytes/characters into word representations, which are fed to the primary language model, before again decoding individual characters/bytes per word in parallel.",
+      "url": "https://www.semanticscholar.org/paper/a401510c434b2274b299e9444085df0b18808aaa",
+      "doi": "10.48550/arXiv.2310.11628",
+      "arxivId": "2310.11628",
+      "pdf": null,
+      "citationCount": 13,
+      "referenceCount": 34,
+      "influentialCitationCount": 1,
+      "source": "avi-thesis.bib: Learn Your Tokens: Word-Pooled Tokenization for Language Modeling",
+      "addedAt": "2026-09-12",
+      "score": 50
+    },
+    {
+      "id": "a1aeb5442e31276b197696f49b3243112a4049ce",
+      "title": "Making the Most of Text Semantics to Improve Biomedical Vision-Language Processing",
+      "authors": [
+        "Benedikt Boecking",
+        "N. Usuyama",
+        "Shruthi Bannur",
+        "Daniel Coelho de Castro",
+        "A. Schwaighofer",
+        "Stephanie L. Hyland",
+        "M. Wetscherek",
+        "Tristan Naumann",
+        "A. Nori",
+        "J. Alvarez-Valle",
+        "Hoifung Poon",
+        "O. Oktay"
+      ],
+      "year": 2022,
+      "venue": "European Conference on Computer Vision",
+      "publicationDate": "2022-04-21",
+      "summary": "It is shown that principled textual semantic modelling can substantially improve contrastive learning in self-supervised vision--language processing and is proposed as a self- supervised joint vision-- language approach with a focus on better text modelling.",
+      "url": "https://www.semanticscholar.org/paper/a1aeb5442e31276b197696f49b3243112a4049ce",
+      "doi": "10.1007/978-3-031-20059-5_1",
+      "arxivId": "2204.09817",
+      "pdf": null,
+      "citationCount": 529,
+      "referenceCount": 92,
+      "influentialCitationCount": 78,
+      "source": "avi-thesis.bib: Making the most of text semantics to improve biomedical vision--language processing",
+      "addedAt": "2026-09-12",
+      "score": 8
+    },
+    {
+      "id": "f652e8af69fc13a74c54ff332223827822a12339",
+      "title": "Scalable training of L1-regularized log-linear models",
+      "authors": [
+        "Galen Andrew",
+        "Jianfeng Gao"
+      ],
+      "year": 2007,
+      "venue": "International Conference on Machine Learning",
+      "publicationDate": "2007-06-20",
+      "summary": "This work presents an algorithm Orthant-Wise Limited-memory Quasi-Newton (OWL-QN), based on L-BFGS, that can efficiently optimize the L1-regularized log-likelihood of log-linear models with millions of parameters.",
+      "url": "https://www.semanticscholar.org/paper/f652e8af69fc13a74c54ff332223827822a12339",
+      "doi": "10.1145/1273496.1273501",
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 669,
+      "referenceCount": 19,
+      "influentialCitationCount": 62,
+      "source": "avi-thesis.bib: Scalable training of L1-regularized log-linear models",
       "addedAt": "2026-09-12",
       "score": 0
     },
@@ -3058,212 +3433,7 @@
       "influentialCitationCount": 20,
       "source": "avi-thesis.bib: Charformer: Fast Character Transformers via Gradient-based Subword Tokenization",
       "addedAt": "2026-09-12",
-      "score": 45.09803921568628
-    },
-    {
-      "id": "7da82508a76698f93e733d7a13d9fb13dbafba3e",
-      "title": "SHUOWEN-JIEZI: Linguistically Informed Tokenizers For Chinese Language Model Pretraining",
-      "authors": [
-        "Chenglei Si",
-        "Zhengyan Zhang",
-        "Yingfa Chen",
-        "Fanchao Qi",
-        "Xiaozhi Wang",
-        "Zhiyuan Liu",
-        "Maosong Sun"
-      ],
-      "year": 2021,
-      "venue": "arXiv.org",
-      "publicationDate": null,
-      "summary": "It is found that S HUO W EN and J IE Z I tokenizers can generally outperform conventional single-character tokenizers, while Chinese word segmentation shows no beneﬁt as a pre-processing step.",
-      "url": "https://www.semanticscholar.org/paper/7da82508a76698f93e733d7a13d9fb13dbafba3e",
-      "doi": null,
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 10,
-      "referenceCount": 40,
-      "influentialCitationCount": 1,
-      "source": "avi-thesis.bib: SHUOWEN-JIEZI: Linguistically informed tokenizers for Chinese language model pretraining",
-      "addedAt": "2026-09-12",
-      "score": 3.9215686274509802
-    },
-    {
-      "id": "9d848d5c278b8765767814a7e4b3021abd64704d",
-      "title": "The Composition and Use of the Universal Morphological Feature Schema (UniMorph Schema)",
-      "authors": [
-        "John Sylak-Glassman"
-      ],
-      "year": 2016,
-      "venue": null,
-      "publicationDate": null,
-      "summary": "",
-      "url": "https://www.semanticscholar.org/paper/9d848d5c278b8765767814a7e4b3021abd64704d",
-      "doi": null,
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 75,
-      "referenceCount": 102,
-      "influentialCitationCount": 6,
-      "source": "avi-thesis.bib: The Composition and Use of the Universal Morphological Feature Schema (UniMorph Schema)",
-      "addedAt": "2026-09-12",
-      "score": 0
-    },
-    {
-      "id": "40dbb25a15b63af3faccb81c8e64a3f5d659e07e",
-      "title": "The Theory of Parsing, Translation, and Compiling",
-      "authors": [
-        "A. Aho",
-        "J. Ullman"
-      ],
-      "year": 1972,
-      "venue": null,
-      "publicationDate": null,
-      "summary": "It is the hope that the algorithms and concepts presented in this book will survive the next generation of computers and programming languages, and that at least some of them will be applicable to fields other than compiler writing.",
-      "url": "https://www.semanticscholar.org/paper/40dbb25a15b63af3faccb81c8e64a3f5d659e07e",
-      "doi": null,
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 2040,
-      "referenceCount": 0,
-      "influentialCitationCount": 141,
-      "source": "avi-thesis.bib: The Theory of Parsing, Translation and Compiling",
-      "addedAt": "2026-09-12",
-      "score": 0
-    },
-    {
-      "id": "f652e8af69fc13a74c54ff332223827822a12339",
-      "title": "Scalable training of L1-regularized log-linear models",
-      "authors": [
-        "Galen Andrew",
-        "Jianfeng Gao"
-      ],
-      "year": 2007,
-      "venue": "International Conference on Machine Learning",
-      "publicationDate": "2007-06-20",
-      "summary": "This work presents an algorithm Orthant-Wise Limited-memory Quasi-Newton (OWL-QN), based on L-BFGS, that can efficiently optimize the L1-regularized log-likelihood of log-linear models with millions of parameters.",
-      "url": "https://www.semanticscholar.org/paper/f652e8af69fc13a74c54ff332223827822a12339",
-      "doi": "10.1145/1273496.1273501",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 669,
-      "referenceCount": 19,
-      "influentialCitationCount": 62,
-      "source": "avi-thesis.bib: Scalable training of L1-regularized log-linear models",
-      "addedAt": "2026-09-12",
-      "score": 0
-    },
-    {
-      "id": "412e266cddfd87c79087a88ba1e4d11b89a45a13",
-      "title": "MEGABYTE: Predicting Million-byte Sequences with Multiscale Transformers",
-      "authors": [
-        "L. Yu",
-        "Daniel Simig",
-        "Colin Flaherty",
-        "Armen Aghajanyan",
-        "Luke Zettlemoyer",
-        "M. Lewis"
-      ],
-      "year": 2023,
-      "venue": "Neural Information Processing Systems",
-      "publicationDate": "2023-05-12",
-      "summary": "Megabyte, a multi-scale decoder architecture that enables end-to-end differentiable modeling of sequences of over one million bytes, is proposed, establishing the viability of tokenization-free autoregressive sequence modeling at scale.",
-      "url": "https://www.semanticscholar.org/paper/412e266cddfd87c79087a88ba1e4d11b89a45a13",
-      "doi": "10.48550/arXiv.2305.07185",
-      "arxivId": "2305.07185",
-      "pdf": "http://arxiv.org/pdf/2305.07185",
-      "citationCount": 187,
-      "referenceCount": 47,
-      "influentialCitationCount": 11,
-      "source": "avi-thesis.bib: Megabyte: Predicting million-byte sequences with multiscale transformers",
-      "addedAt": "2026-09-12",
-      "score": 17.647058823529413
-    },
-    {
-      "id": "e6b73466bab5e52ce0db19dd06d9353c26557dae",
-      "title": "CodeBPE: Investigating Subtokenization Options for Large Language Model Pretraining on Source Code",
-      "authors": [
-        "Nadezhda Chirkova",
-        "Sergey Troshin"
-      ],
-      "year": 2023,
-      "venue": "International Conference on Learning Representations",
-      "publicationDate": "2023-08-01",
-      "summary": "This work proposes subtokenziation that reduces average length by 17% without downstream performance drop, and shows that a carefully chosen subtokenization may improve quality by 0.5-2%, possibly with some length increase.",
-      "url": "https://www.semanticscholar.org/paper/e6b73466bab5e52ce0db19dd06d9353c26557dae",
-      "doi": "10.48550/arXiv.2308.00683",
-      "arxivId": "2308.00683",
-      "pdf": "https://arxiv.org/pdf/2308.00683",
-      "citationCount": 10,
-      "referenceCount": 48,
-      "influentialCitationCount": 0,
-      "source": "avi-thesis.bib: CodeBPE: Investigating Subtokenization Options for Large Language Model Pretraining on Source Code",
-      "addedAt": "2026-09-12",
-      "score": 25.49019607843137
-    },
-    {
-      "id": "9a1a9ae2fc2911f1f275702bef38aa8f79c86986",
-      "title": "What do tokens know about their characters and how do they know it?",
-      "authors": [
-        "Ayush Kaushal",
-        "Kyle Mahowald"
-      ],
-      "year": 2022,
-      "venue": "North American Chapter of the Association for Computational Linguistics",
-      "publicationDate": "2022-06-06",
-      "summary": "The mechanisms through which PLMs acquire English-language character information during training are investigated and it is argued that this knowledge is acquired through multiple phenomena, including a systematic relationship between particular characters and particular parts of speech, as well as natural variability in the tokenization of related strings.",
-      "url": "https://www.semanticscholar.org/paper/9a1a9ae2fc2911f1f275702bef38aa8f79c86986",
-      "doi": "10.48550/arXiv.2206.02608",
-      "arxivId": "2206.02608",
-      "pdf": "http://arxiv.org/pdf/2206.02608",
-      "citationCount": 52,
-      "referenceCount": 83,
-      "influentialCitationCount": 3,
-      "source": "avi-thesis.bib: What do tokens know about their characters and how do they know it?",
-      "addedAt": "2026-09-12",
-      "score": 29.411764705882355
-    },
-    {
-      "id": "fc55a79a1040e540bcf8e2fbc4bd5b837d1c23b5",
-      "title": "Hawkins, Jeff. 2021. A Thousand Brains: A New Theory of Intelligence",
-      "authors": [
-        "A. Vyshedskiy"
-      ],
-      "year": 2022,
-      "venue": "Evolutionary Studies in Imaginative Culture",
-      "publicationDate": "2022-04-01",
-      "summary": "",
-      "url": "https://www.semanticscholar.org/paper/fc55a79a1040e540bcf8e2fbc4bd5b837d1c23b5",
-      "doi": "10.26613/esic.6.1.282",
-      "arxivId": null,
-      "pdf": "https://doi.org/10.26613/esic.6.1.282",
-      "citationCount": 106,
-      "referenceCount": 0,
-      "influentialCitationCount": 19,
-      "source": "avi-thesis.bib: A thousand brains: A new theory of intelligence",
-      "addedAt": "2026-09-12",
-      "score": 0
-    },
-    {
-      "id": "b822553430521146261482508a9fa4e5fbcbe9ae",
-      "title": "Risk Factors That Matter: Textual Analysis of Risk Disclosures for the Cross-Section of Returns",
-      "authors": [
-        "Alejandro Lopez-Lira",
-        "Alejandro Lopez-Lira"
-      ],
-      "year": 2019,
-      "venue": "Social Science Research Network",
-      "publicationDate": "2019-11-01",
-      "summary": "I exploit unsupervised machine learning and natural language processing techniques to elicit the risk factors that firms themselves identify in their annual reports and construct factor mimicking portfolios that proxy for each undiversifiable source of risk.",
-      "url": "https://www.semanticscholar.org/paper/b822553430521146261482508a9fa4e5fbcbe9ae",
-      "doi": "10.2139/SSRN.3313663",
-      "arxivId": null,
-      "pdf": "https://doi.org/10.2139/ssrn.3313663",
-      "citationCount": 35,
-      "referenceCount": 58,
-      "influentialCitationCount": 3,
-      "source": "avi-thesis.bib: Risk factors that matter: Textual analysis of risk disclosures for the cross-section of returns",
-      "addedAt": "2026-09-12",
-      "score": 1.9607843137254901
+      "score": 42
     },
     {
       "id": "d5fcad8a3b183642fcf609519a4dbbda9c3541ff",
@@ -3290,480 +3460,146 @@
       "influentialCitationCount": 5,
       "source": "avi-thesis.bib: Learning Numeral Embeddings",
       "addedAt": "2026-09-12",
-      "score": 19.607843137254903
+      "score": 20
     },
     {
-      "id": "0ee09a9f7c586b703650f9a189668366f619b9e2",
-      "title": "A Fact-aligned Corpus of Numerical Expressions",
+      "id": "91fa08ca6f7d39489d53af1deb87e9f7219f2dba",
+      "title": "The Biber Cognitive Estimation Test.",
       "authors": [
-        "Sandra Williams",
-        "R. Power"
+        "S. Bullard",
+        "D. Fein",
+        "M. Gleeson",
+        "Nita Tischer",
+        "R. L. Mapou",
+        "E. Kaplan"
       ],
-      "year": 2010,
-      "venue": "International Conference on Language Resources and Evaluation",
-      "publicationDate": "2010-05-01",
-      "summary": "A corpus of numerical expressions developed as part of the NUMGEN project is described, showing that when a fact is mentioned more than once in a text, there is a clear tendency for precision to increase from first to subsequent mentions, and for mathematical level either to remain constant or to increase.",
-      "url": "https://www.semanticscholar.org/paper/0ee09a9f7c586b703650f9a189668366f619b9e2",
-      "doi": "10.63317/2ua93xmdk8zw",
+      "year": 2004,
+      "venue": "Archives of Clinical Neuropsychology",
+      "publicationDate": "2004-09-01",
+      "summary": "The Biber Cognitive Estimation Test (BCET), a 20-item test with five estimation questions in each of four categories: time/duration, quantity, weight, and distance, indicated that the BCET was able to distinguish between demented and intact elderly participants.",
+      "url": "https://www.semanticscholar.org/paper/91fa08ca6f7d39489d53af1deb87e9f7219f2dba",
+      "doi": "10.1016/J.ACN.2003.12.002",
       "arxivId": null,
-      "pdf": "http://www.lrec-conf.org/proceedings/lrec2010/pdf/185_Paper.pdf",
-      "citationCount": 2,
-      "referenceCount": 12,
-      "influentialCitationCount": 0,
-      "source": "avi-thesis.bib: A Fact-aligned Corpus of Numerical Expressions",
+      "pdf": "https://academic.oup.com/acn/article-pdf/19/6/835/9115/19-6-835.pdf",
+      "citationCount": 79,
+      "referenceCount": 19,
+      "influentialCitationCount": 15,
+      "source": "avi-thesis.bib: The Biber cognitive estimation test",
       "addedAt": "2026-09-12",
-      "score": 1.9607843137254901
+      "score": 2
     },
     {
-      "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
-      "title": "Attention is All you Need",
+      "id": "f56fc41eff96afbc64030ce5e97d444706e4997c",
+      "title": "Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge",
       "authors": [
-        "Ashish Vaswani",
-        "Noam Shazeer",
-        "Niki Parmar",
-        "Jakob Uszkoreit",
-        "Llion Jones",
-        "Aidan N. Gomez",
-        "Lukasz Kaiser",
-        "I. Polosukhin"
-      ],
-      "year": 2017,
-      "venue": "Neural Information Processing Systems",
-      "publicationDate": "2017-06-12",
-      "summary": "A new simple network architecture, the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely is proposed, which generalizes well to other tasks by applying it successfully to English constituency parsing both with large and limited training data.",
-      "url": "https://www.semanticscholar.org/paper/204e3073870fae3d05bcbc2f6a8e263d9b72e776",
-      "doi": null,
-      "arxivId": "1706.03762",
-      "pdf": null,
-      "citationCount": 192041,
-      "referenceCount": 41,
-      "influentialCitationCount": 20687,
-      "source": "avi-thesis.bib: Attention is all you need",
-      "addedAt": "2026-09-12",
-      "score": 5.88235294117647
-    },
-    {
-      "id": "f6b51c8753a871dc94ff32152c00c01e94f90f09",
-      "title": "Efficient Estimation of Word Representations in Vector Space",
-      "authors": [
-        "Tomas Mikolov",
-        "Kai Chen",
-        "G. Corrado",
-        "J. Dean"
-      ],
-      "year": 2013,
-      "venue": "International Conference on Learning Representations",
-      "publicationDate": "2013-01-16",
-      "summary": "Two novel model architectures for computing continuous vector representations of words from very large data sets are proposed and it is shown that these vectors provide state-of-the-art performance on the authors' test set for measuring syntactic and semantic word similarities.",
-      "url": "https://www.semanticscholar.org/paper/f6b51c8753a871dc94ff32152c00c01e94f90f09",
-      "doi": null,
-      "arxivId": "1301.3781",
-      "pdf": null,
-      "citationCount": 35047,
-      "referenceCount": 36,
-      "influentialCitationCount": 4366,
-      "source": "avi-thesis.bib: Efficient estimation of word representations in vector space",
-      "addedAt": "2026-09-12",
-      "score": 0
-    },
-    {
-      "id": "51004bc6461a572e1189a0e3b32b441155d760ce",
-      "title": "QuaRel: A Dataset and Models for Answering Questions about Qualitative Relationships",
-      "authors": [
+        "Alon Talmor",
         "Oyvind Tafjord",
         "Peter Clark",
-        "Matt Gardner",
-        "Wen-tau Yih",
-        "Ashish Sabharwal"
-      ],
-      "year": 2018,
-      "venue": "AAAI Conference on Artificial Intelligence",
-      "publicationDate": "2018-11-20",
-      "summary": "This work makes inroads into answering complex, qualitative questions that require reasoning, and scaling to new relationships at low cost, with two novel models for this task built as extensions of type-constrained semantic parsing.",
-      "url": "https://www.semanticscholar.org/paper/51004bc6461a572e1189a0e3b32b441155d760ce",
-      "doi": "10.1609/aaai.v33i01.33017063",
-      "arxivId": "1811.08048",
-      "pdf": "https://doi.org/10.1609/aaai.v33i01.33017063",
-      "citationCount": 85,
-      "referenceCount": 49,
-      "influentialCitationCount": 10,
-      "source": "avi-thesis.bib: Quarel: A dataset and models for answering questions about qualitative relationships",
-      "addedAt": "2026-09-12",
-      "score": 9.803921568627452
-    },
-    {
-      "id": "d9f6ada77448664b71128bb19df15765336974a6",
-      "title": "SuperGLUE: A Stickier Benchmark for General-Purpose Language Understanding Systems",
-      "authors": [
-        "Alex Wang",
-        "Yada Pruksachatkun",
-        "Nikita Nangia",
-        "Amanpreet Singh",
-        "Julian Michael",
-        "Felix Hill",
-        "Omer Levy",
-        "Samuel R. Bowman"
-      ],
-      "year": 2019,
-      "venue": "Neural Information Processing Systems",
-      "publicationDate": "2019-05-02",
-      "summary": "A new benchmark styled after GLUE is presented, a new set of more difficult language understanding tasks, a software toolkit, and a public leaderboard are presented.",
-      "url": "https://www.semanticscholar.org/paper/d9f6ada77448664b71128bb19df15765336974a6",
-      "doi": null,
-      "arxivId": "1905.00537",
-      "pdf": null,
-      "citationCount": 2915,
-      "referenceCount": 86,
-      "influentialCitationCount": 337,
-      "source": "avi-thesis.bib: Superglue: A stickier benchmark for general-purpose language understanding systems",
-      "addedAt": "2026-09-12",
-      "score": 15.686274509803921
-    },
-    {
-      "id": "09437cba3abec8d7befd5358c0049281eb2afd69",
-      "title": "Dataset for Evaluation of Mathematical Reasoning Abilities in Russian",
-      "authors": [
-        "M. Nefedov"
+        "Yoav Goldberg",
+        "Jonathan Berant"
       ],
       "year": 2020,
-      "venue": null,
-      "publicationDate": null,
-      "summary": "",
-      "url": "https://www.semanticscholar.org/paper/09437cba3abec8d7befd5358c0049281eb2afd69",
-      "doi": "10.1007/978-3-030-59082-6_10",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 3,
-      "referenceCount": 18,
-      "influentialCitationCount": 0,
-      "source": "avi-thesis.bib: Dataset for Evaluation of Mathematical Reasoning Abilities in Russian",
-      "addedAt": "2026-09-12",
-      "score": 5.88235294117647
-    },
-    {
-      "id": "251a27e00b9838c8c315f0152cb52762db766aee",
-      "title": "Visual sense of number vs. sense of magnitude in humans and machines",
-      "authors": [
-        "Alberto Testolin",
-        "S. Dolfi",
-        "Mathijs Rochus",
-        "M. Zorzi"
-      ],
-      "year": 2020,
-      "venue": "Scientific Reports",
-      "publicationDate": "2020-06-22",
-      "summary": "Deep neural networks are tested on the same numerosity comparison task that was administered to human participants, using a stimulus space that allows the precise measurement of the contribution of non-numerical features, suggesting that numerosity is a major, salient property of the authors' visual environment.",
-      "url": "https://www.semanticscholar.org/paper/251a27e00b9838c8c315f0152cb52762db766aee",
-      "doi": "10.1038/s41598-020-66838-5",
-      "arxivId": null,
-      "pdf": "https://www.nature.com/articles/s41598-020-66838-5.pdf",
-      "citationCount": 55,
-      "referenceCount": 92,
-      "influentialCitationCount": 3,
-      "source": "avi-thesis.bib: Visual sense of number vs. sense of magnitude in humans and machines",
-      "addedAt": "2026-09-12",
-      "score": 1.9607843137254901
-    },
-    {
-      "id": "6ddc5a5009e6b2a146e103e7d1dac283d3741fa3",
-      "title": "Core systems in human cognition.",
-      "authors": [
-        "Katherine D. Kinzler",
-        "E. Spelke"
-      ],
-      "year": 2007,
-      "venue": "Progress in Brain Research",
-      "publicationDate": null,
-      "summary": "Research on human infants, adult nonhuman primates, and children and adults in diverse cultures provides converging evidence for four systems at the foundations of human knowledge.",
-      "url": "https://www.semanticscholar.org/paper/6ddc5a5009e6b2a146e103e7d1dac283d3741fa3",
-      "doi": "10.1016/S0079-6123(07)64014-X",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 126,
-      "referenceCount": 92,
-      "influentialCitationCount": 2,
-      "source": "avi-thesis.bib: Core systems in human cognition",
-      "addedAt": "2026-09-12",
-      "score": 1.9607843137254901
-    },
-    {
-      "id": "3182aa468641a3aa4f1b26a853aed45a48099853",
-      "title": "EFFECTIVE TEACHERS OF NUMERACY",
-      "authors": [
-        "Mike Askew",
-        "Valerie Rhodes",
-        "M. Brown",
-        "D. Wiliam",
-        "David C. Johnson"
-      ],
-      "year": 1997,
-      "venue": null,
-      "publicationDate": null,
-      "summary": "",
-      "url": "https://www.semanticscholar.org/paper/3182aa468641a3aa4f1b26a853aed45a48099853",
-      "doi": null,
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 383,
-      "referenceCount": 81,
-      "influentialCitationCount": 28,
-      "source": "avi-thesis.bib: Effective teachers of numeracy",
-      "addedAt": "2026-09-12",
-      "score": 1.9607843137254901
-    },
-    {
-      "id": "92c5ed53f7dbe471f2c13ebf5dfb4b9081d2c00b",
-      "title": "Clustering of Self-Organizing Map",
-      "authors": [
-        "Hanene Azzag",
-        "M. Lebbah"
-      ],
-      "year": 2008,
-      "venue": "The European Symposium on Artificial Neural Networks",
-      "publicationDate": null,
-      "summary": "A new similarity measure for a self-organizing map which will be reached using a new approach of hierarchical clustering, composed from two terms: weighted Ward distance and Euclidean distance weighted by neigh- bourhood function.",
-      "url": "https://www.semanticscholar.org/paper/92c5ed53f7dbe471f2c13ebf5dfb4b9081d2c00b",
-      "doi": null,
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 25,
-      "referenceCount": 10,
-      "influentialCitationCount": 0,
-      "source": "avi-thesis.bib: The self-organizing map",
-      "addedAt": "2026-09-12",
-      "score": 0
-    },
-    {
-      "id": "5fc548f3f3112de7eddad3744717dc2f9d22ca38",
-      "title": "Neural Arithmetic Logic Units",
-      "authors": [
-        "Andrew Trask",
-        "Felix Hill",
-        "Scott E. Reed",
-        "Jack W. Rae",
-        "Chris Dyer",
-        "Phil Blunsom"
-      ],
-      "year": 2018,
       "venue": "Neural Information Processing Systems",
-      "publicationDate": "2018-08-01",
-      "summary": "Experiments show that NALU-enhanced neural networks can learn to track time, perform arithmetic over images of numbers, translate numerical language into real-valued scalars, execute computer code, and count objects in images.",
-      "url": "https://www.semanticscholar.org/paper/5fc548f3f3112de7eddad3744717dc2f9d22ca38",
+      "publicationDate": "2020-06-11",
+      "summary": "This work provides a first demonstration that LMs can be trained to reliably perform systematic reasoning combining both implicit, pre-trained knowledge and explicit natural language statements, and demonstrates that models learn to effectively perform inference which involves implicit taxonomic and world knowledge, chaining and counting.",
+      "url": "https://www.semanticscholar.org/paper/f56fc41eff96afbc64030ce5e97d444706e4997c",
       "doi": null,
-      "arxivId": "1808.00508",
+      "arxivId": null,
       "pdf": null,
-      "citationCount": 226,
-      "referenceCount": 33,
-      "influentialCitationCount": 26,
-      "source": "avi-thesis.bib: Neural arithmetic logic units",
+      "citationCount": 118,
+      "referenceCount": 44,
+      "influentialCitationCount": 13,
+      "source": "avi-thesis.bib: Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge",
       "addedAt": "2026-09-12",
-      "score": 9.803921568627452
+      "score": 2
     },
     {
-      "id": "68c03788224000794d5491ab459be0b2a2c38677",
-      "title": "WordNet: A Lexical Database for English",
+      "id": "e7cafbce5945fe8d9ca94df04bd7cb45f68af1ae",
+      "title": "Children's understanding of counting.",
       "authors": [
-        "G. Miller"
+        "K. Wynn"
       ],
-      "year": 1995,
-      "venue": "Human Language Technology - The Baltic Perspectiv",
-      "publicationDate": "1995-11-01",
-      "summary": "WordNet1 provides a more effective combination of traditional lexicographic information and modern computing, and is an online lexical database designed for use under program control.",
-      "url": "https://www.semanticscholar.org/paper/68c03788224000794d5491ab459be0b2a2c38677",
-      "doi": "10.1145/219717.219748",
+      "year": 1990,
+      "venue": "Cognition",
+      "publicationDate": "1990-08-01",
+      "summary": "Children learn the meanings of smaller number words before larger ones within their counting range, up to the number three or four, indicating that children learn the cardinal word principle at roughly 3 1/2 years of age.",
+      "url": "https://www.semanticscholar.org/paper/e7cafbce5945fe8d9ca94df04bd7cb45f68af1ae",
+      "doi": "10.1016/0010-0277(90)90003-3",
       "arxivId": null,
-      "pdf": "https://dl.acm.org/doi/pdf/10.1145/219717.219748",
-      "citationCount": 17717,
+      "pdf": null,
+      "citationCount": 1071,
+      "referenceCount": 29,
+      "influentialCitationCount": 133,
+      "source": "avi-thesis.bib: Children's understanding of counting",
+      "addedAt": "2026-09-12",
+      "score": 2
+    },
+    {
+      "id": "3e5a2bf57350d4ceab87f8262a86ac7be98937af",
+      "title": "Automating Potato Leaf Disease Detection with Lightning-Fast CNNs: Precision using PyTorch Lightning",
+      "authors": [
+        "Arpanpreet Kaur",
+        "Sheifali Gupta"
+      ],
+      "year": 2024,
+      "venue": "2024 5th International Conference on Smart Electronics and Communication (ICOSEC)",
+      "publicationDate": "2024-09-18",
+      "summary": "",
+      "url": "https://www.semanticscholar.org/paper/3e5a2bf57350d4ceab87f8262a86ac7be98937af",
+      "doi": "10.1109/ICOSEC61587.2024.10722623",
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 8,
       "referenceCount": 8,
-      "influentialCitationCount": 2694,
-      "source": "avi-thesis.bib: WordNet: a lexical database for English",
-      "addedAt": "2026-09-12",
-      "score": 0
-    },
-    {
-      "id": "e4d6e26f52cfbf881c0235913538acb26329fa24",
-      "title": "Investigating the Limitations of the Transformers with Simple Arithmetic Tasks",
-      "authors": [
-        "Rodrigo Nogueira",
-        "Zhiying Jiang",
-        "Jimmy Lin"
-      ],
-      "year": 2021,
-      "venue": "arXiv.org",
-      "publicationDate": null,
-      "summary": "It is concluded that modern pretrained language models can easily learn arithmetic from very few examples, as long as they use the proper surface representation, which bolsters evidence that subword tokenizers and positional encodings are components in current transformer designs that might need improvement.",
-      "url": "https://www.semanticscholar.org/paper/e4d6e26f52cfbf881c0235913538acb26329fa24",
-      "doi": null,
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 3,
-      "referenceCount": 45,
       "influentialCitationCount": 0,
-      "source": "avi-thesis.bib: Investigating the Limitations of the Transformers with Simple Arithmetic Tasks",
+      "source": "avi-thesis.bib: PyTorch Lightning",
       "addedAt": "2026-09-12",
       "score": 0
     },
     {
-      "id": "2c871df72c52b58f05447fcb3afc838168d94505",
-      "title": "Knowledge Neurons in Pretrained Transformers",
+      "id": "2c5135a0531bc5ad7dd890f018e67a40529f5bcb",
+      "title": "A Framework for Learning Predictive Structures from Multiple Tasks and Unlabeled Data",
       "authors": [
-        "Damai Dai",
-        "Li Dong",
-        "Y. Hao",
-        "Zhifang Sui",
-        "Furu Wei"
-      ],
-      "year": 2021,
-      "venue": "Annual Meeting of the Association for Computational Linguistics",
-      "publicationDate": "2021-04-18",
-      "summary": "This paper examines the fill-in-the-blank cloze task for BERT and proposes a knowledge attribution method to identify the neurons that express the fact, finding that the activation of such knowledge neurons is positively correlated to the expression of their corresponding facts.",
-      "url": "https://www.semanticscholar.org/paper/2c871df72c52b58f05447fcb3afc838168d94505",
-      "doi": "10.18653/v1/2022.acl-long.581",
-      "arxivId": "2104.08696",
-      "pdf": "https://aclanthology.org/2022.acl-long.581.pdf",
-      "citationCount": 752,
-      "referenceCount": 38,
-      "influentialCitationCount": 75,
-      "source": "avi-thesis.bib: Knowledge neurons in pretrained transformers",
-      "addedAt": "2026-09-12",
-      "score": 11.76470588235294
-    },
-    {
-      "id": "174a9b78350e9561555052bc6901cc44782f4c62",
-      "title": "Estimating Numbers without Regression",
-      "authors": [
-        "Avijit Thawani",
-        "Jay Pujara",
-        "A. Kalyan"
-      ],
-      "year": 2023,
-      "venue": "arXiv.org",
-      "publicationDate": "2023-10-09",
-      "summary": "A carefully designed tokenization scheme is both the simplest to implement and sufficient, with similar performance to the state-of-the-art approach that requires making significant architectural changes, in the context of masked number prediction.",
-      "url": "https://www.semanticscholar.org/paper/174a9b78350e9561555052bc6901cc44782f4c62",
-      "doi": "10.48550/arXiv.2310.06204",
-      "arxivId": "2310.06204",
-      "pdf": "https://arxiv.org/pdf/2310.06204",
-      "citationCount": 2,
-      "referenceCount": 17,
-      "influentialCitationCount": 0,
-      "source": "avi-thesis.bib: Estimating Numbers without Regression",
-      "addedAt": "2026-09-12",
-      "score": 11.76470588235294
-    },
-    {
-      "id": "fbd201207e51f50f14235c5ea864ccccb6425325",
-      "title": "News from OPUS — A collection of multilingual parallel corpora with tools and interfaces",
-      "authors": [
-        "J. Tiedemann"
-      ],
-      "year": 2009,
-      "venue": null,
-      "publicationDate": "2009-10-22",
-      "summary": "This article introduces resources that have recently been added to opus and discusses the alignment of movie subtitles and the conversion of biomedical documents and localization data to a sentence aligned xml format.",
-      "url": "https://www.semanticscholar.org/paper/fbd201207e51f50f14235c5ea864ccccb6425325",
-      "doi": "10.1075/cilt.309.19tie",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 651,
-      "referenceCount": 17,
-      "influentialCitationCount": 64,
-      "source": "avi-thesis.bib: News from OPUS - A Collection of Multilingual Parallel Corpora with Tools and Interfaces",
-      "addedAt": "2026-09-12",
-      "score": 0
-    },
-    {
-      "id": "694b3c58712deefb59502847ba1b52b192c413e5",
-      "title": "Europarl: A Parallel Corpus for Statistical Machine Translation",
-      "authors": [
-        "Philipp Koehn"
+        "R. Ando",
+        "Tong Zhang"
       ],
       "year": 2005,
-      "venue": "Machine Translation Summit",
-      "publicationDate": null,
-      "summary": "A corpus of parallel text in 11 languages from the proceedings of the European Parliament is collected and its acquisition and application as training data for statistical machine translation (SMT) is focused on.",
-      "url": "https://www.semanticscholar.org/paper/694b3c58712deefb59502847ba1b52b192c413e5",
+      "venue": "Journal of machine learning research",
+      "publicationDate": "2005-12-01",
+      "summary": "This paper presents a general framework in which the structural learning problem can be formulated and analyzed theoretically, and relate it to learning with unlabeled data, and algorithms for structural learning will be proposed, and computational issues will be investigated.",
+      "url": "https://www.semanticscholar.org/paper/2c5135a0531bc5ad7dd890f018e67a40529f5bcb",
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 4084,
-      "referenceCount": 13,
-      "influentialCitationCount": 530,
-      "source": "avi-thesis.bib: Europarl: A parallel corpus for statistical machine translation",
+      "citationCount": 1717,
+      "referenceCount": 28,
+      "influentialCitationCount": 132,
+      "source": "avi-thesis.bib: A Framework for Learning Predictive Structures from Multiple Tasks and Unlabeled Data",
       "addedAt": "2026-09-12",
-      "score": 1.9607843137254901
+      "score": 0
     },
     {
-      "id": "a401510c434b2274b299e9444085df0b18808aaa",
-      "title": "Learn Your Tokens: Word-Pooled Tokenization for Language Modeling",
+      "id": "bb0ca906377d84065fe3718aa484dcea383afa20",
+      "title": "On the Usability of Transformers-based Models for a French Question-Answering Task",
       "authors": [
-        "Avijit Thawani",
-        "Saurabh Ghanekar",
-        "Xiaoyuan Zhu",
-        "Jay Pujara"
-      ],
-      "year": 2023,
-      "venue": "Conference on Empirical Methods in Natural Language Processing",
-      "publicationDate": "2023-10-17",
-      "summary": "This paper considers an alternative 'learn your tokens' scheme which utilizes the word boundary to pool bytes/characters into word representations, which are fed to the primary language model, before again decoding individual characters/bytes per word in parallel.",
-      "url": "https://www.semanticscholar.org/paper/a401510c434b2274b299e9444085df0b18808aaa",
-      "doi": "10.48550/arXiv.2310.11628",
-      "arxivId": "2310.11628",
-      "pdf": null,
-      "citationCount": 13,
-      "referenceCount": 34,
-      "influentialCitationCount": 1,
-      "source": "avi-thesis.bib: Learn Your Tokens: Word-Pooled Tokenization for Language Modeling",
-      "addedAt": "2026-09-12",
-      "score": 49.01960784313725
-    },
-    {
-      "id": "0232715f9089e3a2fc002cff6737bb9939805b8d",
-      "title": "Local Byte Fusion for Neural Machine Translation",
-      "authors": [
-        "Makesh Narsimhan Sreedhar",
-        "Xiangpeng Wan",
-        "Yu-Jie Cheng",
-        "Junjie Hu"
+        "Oralie Cattan",
+        "Christophe Servan",
+        "Sophie Rosset"
       ],
       "year": 2022,
-      "venue": "Annual Meeting of the Association for Computational Linguistics",
-      "publicationDate": "2022-05-23",
-      "summary": "A Local Byte Fusion (LOBEF) method for byte-based machine translation—utilizing byte n-gram and word boundaries—to aggregate local semantic information to perform competitive to subword models.",
-      "url": "https://www.semanticscholar.org/paper/0232715f9089e3a2fc002cff6737bb9939805b8d",
-      "doi": "10.48550/arXiv.2205.11490",
-      "arxivId": "2205.11490",
-      "pdf": "http://arxiv.org/pdf/2205.11490",
-      "citationCount": 8,
-      "referenceCount": 45,
-      "influentialCitationCount": 0,
-      "source": "avi-thesis.bib: Local Byte Fusion for Neural Machine Translation",
+      "venue": "Recent Advances in Natural Language Processing",
+      "publicationDate": "2022-07-19",
+      "summary": "A state-of-the-art of the efforts dedicated to the usability of Transformer-based models are established and improvements on the question-answering performances of French language which have few resources are proposed.",
+      "url": "https://www.semanticscholar.org/paper/bb0ca906377d84065fe3718aa484dcea383afa20",
+      "doi": "10.26615/978-954-452-072-4_029",
+      "arxivId": "2207.09150",
+      "pdf": "https://doi.org/10.26615/978-954-452-072-4_029",
+      "citationCount": 16,
+      "referenceCount": 55,
+      "influentialCitationCount": 1,
+      "source": "avi-thesis.bib: On the Usability of Transformers-based models for a French Question-Answering task",
       "addedAt": "2026-09-12",
-      "score": 27.450980392156865
-    },
-    {
-      "id": "c45dd0497ca3e929b48f3255855be2bb1fada469",
-      "title": "Language Combinatorics: A Sentence Pattern Extraction Architecture Based on Combinatorial Explosion",
-      "authors": [
-        "M. Ptaszynski",
-        "Rafal Rzepka",
-        "K. Araki",
-        "Yoshio Momouchi"
-      ],
-      "year": 2011,
-      "venue": null,
-      "publicationDate": "2011-08-05",
-      "summary": "A language independent architecture for extracting from sentences more sophisticated patterns than n-grams is presented, in which a “sentence pattern” is considered as n-element ordered combination of sentence elements.",
-      "url": "https://www.semanticscholar.org/paper/c45dd0497ca3e929b48f3255855be2bb1fada469",
-      "doi": null,
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 27,
-      "referenceCount": 25,
-      "influentialCitationCount": 0,
-      "source": "avi-thesis.bib: Language combinatorics: A sentence pattern extraction architecture based on combinatorial explosion",
-      "addedAt": "2026-09-12",
-      "score": 1.9607843137254901
+      "score": 14.000000000000002
     },
     {
       "id": "openalex:W4224510354",
@@ -3882,6 +3718,32 @@
       "referenceCount": 44,
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Tokenization with Factorized Subword Encoding",
+      "via": "openalex",
+      "addedAt": "2026-09-12",
+      "score": 0
+    },
+    {
+      "id": "openalex:W4286892682",
+      "title": "How Much Coffee Was Consumed During EMNLP 2019? Fermi Problems: A New\\n Reasoning Challenge for AI",
+      "authors": [
+        "Ashwin Kalyan",
+        "Abhinav Kumar",
+        "Arjun Chandrasekaran",
+        "Ashish Sabharwal",
+        "Peter Clark"
+      ],
+      "year": 2021,
+      "venue": "arXiv (Cornell University)",
+      "publicationDate": "2021-10-27",
+      "summary": "",
+      "url": "https://doi.org/10.48550/arxiv.2110.14207",
+      "doi": "10.48550/arxiv.2110.14207",
+      "arxivId": null,
+      "pdf": "https://arxiv.org/pdf/2110.14207",
+      "citationCount": 0,
+      "referenceCount": 0,
+      "influentialCitationCount": 0,
+      "source": "avi-thesis.bib: How much coffee was consumed during EMNLP 2019? fermi problems: A new reasoning challenge for AI",
       "via": "openalex",
       "addedAt": "2026-09-12",
       "score": 0
