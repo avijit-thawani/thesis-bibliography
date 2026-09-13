@@ -124,3 +124,4 @@ avi-thesis.bib: Multiword Expression aware Neural Machine Translation
 avi-thesis.bib: Subword Pooling Makes a Difference
 avi-thesis.bib: Multiword Expression aware Neural Machine Translation
 avi-thesis.bib: \-Masking: Principled masking of correlated spans
+https://arxiv.org/abs/2503.17726    # A Survey on Mathematical Reasoning and Optimization with Large Language Models
