@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T21:41:29.579Z",
+  "updatedAt": "2026-09-13T22:15:45.185Z",
   "core": [
     {
       "id": "5bec0de2e6614427acdbef2a5e9611a293a8c6d8",
@@ -2797,7 +2797,10 @@
       "influentialCitationCount": 12,
       "source": "avi-thesis.bib: Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-Trained Language Models",
       "addedAt": "2026-09-12",
-      "score": 11.940298507462686
+      "score": 11.940298507462686,
+      "aliases": [
+        "avi-thesis.bib: NumerSense: Probing Numerical Commonsense Knowledge of Pre-trained Language Models"
+      ]
     },
     {
       "id": "2cc3ab9fa41ba2804e301f7eae9598636e62422a",
