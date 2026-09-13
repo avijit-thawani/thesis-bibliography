@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T01:20:05.684Z",
+  "updatedAt": "2026-09-13T02:36:32.709Z",
   "recs": [
     {
       "id": "87639a90e0ab573236efeb79cf24efafc2463dcf",
@@ -116,7 +116,9 @@
       "direction": "backward",
       "score": 92.03604071099572,
       "why": "cited by 13 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/4",
+      "prNumber": 4
     },
     {
       "id": "2f2d8f8072e5cc9b296fad551f65f183bdbff7aa",
@@ -145,7 +147,9 @@
       "direction": "backward",
       "score": 91.57421016248996,
       "why": "cited by 12 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/5",
+      "prNumber": 5
     },
     {
       "id": "1c1b9f56f904a4fc8e980c3ccb5aa92b342d856b",
@@ -174,7 +178,9 @@
       "direction": "forward",
       "score": 88.23529411764706,
       "why": "cites 15 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/6",
+      "prNumber": 6
     },
     {
       "id": "fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5",
@@ -201,7 +207,9 @@
       "direction": "backward",
       "score": 84.06620887638722,
       "why": "cited by 21 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/7",
+      "prNumber": 7
     },
     {
       "id": "4658662425f71a711024728db90dce0f40c9f0e6",
@@ -231,7 +239,9 @@
       "direction": "backward",
       "score": 83.32098313736694,
       "why": "cited by 7 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/8",
+      "prNumber": 8
     },
     {
       "id": "b8bc86a1bc281b15ce45e967cbdd045bcf23a952",
@@ -258,7 +268,9 @@
       "direction": "backward",
       "score": 82.71746676458098,
       "why": "cited by 9 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/9",
+      "prNumber": 9
     },
     {
       "id": "234fea0bca0519286edc98b49e94337bac2e2719",
@@ -281,7 +293,9 @@
       "direction": "forward",
       "score": 82.35294117647058,
       "why": "cites 14 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/10",
+      "prNumber": 10
     },
     {
       "id": "a7862e14b4c20cefd6dc4f611f8aa866fabf130b",
@@ -309,7 +323,9 @@
       "direction": "backward",
       "score": 82.13173646371722,
       "why": "cited by 9 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/11",
+      "prNumber": 11
     },
     {
       "id": "b0b0dddb8310e01b9407a21674c2d33a23a6e967",
@@ -335,7 +351,9 @@
       "direction": "backward",
       "score": 78.7726449555038,
       "why": "cited by 8 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/12",
+      "prNumber": 12
     },
     {
       "id": "733b821faeebe49b6efcf5369e3b9902b476529e",
@@ -361,7 +379,9 @@
       "direction": "backward",
       "score": 76.67950128667671,
       "why": "cited by 8 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/13",
+      "prNumber": 13
     },
     {
       "id": "5ee871537ae51e7e2e93d2a70fff5d100649a655",
@@ -396,7 +416,9 @@
       "direction": "forward",
       "score": 76.47058823529412,
       "why": "cites 13 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/14",
+      "prNumber": 14
     },
     {
       "id": "73df3e273452aacfe90f0c4bf22ff24249de0e07",
@@ -421,7 +443,9 @@
       "direction": "forward",
       "score": 76.47058823529412,
       "why": "cites 13 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/15",
+      "prNumber": 15
     },
     {
       "id": "f9f27e0f196e1b76caa44cf11aef7a40ca95b3f0",
@@ -448,7 +472,9 @@
       "direction": "backward",
       "score": 76.40186276237789,
       "why": "cited by 5 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/16",
+      "prNumber": 16
     },
     {
       "id": "678fd7c48efe21434148b4b3482c2b8b3ee618fc",
@@ -475,7 +501,9 @@
       "direction": "backward",
       "score": 75.97482276386638,
       "why": "cited by 8 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/17",
+      "prNumber": 17
     },
     {
       "id": "09437cba3abec8d7befd5358c0049281eb2afd69",
@@ -500,7 +528,9 @@
       "direction": "backward",
       "score": 75.76546474566808,
       "why": "cited by 3 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/18",
+      "prNumber": 18
     },
     {
       "id": "4740ef8dc634864695b5b933f416980b9eb6555b",
@@ -526,7 +556,9 @@
       "direction": "backward",
       "score": 74.13966186671483,
       "why": "cited by 5 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/19",
+      "prNumber": 19
     },
     {
       "id": "efe638a32c6bd9ad24a233784008bfe5b33cfc83",
@@ -557,7 +589,9 @@
       "direction": "backward",
       "score": 72.82632011798694,
       "why": "cited by 6 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/20",
+      "prNumber": 20
     },
     {
       "id": "6471fd1cbc081fb3b7b5b14d6ab9eaaba02b5c17",
@@ -582,7 +616,9 @@
       "direction": "backward",
       "score": 70.68342833280505,
       "why": "cited by 12 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/21",
+      "prNumber": 21
     },
     {
       "id": "2dbec38fe353ab0e495ad09263389dbc9260824d",
@@ -611,7 +647,9 @@
       "direction": "forward",
       "score": 70.58823529411765,
       "why": "cites 12 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/22",
+      "prNumber": 22
     },
     {
       "id": "cd854d3d7a1231b1dfbbfa09a697ac064026be51",
@@ -636,7 +674,9 @@
       "direction": "forward",
       "score": 70.58823529411765,
       "why": "cites 12 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/23",
+      "prNumber": 23
     },
     {
       "id": "5df55d94ab5026ff84ec01871592108fbadbddbe",
