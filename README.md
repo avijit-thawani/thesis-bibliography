@@ -4,7 +4,7 @@
 
 A living survey grown from my thesis bibliography
 
-**173** in Core · **25** Recs · updated 2026-09-13
+**174** in Core · **25** Recs · updated 2026-09-13
 
 ## Core
 
@@ -23,11 +23,11 @@ The papers in this survey.
 | 9 | [BPE beyond Word Boundary: How NOT to use Multi Word Expressions in Neural Machine Translation](https://www.semanticscholar.org/paper/674265c672777b6d10d5455adc58a6cacb0d0cfe)<br><sub>Dipesh Kumar, Avijit Thawani</sub><br><sub>This work observes that naively extending BPE beyond word boundaries results in incoherent tokens which are themselves better represented as individual words, and finds that Pointwise Mutual Information (PMI) instead of frequency finds better MWEs (e.g., New\_York, Statue of Liberty, neither .</sub> | First Workshop on Insights from Negative Results in NLP | 2022 | 6 | 32 |
 | 10 | [Investigating the Limitations of Transformers with Simple Arithmetic Tasks](https://www.semanticscholar.org/paper/2cc3ab9fa41ba2804e301f7eae9598636e62422a)<br><sub>Rodrigo Nogueira, Zhiying Jiang, Jimmy J. Li</sub><br><sub>It is found that how a number is represented in its surface form has a strong influence on the model's accuracy, and this result bolsters evidence that subword tokenizers and positional encodings are components in current transformer designs that might need improvement.</sub> | - | 2021 | 165 | 31 |
 
-[... and 163 more, sorted by score](views/core-by-score.md)
+[... and 164 more, sorted by score](views/core-by-score.md)
 
 ## ✨ Recs
 
-<sub>Found by following the citation graph, not picked by hand. Refreshed daily. To accept one, paste its link into [`import/papers.txt`](import/papers.txt) and commit.</sub>
+<sub>Found by following the citation graph — a deterministic algorithm you can tune, not an LLM. Refreshed daily. Use the **Decide** column to accept or reject one.</sub>
 
 | # | [Paper](views/recs-by-title.md) | Venue | [Year](views/recs-by-year.md) | [Cited by](views/recs-by-citations.md) | Score &#9660; | Why | Decide |
 | ---: | --- | --- | ---: | ---: | ---: | --- | --- |
@@ -37,10 +37,10 @@ The papers in this survey.
 | 4 | [Character-Aware Neural Language Models](https://www.semanticscholar.org/paper/891ce1687e2befddd19f54e4eef1d3f39c8dbaf7)<br><sub>Yoon Kim et al.</sub><br><sub>A simple neural language model that relies only on character-level inputs that is able to encode, from characters only, both semantic and orthographic information and suggests that on many languages, character inputs are sufficient for language modeling.</sub> | AAAI Conference on Artificial Intelligence | 2015 | 1733 | 92 | cited by 13 in Core | [review #4](https://github.com/avijit-thawani/thesis-bibliography/pull/4) |
 | 5 | [Exploring the Limits of Language Modeling](https://www.semanticscholar.org/paper/2f2d8f8072e5cc9b296fad551f65f183bdbff7aa)<br><sub>R. Józefowicz et al.</sub><br><sub>This work explores recent advances in Recurrent Neural Networks for large scale Language Modeling, and extends current models to deal with two key challenges present in this task: corpora and vocabulary sizes, and complex, long term structure of language.</sub> | arXiv.org | 2016 | 1191 | 92 | cited by 12 in Core | [review #5](https://github.com/avijit-thawani/thesis-bibliography/pull/5) |
 | 6 | [Injecting the score of the first-stage retriever as text improves BERT-based re-rankers](https://www.semanticscholar.org/paper/1c1b9f56f904a4fc8e980c3ccb5aa92b342d856b)<br><sub>Arian Askari et al.</sub><br><sub>A novel approach for combining first-stage lexical retrieval models and Transformer-based re-rankers is proposed, which injects the relevance score of the lexical model as a token into the input of the cross-encoder re-ranker.</sub> | Discover Computing | 2024 | 9 | 88 | cites 15 in Core | [review #6](https://github.com/avijit-thawani/thesis-bibliography/pull/6) |
-| 7 | [Neural Machine Translation by Jointly Learning to Align and Translate](https://www.semanticscholar.org/paper/fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5)<br><sub>Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio</sub><br><sub>It is conjecture that the use of a fixed-length vector is a bottleneck in improving the performance of this basic encoder-decoder architecture, and it is proposed to extend this by allowing a model to automatically (soft-)search for parts of a source sentence that are relevant to predicting a target word, without having to form these parts as a hard segment explicitly.</sub> | International Conference on Learning Representations | 2014 | 29982 | 84 | cited by 21 in Core | [review #7](https://github.com/avijit-thawani/thesis-bibliography/pull/7) |
+| 7 | [Neural Machine Translation by Jointly Learning to Align and Translate](https://www.semanticscholar.org/paper/fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5)<br><sub>Dzmitry Bahdanau, Kyunghyun Cho, Yoshua Bengio</sub><br><sub>It is conjecture that the use of a fixed-length vector is a bottleneck in improving the performance of this basic encoder-decoder architecture, and it is proposed to extend this by allowing a model to automatically (soft-)search for parts of a source sentence that are relevant to predicting a target word, without having to form these parts as a hard segment explicitly.</sub> | International Conference on Learning Representations | 2014 | 29984 | 84 | cited by 21 in Core | [review #7](https://github.com/avijit-thawani/thesis-bibliography/pull/7) |
 | 8 | [CharBERT: Character-aware Pre-trained Language Model](https://www.semanticscholar.org/paper/4658662425f71a711024728db90dce0f40c9f0e6)<br><sub>Wentao Ma et al.</sub><br><sub>This paper proposes a character-aware pre-trained language model named CharBERT improving on the previous methods (such as BERT, RoBERTa) and proposes a new pre-training task named NLM (Noisy LM) for unsupervised character representation learning.</sub> | International Conference on Computational Linguistics | 2020 | 129 | 83 | cited by 7 in Core | [review #8](https://github.com/avijit-thawani/thesis-bibliography/pull/8) |
 | 9 | [Fully Character-Level Neural Machine Translation without Explicit Segmentation](https://www.semanticscholar.org/paper/b8bc86a1bc281b15ce45e967cbdd045bcf23a952)<br><sub>Jason Lee, Kyunghyun Cho, Thomas Hofmann</sub><br><sub>A neural machine translation model that maps a source character sequence to a target character sequence without any segmentation is introduced, allowing the model to be trained at a speed comparable to subword-level models while capturing local regularities.</sub> | Transactions of the Association for Computational Linguistics | 2016 | 470 | 83 | cited by 9 in Core | [review #9](https://github.com/avijit-thawani/thesis-bibliography/pull/9) |
-| 10 | [Systematic review and comparative synthesis of cross lingual question answering systems for low resource Indic languages](https://www.semanticscholar.org/paper/234fea0bca0519286edc98b49e94337bac2e2719)<br><sub>Siddesh Savant, Uttam U. Deshpande, Jovi D'Silva</sub><br><sub>A systematic review of 137 shortlisted research articles reveals that the performance of a cross-lingual QA system is structurally influenced by the interaction between linguistic typology, model design, and not exclusively by model scale or architecture.</sub> | Discover Artificial Intelligence | 2026 | 0 | 82 | cites 14 in Core | [review #10](https://github.com/avijit-thawani/thesis-bibliography/pull/10) |
+| 10 | [A Survey on Mathematical Reasoning and Optimization with Large Language Models](https://www.semanticscholar.org/paper/73df3e273452aacfe90f0c4bf22ff24249de0e07)<br><sub>Ali Forootani</sub><br><sub>This survey explores the evolution of mathematical problem-solving in AI, from early statistical learning approaches to modern deep learning and transformer-based methodologies, and the capabilities of pretrained language models and LLMs in performing arithmetic operations, complex reasoning, theorem proving, and structured symbolic computation.</sub> | arXiv.org | 2025 | 21 | 82 | cites 14 in Core | [review #15](https://github.com/avijit-thawani/thesis-bibliography/pull/15) |
 
 [... and 15 more, sorted by score](views/recs-by-score.md)
 
@@ -59,6 +59,8 @@ The papers in this survey.
 ### Want your own living survey?
 
 Click **Use this template**, add your papers, and a daily GitHub Action keeps
-the tables above up to date. No hosting, no API keys. See **[SETUP.md](https://github.com/avijit-thawani/living-survey/blob/main/SETUP.md)**.
+the tables above up to date. Everything lives in your own repo — no website, no
+backend, no database, no API keys — and the Recs come from a citation graph
+algorithm you can tune, not from an LLM. See **[SETUP.md](https://github.com/avijit-thawani/living-survey/blob/main/SETUP.md)**.
 
 <!-- TEMPLATE-FOOTER:END -->

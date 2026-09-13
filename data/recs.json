@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T09:37:09.174Z",
+  "updatedAt": "2026-09-13T19:18:48.878Z",
   "recs": [
     {
       "id": "87639a90e0ab573236efeb79cf24efafc2463dcf",
@@ -198,7 +198,7 @@
       "doi": null,
       "arxivId": "1409.0473",
       "pdf": null,
-      "citationCount": 29982,
+      "citationCount": 29984,
       "referenceCount": 33,
       "influentialCitationCount": 2616,
       "source": null,
@@ -271,6 +271,33 @@
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/9",
       "prNumber": 9
+    },
+    {
+      "id": "73df3e273452aacfe90f0c4bf22ff24249de0e07",
+      "title": "A Survey on Mathematical Reasoning and Optimization with Large Language Models",
+      "authors": [
+        "Ali Forootani"
+      ],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "publicationDate": "2025-03-22",
+      "summary": "This survey explores the evolution of mathematical problem-solving in AI, from early statistical learning approaches to modern deep learning and transformer-based methodologies, and the capabilities of pretrained language models and LLMs in performing arithmetic operations, complex reasoning, theorem proving, and structured symbolic computation.",
+      "url": "https://www.semanticscholar.org/paper/73df3e273452aacfe90f0c4bf22ff24249de0e07",
+      "doi": "10.48550/arXiv.2503.17726",
+      "arxivId": "2503.17726",
+      "pdf": null,
+      "citationCount": 21,
+      "referenceCount": 284,
+      "influentialCitationCount": 1,
+      "source": null,
+      "addedAt": "2026-09-13",
+      "overlap": 14,
+      "direction": "forward",
+      "score": 82.35294117647058,
+      "why": "cites 14 in Core",
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/15",
+      "prNumber": 15
     },
     {
       "id": "234fea0bca0519286edc98b49e94337bac2e2719",
@@ -450,33 +477,6 @@
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/14",
       "prNumber": 14
-    },
-    {
-      "id": "73df3e273452aacfe90f0c4bf22ff24249de0e07",
-      "title": "A Survey on Mathematical Reasoning and Optimization with Large Language Models",
-      "authors": [
-        "Ali Forootani"
-      ],
-      "year": 2025,
-      "venue": "arXiv.org",
-      "publicationDate": "2025-03-22",
-      "summary": "This survey explores the evolution of mathematical problem-solving in AI, from early statistical learning approaches to modern deep learning and transformer-based methodologies, and the capabilities of pretrained language models and LLMs in performing arithmetic operations, complex reasoning, theorem proving, and structured symbolic computation.",
-      "url": "https://www.semanticscholar.org/paper/73df3e273452aacfe90f0c4bf22ff24249de0e07",
-      "doi": "10.48550/arXiv.2503.17726",
-      "arxivId": "2503.17726",
-      "pdf": null,
-      "citationCount": 21,
-      "referenceCount": 284,
-      "influentialCitationCount": 1,
-      "source": null,
-      "addedAt": "2026-09-13",
-      "overlap": 13,
-      "direction": "forward",
-      "score": 76.47058823529412,
-      "why": "cites 13 in Core",
-      "fromReferences": false,
-      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/15",
-      "prNumber": 15
     },
     {
       "id": "f9f27e0f196e1b76caa44cf11aef7a40ca95b3f0",

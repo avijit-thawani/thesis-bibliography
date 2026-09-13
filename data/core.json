@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T09:37:09.174Z",
+  "updatedAt": "2026-09-13T19:18:48.878Z",
   "core": [
     {
       "id": "5bec0de2e6614427acdbef2a5e9611a293a8c6d8",
@@ -618,7 +618,10 @@
       "influentialCitationCount": 481,
       "source": "avi-thesis.bib: Google's neural machine translation system: Bridging the gap between human and machine translation",
       "addedAt": "2026-09-12",
-      "score": 4.615384615384616
+      "score": 4.615384615384616,
+      "aliases": [
+        "avi-thesis.bib: Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation"
+      ]
     },
     {
       "id": "412e266cddfd87c79087a88ba1e4d11b89a45a13",
@@ -675,7 +678,10 @@
       "influentialCitationCount": 9,
       "source": "avi-thesis.bib: Between words and characters: A brief history of open-vocabulary modeling and tokenization in NLP",
       "addedAt": "2026-09-12",
-      "score": 36.92307692307693
+      "score": 36.92307692307693,
+      "aliases": [
+        "avi-thesis.bib: Between words and characters: A Brief History of Open-Vocabulary Modeling and Tokenization in NLP"
+      ]
     },
     {
       "id": "28a5a53dafacebad8a7c47773079caeffb9a5baa",
@@ -751,7 +757,10 @@
       "influentialCitationCount": 51,
       "source": "avi-thesis.bib: Canine: Pre-training an Efficient Tokenization-Free Encoder for Language Representation",
       "addedAt": "2026-09-12",
-      "score": 20
+      "score": 20,
+      "aliases": [
+        "avi-thesis.bib: CANINE: Pre-training an Efficient Tokenization-Free Encoder for Language Representation"
+      ]
     },
     {
       "id": "5dee4ece8ec1725a7d071b74bf60f4f5fd2e78ad",
@@ -780,7 +789,10 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: SHUOWEN-JIEZI: Linguistically informed tokenizers for Chinese language model pretraining",
       "addedAt": "2026-09-12",
-      "score": 16.923076923076923
+      "score": 16.923076923076923,
+      "aliases": [
+        "avi-thesis.bib: Sub-Character Tokenization for Chinese Pretrained Language Models"
+      ]
     },
     {
       "id": "674265c672777b6d10d5455adc58a6cacb0d0cfe",
@@ -1762,7 +1774,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: The wall street neophyte: A zero-shot analysis of chatgpt over multimodal stock movement prediction challenges",
       "addedAt": "2026-09-12",
-      "score": 0
+      "score": 1.5384615384615385
     },
     {
       "id": "18cad1aa7a3f6e783183a5588e85a9dc3ba6ede6",
@@ -2431,7 +2443,10 @@
       "influentialCitationCount": 1488,
       "source": "avi-thesis.bib: Deep Contextualized Word Representations",
       "addedAt": "2026-09-12",
-      "score": 6.153846153846154
+      "score": 6.153846153846154,
+      "aliases": [
+        "avi-thesis.bib: Deep contextualized word representations"
+      ]
     },
     {
       "id": "f6b51c8753a871dc94ff32152c00c01e94f90f09",
@@ -3064,7 +3079,10 @@
       "influentialCitationCount": 127,
       "source": "avi-thesis.bib: Phrase-Based \\& Neural Unsupervised Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 15.384615384615385
+      "score": 15.384615384615385,
+      "aliases": [
+        "avi-thesis.bib: Phrase-Based & Neural Unsupervised Machine Translation"
+      ]
     },
     {
       "id": "9af39292b9407888b98df2c697d92be229be9a07",
@@ -3969,7 +3987,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Can Chatgpt Improve Investment Decision? From a Portfolio Management Perspective",
       "addedAt": "2026-09-12",
-      "score": 0
+      "score": 1.5384615384615385
     },
     {
       "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
@@ -4510,7 +4528,7 @@
       "influentialCitationCount": 3,
       "source": "avi-thesis.bib: Risk factors that matter: Textual analysis of risk disclosures for the cross-section of returns",
       "addedAt": "2026-09-13",
-      "score": 0
+      "score": 1.5384615384615385
     },
     {
       "id": "d86866a805ea8d147da7004730956ef30a82d66b",
@@ -4532,7 +4550,7 @@
       "influentialCitationCount": 2,
       "source": "avi-thesis.bib: Can chatgpt decipher fedspeak",
       "addedAt": "2026-09-13",
-      "score": 0
+      "score": 1.5384615384615385
     },
     {
       "id": "2516b8d7f61da0fac219cf00f488a7d8d3d7d5c7",
@@ -4689,6 +4707,28 @@
       "source": "avi-thesis.bib: WordNet: a lexical database for English",
       "addedAt": "2026-09-13",
       "score": 0
+    },
+    {
+      "id": "d26c55bee1ac6856a20862b0f7b4ff38fa39af50",
+      "title": "Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models",
+      "authors": [
+        "Alejandro Lopez-Lira",
+        "Yuehua Tang"
+      ],
+      "year": 2023,
+      "venue": "Social Science Research Network",
+      "publicationDate": "2023-04-15",
+      "summary": "The capability of large language models like ChatGPT to predict stock market reactions from news headlines without direct financial training is document, and a theoretical model is developed that incorporates LLM technology, information-processing capacity constraints, underreaction, and limits to arbitrage.",
+      "url": "https://www.semanticscholar.org/paper/d26c55bee1ac6856a20862b0f7b4ff38fa39af50",
+      "doi": "10.2139/ssrn.4412788",
+      "arxivId": "2304.07619",
+      "pdf": "http://arxiv.org/pdf/2304.07619",
+      "citationCount": 395,
+      "referenceCount": 79,
+      "influentialCitationCount": 23,
+      "source": "avi-thesis.bib: Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models",
+      "addedAt": "2026-09-13",
+      "score": 12.307692307692308
     }
   ]
 }
