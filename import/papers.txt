@@ -124,3 +124,4 @@ avi-thesis.bib: Multiword Expression aware Neural Machine Translation
 avi-thesis.bib: Subword Pooling Makes a Difference
 avi-thesis.bib: Multiword Expression aware Neural Machine Translation
 avi-thesis.bib: \-Masking: Principled masking of correlated spans
+https://doi.org/10.1007/s10791-024-09435-8    # Injecting the score of the first-stage retriever as text improves BERT-based re-rankers
