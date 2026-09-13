@@ -4,7 +4,7 @@
 
 A living survey grown from my thesis bibliography
 
-**176** in Core · **25** Recs · updated 2026-09-13
+**177** in Core · **25** Recs · updated 2026-09-13
 
 ## Core
 
@@ -23,7 +23,7 @@ The papers in this survey.
 | 9 | [BPE beyond Word Boundary: How NOT to use Multi Word Expressions in Neural Machine Translation](https://www.semanticscholar.org/paper/674265c672777b6d10d5455adc58a6cacb0d0cfe)<br><sub>Dipesh Kumar, Avijit Thawani</sub><br><sub>This work observes that naively extending BPE beyond word boundaries results in incoherent tokens which are themselves better represented as individual words, and finds that Pointwise Mutual Information (PMI) instead of frequency finds better MWEs (e.g., New\_York, Statue of Liberty, neither .</sub> | First Workshop on Insights from Negative Results in NLP | 2022 | 6 | 31 |
 | 10 | [Investigating the Limitations of Transformers with Simple Arithmetic Tasks](https://www.semanticscholar.org/paper/2cc3ab9fa41ba2804e301f7eae9598636e62422a)<br><sub>Rodrigo Nogueira, Zhiying Jiang, Jimmy J. Li</sub><br><sub>It is found that how a number is represented in its surface form has a strong influence on the model's accuracy, and this result bolsters evidence that subword tokenizers and positional encodings are components in current transformer designs that might need improvement.</sub> | - | 2021 | 165 | 30 |
 
-[... and 166 more, sorted by score](views/core-by-score.md)
+[... and 167 more, sorted by score](views/core-by-score.md)
 
 ## ✨ Recs
 

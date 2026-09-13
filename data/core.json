@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T19:39:10.838Z",
+  "updatedAt": "2026-09-13T21:41:29.579Z",
   "core": [
     {
       "id": "5bec0de2e6614427acdbef2a5e9611a293a8c6d8",
@@ -954,7 +954,7 @@
       "influentialCitationCount": 3,
       "source": "avi-thesis.bib: Numeracy enhances the Literacy of Language Models",
       "addedAt": "2026-09-12",
-      "score": 25.37313432835821
+      "score": 26.865671641791046
     },
     {
       "id": "2dee21f5605054a5d4ede63aca0bf75f9a28e55e",
@@ -4775,6 +4775,31 @@
       "source": "avi-thesis.bib: Dataset for Evaluation of Mathematical Reasoning Abilities in Russian",
       "addedAt": "2026-09-13",
       "score": 4.477611940298507
+    },
+    {
+      "id": "70c0bbece96ab013050e10ece778ef857858bde6",
+      "title": "Wikicorpus: A Word-Sense Disambiguated Multilingual Wikipedia Corpus",
+      "authors": [
+        "S. Reese",
+        "Gemma Boleda",
+        "Montse Cuadros",
+        "Lluís Padró",
+        "German Rigau"
+      ],
+      "year": 2010,
+      "venue": "International Conference on Language Resources and Evaluation",
+      "publicationDate": "2010-05-01",
+      "summary": "A new freely available trilingual corpus (Catalan, Spanish, English) that contains large portions of the Wikipedia and has been automatically enriched with linguistic information and the integration of the WSD algorithm UKB in FreeLing is presented.",
+      "url": "https://www.semanticscholar.org/paper/70c0bbece96ab013050e10ece778ef857858bde6",
+      "doi": "10.63317/25badvqmxi4f",
+      "arxivId": null,
+      "pdf": "http://www.lrec-conf.org/proceedings/lrec2010/pdf/222_Paper.pdf",
+      "citationCount": 62,
+      "referenceCount": 23,
+      "influentialCitationCount": 4,
+      "source": "avi-thesis.bib: Wikicorpus: A Word-Sense Disambiguated Multilingual Wikipedia Corpus",
+      "addedAt": "2026-09-13",
+      "score": 1.4925373134328357
     }
   ]
 }
