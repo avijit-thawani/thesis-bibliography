@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T02:36:32.709Z",
+  "updatedAt": "2026-09-13T09:37:09.174Z",
   "recs": [
     {
       "id": "87639a90e0ab573236efeb79cf24efafc2463dcf",
@@ -275,7 +275,11 @@
     {
       "id": "234fea0bca0519286edc98b49e94337bac2e2719",
       "title": "Systematic review and comparative synthesis of cross lingual question answering systems for low resource Indic languages",
-      "authors": [],
+      "authors": [
+        "Siddesh Savant",
+        "Uttam U. Deshpande",
+        "Jovi D'Silva"
+      ],
       "year": 2026,
       "venue": "Discover Artificial Intelligence",
       "publicationDate": "2026-09-06",
@@ -382,6 +386,33 @@
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/13",
       "prNumber": 13
+    },
+    {
+      "id": "cd854d3d7a1231b1dfbbfa09a697ac064026be51",
+      "title": "Can neural networks do arithmetic? A survey on the elementary numerical skills of state-of-the-art deep learning models",
+      "authors": [
+        "Alberto Testolin"
+      ],
+      "year": 2023,
+      "venue": "Applied Sciences",
+      "publicationDate": "2023-03-14",
+      "summary": "This survey critically examines the recent literature, concluding that even state-of-the-art architectures and large language models often fall short when probed with relatively simple tasks designed to test basic numerical and arithmetic knowledge.",
+      "url": "https://www.semanticscholar.org/paper/cd854d3d7a1231b1dfbbfa09a697ac064026be51",
+      "doi": "10.3390/app14020744",
+      "arxivId": "2303.07735",
+      "pdf": "https://www.mdpi.com/2076-3417/14/2/744/pdf?version=1705331724",
+      "citationCount": 39,
+      "referenceCount": 120,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-13",
+      "overlap": 13,
+      "direction": "forward",
+      "score": 76.47058823529412,
+      "why": "cites 13 in Core",
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/23",
+      "prNumber": 23
     },
     {
       "id": "5ee871537ae51e7e2e93d2a70fff5d100649a655",
@@ -652,33 +683,6 @@
       "prNumber": 22
     },
     {
-      "id": "cd854d3d7a1231b1dfbbfa09a697ac064026be51",
-      "title": "Can neural networks do arithmetic? A survey on the elementary numerical skills of state-of-the-art deep learning models",
-      "authors": [
-        "Alberto Testolin"
-      ],
-      "year": 2023,
-      "venue": "Applied Sciences",
-      "publicationDate": "2023-03-14",
-      "summary": "This survey critically examines the recent literature, concluding that even state-of-the-art architectures and large language models often fall short when probed with relatively simple tasks designed to test basic numerical and arithmetic knowledge.",
-      "url": "https://www.semanticscholar.org/paper/cd854d3d7a1231b1dfbbfa09a697ac064026be51",
-      "doi": "10.3390/app14020744",
-      "arxivId": "2303.07735",
-      "pdf": "https://www.mdpi.com/2076-3417/14/2/744/pdf?version=1705331724",
-      "citationCount": 39,
-      "referenceCount": 120,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-13",
-      "overlap": 12,
-      "direction": "forward",
-      "score": 70.58823529411765,
-      "why": "cites 12 in Core",
-      "fromReferences": false,
-      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/23",
-      "prNumber": 23
-    },
-    {
       "id": "5df55d94ab5026ff84ec01871592108fbadbddbe",
       "title": "Measurement Extraction with Natural Language Processing: A Review",
       "authors": [
@@ -705,7 +709,9 @@
       "direction": "forward",
       "score": 70.58823529411765,
       "why": "cites 12 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/24",
+      "prNumber": 24
     },
     {
       "id": "5fda196ca0039089181e7d8e22cc500cbea4c877",
@@ -734,7 +740,9 @@
       "direction": "forward",
       "score": 70.58823529411765,
       "why": "cites 12 in Core",
-      "fromReferences": false
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/25",
+      "prNumber": 25
     }
   ]
 }
