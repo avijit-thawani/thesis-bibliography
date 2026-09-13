@@ -124,3 +124,4 @@ avi-thesis.bib: Multiword Expression aware Neural Machine Translation
 avi-thesis.bib: Subword Pooling Makes a Difference
 avi-thesis.bib: Multiword Expression aware Neural Machine Translation
 avi-thesis.bib: \-Masking: Principled masking of correlated spans
+https://doi.org/10.1007/s44163-026-01750-x    # Systematic review and comparative synthesis of cross lingual question answering systems for low resource Indic languages
