@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T01:01:17.311Z",
+  "updatedAt": "2026-09-13T01:20:05.688Z",
   "graph": {
     "5bec0de2e6614427acdbef2a5e9611a293a8c6d8": {
       "fetchedAt": "2026-09-12",
@@ -80100,6 +80100,15 @@
     "counts:81aace0e90c6a962059b117c24db0d856f340f41": {
       "citationCount": 427,
       "fetchedAt": "2026-09-13"
+    },
+    "fceb5988cf8b7cde44534c52adf296ce40a92cc4": {
+      "fetchedAt": "2026-09-13",
+      "citedBy": [
+        "da9f65890cb9fec58060021ac98589389761018c",
+        "674265c672777b6d10d5455adc58a6cacb0d0cfe",
+        "60a16a763e7f24a67edebd47993dc138871dbe4c"
+      ],
+      "cites": []
     }
   }
 }

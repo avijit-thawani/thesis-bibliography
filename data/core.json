@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T01:01:17.307Z",
+  "updatedAt": "2026-09-13T01:20:05.684Z",
   "core": [
     {
       "id": "5bec0de2e6614427acdbef2a5e9611a293a8c6d8",
@@ -814,7 +814,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: BPE beyond Word Boundary: How NOT to use Multi Word Expressions in Neural Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 31.746031746031743
+      "score": 33.33333333333333
     },
     {
       "id": "5c3005e22e6fb218aa76fea49971f3f991993b32",
@@ -2992,7 +2992,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: A Generalized Language Model as the Combination of Skipped n-grams and Modified Kneser Ney Smoothing",
       "addedAt": "2026-09-12",
-      "score": 1.5873015873015872
+      "score": 3.1746031746031744
     },
     {
       "id": "0db6eb46ca9941660acc775e3ca39bf4434c18be",
@@ -4302,7 +4302,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Language combinatorics: A sentence pattern extraction architecture based on combinatorial explosion",
       "addedAt": "2026-09-12",
-      "score": 1.5873015873015872
+      "score": 3.1746031746031744
     },
     {
       "id": "7771aa7badc3375a31bfac8dc47755ff5d5c7780",
@@ -4593,6 +4593,30 @@
       "referenceCount": 92,
       "influentialCitationCount": 2,
       "source": "avi-thesis.bib: Core systems in human cognition",
+      "addedAt": "2026-09-13",
+      "score": 1.5873015873015872
+    },
+    {
+      "id": "fceb5988cf8b7cde44534c52adf296ce40a92cc4",
+      "title": "First Glance on Pattern-based Language Modeling",
+      "authors": [
+        "M. Ptaszynski",
+        "Fumito Masui",
+        "Rafal Rzepka",
+        "K. Araki"
+      ],
+      "year": 2014,
+      "venue": null,
+      "publicationDate": null,
+      "summary": "A novel pattern-based language modeling method that builds upon present standards for language modeling and extends them by lifting all of the limitations presupposed by strict definition of a pattern as language entity is introduced.",
+      "url": "https://www.semanticscholar.org/paper/fceb5988cf8b7cde44534c52adf296ce40a92cc4",
+      "doi": null,
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 3,
+      "referenceCount": 28,
+      "influentialCitationCount": 0,
+      "source": "avi-thesis.bib: First Glance on Pattern-based Language Modeling",
       "addedAt": "2026-09-13",
       "score": 1.5873015873015872
     }

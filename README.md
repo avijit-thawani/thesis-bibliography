@@ -4,7 +4,7 @@
 
 A living survey grown from my thesis bibliography
 
-**168** in Core · **25** Recs · updated 2026-09-13
+**169** in Core · **25** Recs · updated 2026-09-13
 
 ## Core
 
@@ -20,10 +20,10 @@ The papers in this survey.
 | 6 | [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://www.semanticscholar.org/paper/0427110f0e79f41e69a8eb00a3ec8868bac26a4f)<br><sub>Eric Wallace et al.</sub><br><sub>This work investigates the numerical reasoning capabilities of a state-of-the-art question answering model on the DROP dataset and finds this model excels on questions that require numerical reasoning, i.e., it already captures numeracy.</sub> | Conference on Empirical Methods in Natural Language Processing | 2019 | 319 | 35 |
 | 7 | [Injecting Numerical Reasoning Skills into Language Models](https://www.semanticscholar.org/paper/3dd61d97827e3f380bf9304101149a3f865051fc)<br><sub>Mor Geva, Ankit Gupta, Jonathan Berant</sub><br><sub>This work shows that numerical reasoning is amenable to automatic data generation, and thus one can inject this skill into pre-trained LMs, by generating large amounts of data, and training in a multi-task setup.</sub> | Annual Meeting of the Association for Computational Linguistics | 2020 | 249 | 35 |
 | 8 | [ByT5: Towards a Token-Free Future with Pre-trained Byte-to-Byte Models](https://www.semanticscholar.org/paper/44ef6cf919250001836ed73c0d58b20ea1e2d308)<br><sub>Linting Xue et al.</sub><br><sub>This paper shows that a standard Transformer architecture can be used with minimal modifications to process byte sequences, characterize the trade-offs in terms of parameter count, training FLOPs, and inference speed, and shows that byte-level models are competitive with their token-level counterparts.</sub> | Transactions of the Association for Computational Linguistics | 2021 | 765 | 33 |
-| 9 | [BPE beyond Word Boundary: How NOT to use Multi Word Expressions in Neural Machine Translation](https://www.semanticscholar.org/paper/674265c672777b6d10d5455adc58a6cacb0d0cfe)<br><sub>Dipesh Kumar, Avijit Thawani</sub><br><sub>This work observes that naively extending BPE beyond word boundaries results in incoherent tokens which are themselves better represented as individual words, and finds that Pointwise Mutual Information (PMI) instead of frequency finds better MWEs (e.g., New\_York, Statue of Liberty, neither .</sub> | First Workshop on Insights from Negative Results in NLP | 2022 | 6 | 32 |
+| 9 | [BPE beyond Word Boundary: How NOT to use Multi Word Expressions in Neural Machine Translation](https://www.semanticscholar.org/paper/674265c672777b6d10d5455adc58a6cacb0d0cfe)<br><sub>Dipesh Kumar, Avijit Thawani</sub><br><sub>This work observes that naively extending BPE beyond word boundaries results in incoherent tokens which are themselves better represented as individual words, and finds that Pointwise Mutual Information (PMI) instead of frequency finds better MWEs (e.g., New\_York, Statue of Liberty, neither .</sub> | First Workshop on Insights from Negative Results in NLP | 2022 | 6 | 33 |
 | 10 | [Investigating the Limitations of Transformers with Simple Arithmetic Tasks](https://www.semanticscholar.org/paper/2cc3ab9fa41ba2804e301f7eae9598636e62422a)<br><sub>Rodrigo Nogueira, Zhiying Jiang, Jimmy J. Li</sub><br><sub>It is found that how a number is represented in its surface form has a strong influence on the model's accuracy, and this result bolsters evidence that subword tokenizers and positional encodings are components in current transformer designs that might need improvement.</sub> | - | 2021 | 165 | 32 |
 
-[... and 158 more, sorted by score](views/core-by-score.md)
+[... and 159 more, sorted by score](views/core-by-score.md)
 
 ## ✨ Recs
 
