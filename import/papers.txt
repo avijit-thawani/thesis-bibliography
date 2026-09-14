@@ -9,4 +9,4 @@
 #
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
-
+https://doi.org/10.1007/s41060-026-01276-6    # A Profit-Driven Simulation framework for real-time evaluation of toxicity detection models in social media
