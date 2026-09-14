@@ -12,7 +12,7 @@ A living survey grown from my thesis bibliography
 
 ### New in the past month
 
-<sub>**[Review all 9 in one pull request →](https://github.com/avijit-thawani/thesis-bibliography/pull/54)** Delete the lines you do not want, then merge.</sub>
+<sub>**[Review all 9 in one file →](https://github.com/avijit-thawani/thesis-bibliography/edit/recs/past-month/import/papers.txt)** Delete the lines you do not want, commit, then [merge #54](https://github.com/avijit-thawani/thesis-bibliography/pull/54).</sub>
 
 | # | Paper | Top authors | Affiliation | Details | Score | Decide |
 | ---: | --- | --- | --- | --- | ---: | --- |
@@ -26,7 +26,7 @@ A living survey grown from my thesis bibliography
 
 ### New in the past year
 
-<sub>**[Review all 10 in one pull request →](https://github.com/avijit-thawani/thesis-bibliography/pull/55)** Delete the lines you do not want, then merge.</sub>
+<sub>**[Review all 10 in one file →](https://github.com/avijit-thawani/thesis-bibliography/edit/recs/past-year/import/papers.txt)** Delete the lines you do not want, commit, then [merge #55](https://github.com/avijit-thawani/thesis-bibliography/pull/55).</sub>
 
 | # | Paper | Top authors | Affiliation | Details | Score | Decide |
 | ---: | --- | --- | --- | --- | ---: | --- |
@@ -40,7 +40,7 @@ A living survey grown from my thesis bibliography
 
 ### Most connected, any year
 
-<sub>**[Review all 6 in one pull request →](https://github.com/avijit-thawani/thesis-bibliography/pull/56)** Delete the lines you do not want, then merge.</sub>
+<sub>**[Review all 6 in one file →](https://github.com/avijit-thawani/thesis-bibliography/edit/recs/most-connected/import/papers.txt)** Delete the lines you do not want, commit, then [merge #56](https://github.com/avijit-thawani/thesis-bibliography/pull/56).</sub>
 
 | # | Paper | Top authors | Affiliation | Details | Score | Decide |
 | ---: | --- | --- | --- | --- | ---: | --- |
