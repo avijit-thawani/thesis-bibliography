@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T17:28:19.604Z",
+  "updatedAt": "2026-09-14T17:35:41.715Z",
   "recs": [
     {
       "id": "234fea0bca0519286edc98b49e94337bac2e2719",
@@ -255,7 +255,7 @@
       "title": "A Novel Semantic Manifold Alignment Attack against Embedding-to-Embedding Obfuscation in Privacy-Preserving LLMs",
       "authors": [
         "Si-Cong Li",
-        "Lingfeng Yao",
+        "Ling-Feng Yao",
         "Xing-Ke Yang",
         "Ke Tu",
         "Chen-Hao Wu",
