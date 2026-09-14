@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T16:30:19.131Z",
+  "updatedAt": "2026-09-14T16:41:39.482Z",
   "recs": [
     {
       "id": "234fea0bca0519286edc98b49e94337bac2e2719",
@@ -9,6 +9,17 @@
         "Uttam U. Deshpande",
         "Jovi D'Silva"
       ],
+      "topAuthors": [
+        {
+          "name": "Jovi D'Silva",
+          "hIndex": 5
+        },
+        {
+          "name": "Uttam U. Deshpande",
+          "hIndex": 2
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
       "venue": "Discover Artificial Intelligence",
       "publicationDate": "2026-09-06",
@@ -38,6 +49,17 @@
         "Stefan Straleger",
         "Flavius Frasincar"
       ],
+      "topAuthors": [
+        {
+          "name": "Flavius Frasincar",
+          "hIndex": 41
+        },
+        {
+          "name": "Stefan Straleger",
+          "hIndex": 0
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
       "venue": "Data & Knowledge Engineering",
       "publicationDate": "2026-09-01",
@@ -72,6 +94,17 @@
         "Ce Li",
         "Zhenxing Qian"
       ],
+      "topAuthors": [
+        {
+          "name": "Qichao Ying",
+          "hIndex": 14
+        },
+        {
+          "name": "Yu-Zhou Yang",
+          "hIndex": 4
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-08-27",
@@ -99,7 +132,7 @@
       "title": "A Novel Semantic Manifold Alignment Attack against Embedding-to-Embedding Obfuscation in Privacy-Preserving LLMs",
       "authors": [
         "Si-Cong Li",
-        "Ling-Feng Yao",
+        "Lingfeng Yao",
         "Xing-Ke Yang",
         "Ke Tu",
         "Chen-Hao Wu",
@@ -109,6 +142,17 @@
         "Xin Fu",
         "Miao Pan"
       ],
+      "topAuthors": [
+        {
+          "name": "Hao Wang",
+          "hIndex": 3
+        },
+        {
+          "name": "Phone Lin",
+          "hIndex": 3
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-09-06",
@@ -138,6 +182,17 @@
         "Charles R. Kelly",
         "Jacqueline M. Cole"
       ],
+      "topAuthors": [
+        {
+          "name": "Jacqueline M. Cole",
+          "hIndex": 13
+        },
+        {
+          "name": "Charles R. Kelly",
+          "hIndex": 1
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
       "venue": "Journal of Chemical Information and Modeling",
       "publicationDate": "2026-08-27",
@@ -193,6 +248,19 @@
         "Reiichiro Nakano",
         "Christopher Hesse"
       ],
+      "topAuthors": [
+        {
+          "name": "Jared Kaplan",
+          "hIndex": 33
+        },
+        {
+          "name": "Nicholas Joseph",
+          "hIndex": 18
+        }
+      ],
+      "affiliations": [
+        "University of Oxford"
+      ],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-08-24",
@@ -225,6 +293,17 @@
         "Tomasz Limisiewicz",
         "Sachin Kumar"
       ],
+      "topAuthors": [
+        {
+          "name": "Abraham Toluwase Owodunni",
+          "hIndex": 5
+        },
+        {
+          "name": "C. Okocha",
+          "hIndex": 2
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-08-16",
@@ -256,6 +335,17 @@
         "Mingming Zhu",
         "Jian-Zhen Xu"
       ],
+      "topAuthors": [
+        {
+          "name": "Jian-Zhen Xu",
+          "hIndex": 15
+        },
+        {
+          "name": "Zhi-Gang Meng",
+          "hIndex": 0
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
       "venue": "Frontiers in Genetics",
       "publicationDate": "2026-08-24",
@@ -284,6 +374,13 @@
       "authors": [
         "Clara Meister"
       ],
+      "topAuthors": [
+        {
+          "name": "Clara Meister",
+          "hIndex": 25
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-08-18",
@@ -321,10 +418,21 @@
         "Yu-Lun Zhang",
         "Zhonghao Lyu",
         "Haoyi Xiong",
-        "Ling-He Kong",
+        "Linghe Kong",
         "J. Huang",
         "Dawei Yin"
       ],
+      "topAuthors": [
+        {
+          "name": "Shuaiqiang Wang",
+          "hIndex": 21
+        },
+        {
+          "name": "Xinran Chen",
+          "hIndex": 12
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
       "venue": null,
       "publicationDate": "2026-09-10",
@@ -356,6 +464,19 @@
         "Qian Liu",
         "Xiachong Feng",
         "Lingpeng Kong"
+      ],
+      "topAuthors": [
+        {
+          "name": "Lin Zheng",
+          "hIndex": 11
+        },
+        {
+          "name": "Xiachong Feng",
+          "hIndex": 7
+        }
+      ],
+      "affiliations": [
+        "The University of Hong Kong"
       ],
       "year": 2026,
       "venue": "arXiv.org",
@@ -390,6 +511,19 @@
         "Laura Rimell",
         "Joshua Maynez"
       ],
+      "topAuthors": [
+        {
+          "name": "Laura Rimell",
+          "hIndex": 21
+        },
+        {
+          "name": "Joshua Maynez",
+          "hIndex": 13
+        }
+      ],
+      "affiliations": [
+        "The University of Hong Kong"
+      ],
       "year": 2026,
       "venue": "arXiv.org",
       "publicationDate": "2026-05-10",
@@ -419,6 +553,19 @@
         "Gyanendra Shrestha",
         "A. Pyayt",
         "M. Gubanov"
+      ],
+      "topAuthors": [
+        {
+          "name": "M. Gubanov",
+          "hIndex": 15
+        },
+        {
+          "name": "A. Pyayt",
+          "hIndex": 12
+        }
+      ],
+      "affiliations": [
+        "Florida State Univesrity"
       ],
       "year": 2026,
       "venue": "Proc. ACM Manag. Data",
@@ -456,6 +603,19 @@
         "Luca Soldaini",
         "Valentin Hofmann"
       ],
+      "topAuthors": [
+        {
+          "name": "E. Ponti",
+          "hIndex": 33
+        },
+        {
+          "name": "Luca Soldaini",
+          "hIndex": 31
+        }
+      ],
+      "affiliations": [
+        "Allen Institute for AI"
+      ],
       "year": 2025,
       "venue": "arXiv.org",
       "publicationDate": "2025-12-17",
@@ -488,6 +648,19 @@
         "Jiajun Zhang",
         "Chengqing Zong"
       ],
+      "topAuthors": [
+        {
+          "name": "Chengqing Zong",
+          "hIndex": 18
+        },
+        {
+          "name": "Jiajun Zhang",
+          "hIndex": 13
+        }
+      ],
+      "affiliations": [
+        "National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences"
+      ],
       "year": 2026,
       "venue": "arXiv.org",
       "publicationDate": "2026-05-13",
@@ -518,6 +691,17 @@
         "Julie Kallini",
         "Ekaterina Shutova"
       ],
+      "topAuthors": [
+        {
+          "name": "Ekaterina Shutova",
+          "hIndex": 9
+        },
+        {
+          "name": "Julie Kallini",
+          "hIndex": 3
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "publicationDate": "2026-06-18",
@@ -548,6 +732,17 @@
         "M. Krebs",
         "Desmond Elliott"
       ],
+      "topAuthors": [
+        {
+          "name": "Desmond Elliott",
+          "hIndex": 4
+        },
+        {
+          "name": "Ingo Ziegler",
+          "hIndex": 3
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
       "venue": "arXiv.org",
       "publicationDate": "2026-07-17",
@@ -579,6 +774,17 @@
         "A. Ekbal",
         "Pushpak Bhattacharyya"
       ],
+      "topAuthors": [
+        {
+          "name": "Ramakrishna Appicharla",
+          "hIndex": 5
+        },
+        {
+          "name": "A. Ekbal",
+          "hIndex": 5
+        }
+      ],
+      "affiliations": [],
       "year": 2026,
       "venue": "Language Resources and Evaluation",
       "publicationDate": "2026-01-07",
@@ -609,6 +815,20 @@
         "Tyler Chang",
         "Stella Biderman",
         "Benjamin K. Bergen"
+      ],
+      "topAuthors": [
+        {
+          "name": "Stella Biderman",
+          "hIndex": 36
+        },
+        {
+          "name": "Catherine Arnett",
+          "hIndex": 7
+        }
+      ],
+      "affiliations": [
+        "Booz Allen Hamilton",
+        "EleutherAI"
       ],
       "year": 2025,
       "venue": "Neural Information Processing Systems",
@@ -642,6 +862,20 @@
         "Tasnim Mohiuddin",
         "M Saiful Bari"
       ],
+      "topAuthors": [
+        {
+          "name": "Md Tahmid Rahman Laskar",
+          "hIndex": 19
+        },
+        {
+          "name": "M Saiful Bari",
+          "hIndex": 16
+        }
+      ],
+      "affiliations": [
+        "York University",
+        "Nanyang Technological University"
+      ],
       "year": 2026,
       "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
       "publicationDate": "2026-01-19",
@@ -674,6 +908,20 @@
         "Orhan Firat",
         "Wolfgang Macherey"
       ],
+      "topAuthors": [
+        {
+          "name": "Orhan Firat",
+          "hIndex": 47
+        },
+        {
+          "name": "Colin Cherry",
+          "hIndex": 42
+        }
+      ],
+      "affiliations": [
+        "Google",
+        "Google Research (Google LLC)"
+      ],
       "year": 2018,
       "venue": "Conference on Empirical Methods in Natural Language Processing",
       "publicationDate": "2018-08-29",
@@ -702,6 +950,17 @@
         "Minoru Yoshida",
         "Kenji Kita"
       ],
+      "topAuthors": [
+        {
+          "name": "Kenji Kita",
+          "hIndex": 13
+        },
+        {
+          "name": "Minoru Yoshida",
+          "hIndex": 10
+        }
+      ],
+      "affiliations": [],
       "year": 2021,
       "venue": "Information Systems",
       "publicationDate": "2021-07-06",
@@ -731,6 +990,20 @@
         "Luke Zettlemoyer",
         "R. Barzilay",
         "Yoav Artzi"
+      ],
+      "topAuthors": [
+        {
+          "name": "Luke Zettlemoyer",
+          "hIndex": 118
+        },
+        {
+          "name": "R. Barzilay",
+          "hIndex": 99
+        }
+      ],
+      "affiliations": [
+        "University of Washington",
+        "Cornell University"
       ],
       "year": 2014,
       "venue": "Annual Meeting of the Association for Computational Linguistics",
@@ -762,6 +1035,20 @@
         "D. Sontag",
         "Alexander M. Rush"
       ],
+      "topAuthors": [
+        {
+          "name": "Alexander M. Rush",
+          "hIndex": 61
+        },
+        {
+          "name": "D. Sontag",
+          "hIndex": 54
+        }
+      ],
+      "affiliations": [
+        "Cornell Tech",
+        "Hugging Face"
+      ],
       "year": 2015,
       "venue": "AAAI Conference on Artificial Intelligence",
       "publicationDate": "2015-08-26",
@@ -792,6 +1079,19 @@
         "Mike Schuster",
         "Noam Shazeer",
         "Yonghui Wu"
+      ],
+      "topAuthors": [
+        {
+          "name": "O. Vinyals",
+          "hIndex": 102
+        },
+        {
+          "name": "Yonghui Wu",
+          "hIndex": 65
+        }
+      ],
+      "affiliations": [
+        "Google"
       ],
       "year": 2016,
       "venue": "arXiv.org",
