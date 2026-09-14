@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T16:41:39.482Z",
+  "updatedAt": "2026-09-14T17:28:19.604Z",
   "recs": [
     {
       "id": "234fea0bca0519286edc98b49e94337bac2e2719",
@@ -12,14 +12,19 @@
       "topAuthors": [
         {
           "name": "Jovi D'Silva",
-          "hIndex": 5
+          "hIndex": 5,
+          "authorId": "2016752213"
         },
         {
           "name": "Uttam U. Deshpande",
-          "hIndex": 2
+          "hIndex": 2,
+          "authorId": "2380851789"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "Visvesvaraya Technological University",
+        "Goa University"
+      ],
       "year": 2026,
       "venue": "Discover Artificial Intelligence",
       "publicationDate": "2026-09-06",
@@ -35,7 +40,7 @@
       "addedAt": "2026-09-14",
       "overlap": 14,
       "direction": "forward",
-      "score": 82.35294117647058,
+      "score": 75.9861420440424,
       "why": "past month · cites 14 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
@@ -52,11 +57,13 @@
       "topAuthors": [
         {
           "name": "Flavius Frasincar",
-          "hIndex": 41
+          "hIndex": 41,
+          "authorId": "1729599"
         },
         {
           "name": "Stefan Straleger",
-          "hIndex": 0
+          "hIndex": 0,
+          "authorId": "2456270462"
         }
       ],
       "affiliations": [],
@@ -75,7 +82,7 @@
       "addedAt": "2026-09-14",
       "overlap": 12,
       "direction": "forward",
-      "score": 70.58823529411765,
+      "score": 70.2377974326576,
       "why": "past month · cites 12 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
@@ -97,11 +104,13 @@
       "topAuthors": [
         {
           "name": "Qichao Ying",
-          "hIndex": 14
+          "hIndex": 14,
+          "authorId": "102329059"
         },
         {
           "name": "Yu-Zhou Yang",
-          "hIndex": 4
+          "hIndex": 4,
+          "authorId": "2277417954"
         }
       ],
       "affiliations": [],
@@ -120,100 +129,12 @@
       "addedAt": "2026-09-14",
       "overlap": 9,
       "direction": "forward",
-      "score": 52.94117647058824,
+      "score": 50.65175930995468,
       "why": "past month · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
       "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/27",
       "prNumber": 27
-    },
-    {
-      "id": "b7d74f0e4def4c29b61f7e34f7755c990fc95f6f",
-      "title": "A Novel Semantic Manifold Alignment Attack against Embedding-to-Embedding Obfuscation in Privacy-Preserving LLMs",
-      "authors": [
-        "Si-Cong Li",
-        "Lingfeng Yao",
-        "Xing-Ke Yang",
-        "Ke Tu",
-        "Chen-Hao Wu",
-        "Hao Wang",
-        "Jiang Liu",
-        "Phone Lin",
-        "Xin Fu",
-        "Miao Pan"
-      ],
-      "topAuthors": [
-        {
-          "name": "Hao Wang",
-          "hIndex": 3
-        },
-        {
-          "name": "Phone Lin",
-          "hIndex": 3
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": null,
-      "publicationDate": "2026-09-06",
-      "summary": "Proxy Manifold Alignment (PMA), a novel attack against E2EO in privacy-preserving LLMs, which employs Word2Vec to model the co-occurrence patterns within the obfuscated stream and the public corpus independently, and constructs two proxy vector embeddings.",
-      "url": "https://www.semanticscholar.org/paper/b7d74f0e4def4c29b61f7e34f7755c990fc95f6f",
-      "doi": null,
-      "arxivId": "2609.06749",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 57,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 8,
-      "direction": "forward",
-      "score": 47.05882352941176,
-      "why": "past month · cites 8 in your list",
-      "fromReferences": false,
-      "freshWindow": "past month",
-      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/28",
-      "prNumber": 28
-    },
-    {
-      "id": "6805b8fca42dc39e6e7b72727ebec59096d61c02",
-      "title": "Autogenerating\na Domain-Specific Question-Answering\nData Set to Enable High-Performing Language Models for Magnetic Materials",
-      "authors": [
-        "Charles R. Kelly",
-        "Jacqueline M. Cole"
-      ],
-      "topAuthors": [
-        {
-          "name": "Jacqueline M. Cole",
-          "hIndex": 13
-        },
-        {
-          "name": "Charles R. Kelly",
-          "hIndex": 1
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": "Journal of Chemical Information and Modeling",
-      "publicationDate": "2026-08-27",
-      "summary": "Results demonstrate that domain-specific BERT models only need to be finetuned from vanilla BERT models (i.e. no domain-adaptive pretraining is needed), pending the availability of sufficiently large, high-quality, domain-specific QA data sets that this work shows how to autogenerate.",
-      "url": "https://www.semanticscholar.org/paper/6805b8fca42dc39e6e7b72727ebec59096d61c02",
-      "doi": "10.1021/acs.jcim.6c00136",
-      "arxivId": null,
-      "pdf": "https://doi.org/10.1021/acs.jcim.6c00136",
-      "citationCount": 0,
-      "referenceCount": 48,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 8,
-      "direction": "forward",
-      "score": 47.05882352941176,
-      "why": "past month · cites 8 in your list",
-      "fromReferences": false,
-      "freshWindow": "past month",
-      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/29",
-      "prNumber": 29
     },
     {
       "id": "33e409a778501b3beba82c9fa0713fa7a383c856",
@@ -251,11 +172,13 @@
       "topAuthors": [
         {
           "name": "Jared Kaplan",
-          "hIndex": 33
+          "hIndex": 33,
+          "authorId": "2053807409"
         },
         {
           "name": "Nicholas Joseph",
-          "hIndex": 18
+          "hIndex": 18,
+          "authorId": "2117706920"
         }
       ],
       "affiliations": [
@@ -276,7 +199,7 @@
       "addedAt": "2026-09-14",
       "overlap": 8,
       "direction": "forward",
-      "score": 47.05882352941176,
+      "score": 46.45549392935422,
       "why": "past month · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
@@ -284,89 +207,98 @@
       "prNumber": 30
     },
     {
-      "id": "95462c2e9d2b2e6ee6ccc4a90965683e3fe92ee8",
-      "title": "Dynamic Multi-Byte Prediction With Hierarchical Language Models",
+      "id": "6805b8fca42dc39e6e7b72727ebec59096d61c02",
+      "title": "Autogenerating\na Domain-Specific Question-Answering\nData Set to Enable High-Performing Language Models for Magnetic Materials",
       "authors": [
-        "Abraham Toluwase Owodunni",
-        "C. Okocha",
-        "Christan Grant",
-        "Tomasz Limisiewicz",
-        "Sachin Kumar"
+        "Charles R. Kelly",
+        "Jacqueline M. Cole"
       ],
       "topAuthors": [
         {
-          "name": "Abraham Toluwase Owodunni",
-          "hIndex": 5
+          "name": "Jacqueline M. Cole",
+          "hIndex": 13,
+          "authorId": "2164374024"
         },
         {
-          "name": "C. Okocha",
-          "hIndex": 2
+          "name": "Charles R. Kelly",
+          "hIndex": 1,
+          "authorId": "2281477044"
+        }
+      ],
+      "affiliations": [
+        "Technicolor (France)"
+      ],
+      "year": 2026,
+      "venue": "Journal of Chemical Information and Modeling",
+      "publicationDate": "2026-08-27",
+      "summary": "Results demonstrate that domain-specific BERT models only need to be finetuned from vanilla BERT models (i.e. no domain-adaptive pretraining is needed), pending the availability of sufficiently large, high-quality, domain-specific QA data sets that this work shows how to autogenerate.",
+      "url": "https://www.semanticscholar.org/paper/6805b8fca42dc39e6e7b72727ebec59096d61c02",
+      "doi": "10.1021/acs.jcim.6c00136",
+      "arxivId": null,
+      "pdf": "https://doi.org/10.1021/acs.jcim.6c00136",
+      "citationCount": 0,
+      "referenceCount": 48,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-14",
+      "overlap": 8,
+      "direction": "forward",
+      "score": 44.90307678852931,
+      "why": "past month · cites 8 in your list",
+      "fromReferences": false,
+      "freshWindow": "past month",
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/29",
+      "prNumber": 29
+    },
+    {
+      "id": "b7d74f0e4def4c29b61f7e34f7755c990fc95f6f",
+      "title": "A Novel Semantic Manifold Alignment Attack against Embedding-to-Embedding Obfuscation in Privacy-Preserving LLMs",
+      "authors": [
+        "Si-Cong Li",
+        "Lingfeng Yao",
+        "Xing-Ke Yang",
+        "Ke Tu",
+        "Chen-Hao Wu",
+        "Hao Wang",
+        "Jiang Liu",
+        "Phone Lin",
+        "Xin Fu",
+        "Miao Pan"
+      ],
+      "topAuthors": [
+        {
+          "name": "Hao Wang",
+          "hIndex": 3,
+          "authorId": "2348110940"
+        },
+        {
+          "name": "Phone Lin",
+          "hIndex": 3,
+          "authorId": "2192368641"
         }
       ],
       "affiliations": [],
       "year": 2026,
       "venue": null,
-      "publicationDate": "2026-08-16",
-      "summary": "It is shown that multi-byte prediction strikes a Pareto-optimal trade-off across multiple generative tasks, instruction following, question answering, summarization, and machine translation, achieving the best trade-off between performance and inference throughput.",
-      "url": "https://www.semanticscholar.org/paper/95462c2e9d2b2e6ee6ccc4a90965683e3fe92ee8",
+      "publicationDate": "2026-09-06",
+      "summary": "Proxy Manifold Alignment (PMA), a novel attack against E2EO in privacy-preserving LLMs, which employs Word2Vec to model the co-occurrence patterns within the obfuscated stream and the public corpus independently, and constructs two proxy vector embeddings.",
+      "url": "https://www.semanticscholar.org/paper/b7d74f0e4def4c29b61f7e34f7755c990fc95f6f",
       "doi": null,
-      "arxivId": "2608.15454",
+      "arxivId": "2609.06749",
       "pdf": null,
       "citationCount": 0,
-      "referenceCount": 36,
+      "referenceCount": 57,
       "influentialCitationCount": 0,
       "source": null,
       "addedAt": "2026-09-14",
-      "overlap": 7,
+      "overlap": 8,
       "direction": "forward",
-      "score": 41.17647058823529,
-      "why": "past month · cites 7 in your list",
+      "score": 42.71125474095862,
+      "why": "past month · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
-      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/32",
-      "prNumber": 32
-    },
-    {
-      "id": "d0cbde3e889ea6b13a602e30282bdcfbe4d268a0",
-      "title": "Large language models in bioinformatics: a comprehensive survey",
-      "authors": [
-        "Zhi-Gang Meng",
-        "Zhi-Kai Yang",
-        "Mingming Zhu",
-        "Jian-Zhen Xu"
-      ],
-      "topAuthors": [
-        {
-          "name": "Jian-Zhen Xu",
-          "hIndex": 15
-        },
-        {
-          "name": "Zhi-Gang Meng",
-          "hIndex": 0
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": "Frontiers in Genetics",
-      "publicationDate": "2026-08-24",
-      "summary": "This survey reviews the basic principles of LLMs and summarizes representative applications in gene and genome sequence analysis, protein structure and function prediction, and drug design, including virtual screening and personalized medicine.",
-      "url": "https://www.semanticscholar.org/paper/d0cbde3e889ea6b13a602e30282bdcfbe4d268a0",
-      "doi": "10.3389/fgene.2026.1797863",
-      "arxivId": null,
-      "pdf": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2026.1797863/pdf",
-      "citationCount": 0,
-      "referenceCount": 97,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 7,
-      "direction": "forward",
-      "score": 41.17647058823529,
-      "why": "past month · cites 7 in your list",
-      "fromReferences": false,
-      "freshWindow": "past month",
-      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/33",
-      "prNumber": 33
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/28",
+      "prNumber": 28
     },
     {
       "id": "5effeb7f02b3c93eaa44230e675b53834db144d5",
@@ -377,7 +309,8 @@
       "topAuthors": [
         {
           "name": "Clara Meister",
-          "hIndex": 25
+          "hIndex": 25,
+          "authorId": "150953620"
         }
       ],
       "affiliations": [],
@@ -396,7 +329,7 @@
       "addedAt": "2026-09-14",
       "overlap": 7,
       "direction": "forward",
-      "score": 41.17647058823529,
+      "score": 40.23787410744467,
       "why": "past month · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
@@ -418,18 +351,20 @@
         "Yu-Lun Zhang",
         "Zhonghao Lyu",
         "Haoyi Xiong",
-        "Linghe Kong",
+        "Ling-He Kong",
         "J. Huang",
         "Dawei Yin"
       ],
       "topAuthors": [
         {
           "name": "Shuaiqiang Wang",
-          "hIndex": 21
+          "hIndex": 21,
+          "authorId": "2237948548"
         },
         {
           "name": "Xinran Chen",
-          "hIndex": 12
+          "hIndex": 12,
+          "authorId": "2316236555"
         }
       ],
       "affiliations": [],
@@ -448,7 +383,7 @@
       "addedAt": "2026-09-14",
       "overlap": 7,
       "direction": "forward",
-      "score": 41.17647058823529,
+      "score": 39.98213241430651,
       "why": "past month · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
@@ -456,49 +391,98 @@
       "prNumber": 51
     },
     {
-      "id": "0c71a9182e0e4af9fa4315c0267a62b216ebc934",
-      "title": "Proxy Compression for Language Modeling",
+      "id": "d0cbde3e889ea6b13a602e30282bdcfbe4d268a0",
+      "title": "Large language models in bioinformatics: a comprehensive survey",
       "authors": [
-        "Lin Zheng",
-        "Xinyu Li",
-        "Qian Liu",
-        "Xiachong Feng",
-        "Lingpeng Kong"
+        "Zhi-Gang Meng",
+        "Zhi-Kai Yang",
+        "Mingming Zhu",
+        "Jian-Zhen Xu"
       ],
       "topAuthors": [
         {
-          "name": "Lin Zheng",
-          "hIndex": 11
+          "name": "Jian-Zhen Xu",
+          "hIndex": 15,
+          "authorId": "46372504"
         },
         {
-          "name": "Xiachong Feng",
-          "hIndex": 7
+          "name": "Zhi-Gang Meng",
+          "hIndex": 0,
+          "authorId": "2404296767"
         }
       ],
       "affiliations": [
-        "The University of Hong Kong"
+        "Changsha University",
+        "Hunan University"
       ],
       "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-02-04",
-      "summary": "This work introduces proxy compression, an alternative training scheme that preserves the efficiency benefits of compressed inputs while providing an end-to-end, raw-byte interface at inference time, and substantially improves training efficiency and significantly outperforms pure byte-level baselines given fixed compute budgets.",
-      "url": "https://www.semanticscholar.org/paper/0c71a9182e0e4af9fa4315c0267a62b216ebc934",
-      "doi": "10.48550/arXiv.2602.04289",
-      "arxivId": "2602.04289",
-      "pdf": null,
-      "citationCount": 3,
-      "referenceCount": 119,
+      "venue": "Frontiers in Genetics",
+      "publicationDate": "2026-08-24",
+      "summary": "This survey reviews the basic principles of LLMs and summarizes representative applications in gene and genome sequence analysis, protein structure and function prediction, and drug design, including virtual screening and personalized medicine.",
+      "url": "https://www.semanticscholar.org/paper/d0cbde3e889ea6b13a602e30282bdcfbe4d268a0",
+      "doi": "10.3389/fgene.2026.1797863",
+      "arxivId": null,
+      "pdf": "https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2026.1797863/pdf",
+      "citationCount": 0,
+      "referenceCount": 97,
       "influentialCitationCount": 0,
       "source": null,
       "addedAt": "2026-09-14",
-      "overlap": 11,
+      "overlap": 7,
       "direction": "forward",
-      "score": 64.70588235294117,
-      "why": "past year · cites 11 in your list",
+      "score": 39.49461427581484,
+      "why": "past month · cites 7 in your list",
       "fromReferences": false,
-      "freshWindow": "past year",
-      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/45",
-      "prNumber": 45
+      "freshWindow": "past month",
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/33",
+      "prNumber": 33
+    },
+    {
+      "id": "b033da276e372833a321ab1cea4a9ca5475bf301",
+      "title": "A Profit-Driven Simulation framework for real-time evaluation of toxicity detection models in social media",
+      "authors": [
+        "Arezo Bodaghi",
+        "Benjamin C. M. Fung",
+        "Jonathan Shahen",
+        "Ketra A. Schmitt"
+      ],
+      "topAuthors": [
+        {
+          "name": "Ketra A. Schmitt",
+          "hIndex": 10,
+          "authorId": "19731862"
+        },
+        {
+          "name": "Benjamin C. M. Fung",
+          "hIndex": 5,
+          "authorId": "2238408863"
+        }
+      ],
+      "affiliations": [
+        "Concordia University",
+        "McGill University"
+      ],
+      "year": 2026,
+      "venue": "International Journal of Data Science and Analysis",
+      "publicationDate": "2026-09-08",
+      "summary": "A novel Profit-Driven Simulation (PDS) framework that evaluates the real-time performance of toxicity detection classifiers under realistic deployment conditions and highlights the need to move beyond accuracy-focused evaluation and adopt context-aware, operationally grounded approaches when selecting classifiers for real-world deployment.",
+      "url": "https://www.semanticscholar.org/paper/b033da276e372833a321ab1cea4a9ca5475bf301",
+      "doi": "10.1007/s41060-026-01276-6",
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 68,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-14",
+      "overlap": 7,
+      "direction": "forward",
+      "score": 38.92099922556849,
+      "why": "past month · cites 7 in your list",
+      "fromReferences": false,
+      "freshWindow": "past month",
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/52",
+      "prNumber": 52
     },
     {
       "id": "999cf59792831e0916e9fcc94d1a549b8dfeeb5f",
@@ -514,11 +498,13 @@
       "topAuthors": [
         {
           "name": "Laura Rimell",
-          "hIndex": 21
+          "hIndex": 21,
+          "authorId": "2554988"
         },
         {
           "name": "Joshua Maynez",
-          "hIndex": 13
+          "hIndex": 13,
+          "authorId": "2124977868"
         }
       ],
       "affiliations": [
@@ -539,7 +525,7 @@
       "addedAt": "2026-09-14",
       "overlap": 11,
       "direction": "forward",
-      "score": 64.70588235294117,
+      "score": 62.829065222481674,
       "why": "past year · cites 11 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -557,11 +543,13 @@
       "topAuthors": [
         {
           "name": "M. Gubanov",
-          "hIndex": 15
+          "hIndex": 15,
+          "authorId": "1705924"
         },
         {
           "name": "A. Pyayt",
-          "hIndex": 12
+          "hIndex": 12,
+          "authorId": "1743601"
         }
       ],
       "affiliations": [
@@ -582,12 +570,59 @@
       "addedAt": "2026-09-14",
       "overlap": 11,
       "direction": "forward",
-      "score": 64.70588235294117,
+      "score": 62.0629652905662,
       "why": "past year · cites 11 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
       "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/46",
       "prNumber": 46
+    },
+    {
+      "id": "0c71a9182e0e4af9fa4315c0267a62b216ebc934",
+      "title": "Proxy Compression for Language Modeling",
+      "authors": [
+        "Lin Zheng",
+        "Xinyu Li",
+        "Qian Liu",
+        "Xiachong Feng",
+        "Lingpeng Kong"
+      ],
+      "topAuthors": [
+        {
+          "name": "Lin Zheng",
+          "hIndex": 11,
+          "authorId": "1633166807"
+        },
+        {
+          "name": "Xiachong Feng",
+          "hIndex": 7,
+          "authorId": "2302496781"
+        }
+      ],
+      "affiliations": [
+        "The University of Hong Kong"
+      ],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-02-04",
+      "summary": "This work introduces proxy compression, an alternative training scheme that preserves the efficiency benefits of compressed inputs while providing an end-to-end, raw-byte interface at inference time, and substantially improves training efficiency and significantly outperforms pure byte-level baselines given fixed compute budgets.",
+      "url": "https://www.semanticscholar.org/paper/0c71a9182e0e4af9fa4315c0267a62b216ebc934",
+      "doi": "10.48550/arXiv.2602.04289",
+      "arxivId": "2602.04289",
+      "pdf": null,
+      "citationCount": 3,
+      "referenceCount": 119,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-14",
+      "overlap": 11,
+      "direction": "forward",
+      "score": 61.37089233119308,
+      "why": "past year · cites 11 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year",
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/45",
+      "prNumber": 45
     },
     {
       "id": "bcf94ad307cdaea3e72fe64ddf3cb710b1f0ef3a",
@@ -606,11 +641,13 @@
       "topAuthors": [
         {
           "name": "E. Ponti",
-          "hIndex": 33
+          "hIndex": 33,
+          "authorId": "3381663"
         },
         {
           "name": "Luca Soldaini",
-          "hIndex": 31
+          "hIndex": 31,
+          "authorId": "3328733"
         }
       ],
       "affiliations": [
@@ -631,7 +668,7 @@
       "addedAt": "2026-09-14",
       "overlap": 10,
       "direction": "forward",
-      "score": 58.82352941176471,
+      "score": 58.069367411692774,
       "why": "past year · cites 10 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -651,11 +688,13 @@
       "topAuthors": [
         {
           "name": "Chengqing Zong",
-          "hIndex": 18
+          "hIndex": 18,
+          "authorId": "2064100826"
         },
         {
           "name": "Jiajun Zhang",
-          "hIndex": 13
+          "hIndex": 13,
+          "authorId": "2124819243"
         }
       ],
       "affiliations": [
@@ -676,7 +715,7 @@
       "addedAt": "2026-09-14",
       "overlap": 10,
       "direction": "forward",
-      "score": 58.82352941176471,
+      "score": 56.79671198390162,
       "why": "past year · cites 10 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -694,14 +733,19 @@
       "topAuthors": [
         {
           "name": "Ekaterina Shutova",
-          "hIndex": 9
+          "hIndex": 9,
+          "authorId": "2262445370"
         },
         {
           "name": "Julie Kallini",
-          "hIndex": 3
+          "hIndex": 3,
+          "authorId": "2140489566"
         }
       ],
-      "affiliations": [],
+      "affiliations": [
+        "University of Amsterdam",
+        "Stanford University"
+      ],
       "year": 2026,
       "venue": "Annual Meeting of the Association for Computational Linguistics",
       "publicationDate": "2026-06-18",
@@ -717,12 +761,59 @@
       "addedAt": "2026-09-14",
       "overlap": 9,
       "direction": "forward",
-      "score": 52.94117647058824,
+      "score": 49.853686722363015,
       "why": "past year · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
       "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/37",
       "prNumber": 37
+    },
+    {
+      "id": "62e5b19be002a89df8c3eef38356376edcc1ade4",
+      "title": "Maithilimt: Developing Multi-Domain Parallel Corpus for Hindi-Maithili Machine Translation",
+      "authors": [
+        "Ramakrishna Appicharla",
+        "S. K. Jha",
+        "A. Ekbal",
+        "Pushpak Bhattacharyya"
+      ],
+      "topAuthors": [
+        {
+          "name": "Ramakrishna Appicharla",
+          "hIndex": 5,
+          "authorId": "2101320781"
+        },
+        {
+          "name": "A. Ekbal",
+          "hIndex": 5,
+          "authorId": "2273344233"
+        }
+      ],
+      "affiliations": [
+        "Indian Institute of Technology Patna",
+        "Indian Institute of Technology Bombay"
+      ],
+      "year": 2026,
+      "venue": "Language Resources and Evaluation",
+      "publicationDate": "2026-01-07",
+      "summary": "The newly created NMT results show that multilingual models give better results than the other approaches, with an average of 16.4 and 32.5 BLEU scores for Hindi-to-Maithili and Maithili-to-Hindi language pairs, respectively.",
+      "url": "https://www.semanticscholar.org/paper/62e5b19be002a89df8c3eef38356376edcc1ade4",
+      "doi": "10.1007/s10579-025-09890-9",
+      "arxivId": null,
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 74,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-14",
+      "overlap": 9,
+      "direction": "forward",
+      "score": 48.84823417117013,
+      "why": "past year · cites 9 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year",
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/48",
+      "prNumber": 48
     },
     {
       "id": "f7d3e59f013cbb5553c4699415dd72a87f348057",
@@ -735,11 +826,13 @@
       "topAuthors": [
         {
           "name": "Desmond Elliott",
-          "hIndex": 4
+          "hIndex": 4,
+          "authorId": "2326119320"
         },
         {
           "name": "Ingo Ziegler",
-          "hIndex": 3
+          "hIndex": 3,
+          "authorId": "2319415753"
         }
       ],
       "affiliations": [],
@@ -758,54 +851,12 @@
       "addedAt": "2026-09-14",
       "overlap": 9,
       "direction": "forward",
-      "score": 52.94117647058824,
+      "score": 48.48937262255698,
       "why": "past year · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
       "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/38",
       "prNumber": 38
-    },
-    {
-      "id": "62e5b19be002a89df8c3eef38356376edcc1ade4",
-      "title": "Maithilimt: Developing Multi-Domain Parallel Corpus for Hindi-Maithili Machine Translation",
-      "authors": [
-        "Ramakrishna Appicharla",
-        "S. K. Jha",
-        "A. Ekbal",
-        "Pushpak Bhattacharyya"
-      ],
-      "topAuthors": [
-        {
-          "name": "Ramakrishna Appicharla",
-          "hIndex": 5
-        },
-        {
-          "name": "A. Ekbal",
-          "hIndex": 5
-        }
-      ],
-      "affiliations": [],
-      "year": 2026,
-      "venue": "Language Resources and Evaluation",
-      "publicationDate": "2026-01-07",
-      "summary": "The newly created NMT results show that multilingual models give better results than the other approaches, with an average of 16.4 and 32.5 BLEU scores for Hindi-to-Maithili and Maithili-to-Hindi language pairs, respectively.",
-      "url": "https://www.semanticscholar.org/paper/62e5b19be002a89df8c3eef38356376edcc1ade4",
-      "doi": "10.1007/s10579-025-09890-9",
-      "arxivId": null,
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 74,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 9,
-      "direction": "forward",
-      "score": 52.94117647058824,
-      "why": "past year · cites 9 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/48",
-      "prNumber": 48
     },
     {
       "id": "67a3b9bbbcfc3e95b7329246373e18c2762242f1",
@@ -819,11 +870,13 @@
       "topAuthors": [
         {
           "name": "Stella Biderman",
-          "hIndex": 36
+          "hIndex": 36,
+          "authorId": "103476203"
         },
         {
           "name": "Catherine Arnett",
-          "hIndex": 7
+          "hIndex": 7,
+          "authorId": "2257347764"
         }
       ],
       "affiliations": [
@@ -845,7 +898,7 @@
       "addedAt": "2026-09-14",
       "overlap": 8,
       "direction": "forward",
-      "score": 47.05882352941176,
+      "score": 46.6034347226453,
       "why": "past year · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -853,50 +906,48 @@
       "prNumber": 49
     },
     {
-      "id": "b880a2e08e4a102fd7e5c031504145cfb80bd282",
-      "title": "Stop Taking Tokenizers for Granted: They Are Core Design Decisions in Large Language Models",
+      "id": "66e13b987c86e9c40b10b27672c83848f316609a",
+      "title": "UTF-8 Plumbing: Byte-level Tokenizers Unavoidably Enable LLMs to Generate Ill-formed UTF-8",
       "authors": [
-        "Sawsan Alqahtani",
-        "Mir Tafseer Nayeem",
-        "Md Tahmid Rahman Laskar",
-        "Tasnim Mohiuddin",
-        "M Saiful Bari"
+        "Preston Firestone",
+        "Shubham Ugare",
+        "Gagandeep Singh",
+        "Sasa Misailovic"
       ],
       "topAuthors": [
         {
-          "name": "Md Tahmid Rahman Laskar",
-          "hIndex": 19
+          "name": "Sasa Misailovic",
+          "hIndex": 30,
+          "authorId": "1704478"
         },
         {
-          "name": "M Saiful Bari",
-          "hIndex": 16
+          "name": "Shubham Ugare",
+          "hIndex": 10,
+          "authorId": "1413931779"
         }
       ],
-      "affiliations": [
-        "York University",
-        "Nanyang Technological University"
-      ],
-      "year": 2026,
-      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
-      "publicationDate": "2026-01-19",
-      "summary": "This paper reframes tokenization as a core modeling decision rather than a preprocessing step, and argues for a context-aware framework that integrates tokenizer and model co-design, guided by linguistic, domain, and deployment considerations.",
-      "url": "https://www.semanticscholar.org/paper/b880a2e08e4a102fd7e5c031504145cfb80bd282",
-      "doi": "10.48550/arXiv.2601.13260",
-      "arxivId": "2601.13260",
+      "affiliations": [],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "publicationDate": "2025-11-05",
+      "summary": "This paper formalizes tokenization using monoid theory and proves that tokenizers whose vocabularies contain tokens that are ill-formed UTF-8 can always produce sequences that are ill-formed UTF-8.",
+      "url": "https://www.semanticscholar.org/paper/66e13b987c86e9c40b10b27672c83848f316609a",
+      "doi": "10.48550/arXiv.2511.05578",
+      "arxivId": "2511.05578",
       "pdf": null,
       "citationCount": 5,
-      "referenceCount": 92,
+      "referenceCount": 75,
       "influentialCitationCount": 0,
       "source": null,
       "addedAt": "2026-09-14",
       "overlap": 8,
       "direction": "forward",
-      "score": 47.05882352941176,
+      "score": 46.293878456385976,
       "why": "past year · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
-      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/50",
-      "prNumber": 50
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/53",
+      "prNumber": 53
     },
     {
       "id": "87639a90e0ab573236efeb79cf24efafc2463dcf",
@@ -911,11 +962,13 @@
       "topAuthors": [
         {
           "name": "Orhan Firat",
-          "hIndex": 47
+          "hIndex": 47,
+          "authorId": "2345617"
         },
         {
           "name": "Colin Cherry",
-          "hIndex": 42
+          "hIndex": 42,
+          "authorId": "144507724"
         }
       ],
       "affiliations": [
@@ -944,45 +997,6 @@
       "prNumber": 1
     },
     {
-      "id": "40a1f266bb5ca853837355bfff272a55f0049c81",
-      "title": "Mining Numbers in Text: A Survey",
-      "authors": [
-        "Minoru Yoshida",
-        "Kenji Kita"
-      ],
-      "topAuthors": [
-        {
-          "name": "Kenji Kita",
-          "hIndex": 13
-        },
-        {
-          "name": "Minoru Yoshida",
-          "hIndex": 10
-        }
-      ],
-      "affiliations": [],
-      "year": 2021,
-      "venue": "Information Systems",
-      "publicationDate": "2021-07-06",
-      "summary": "A quick overview of the history and recent advances of the research of mining such relations between numerals and words found in text data is provided.",
-      "url": "https://www.semanticscholar.org/paper/40a1f266bb5ca853837355bfff272a55f0049c81",
-      "doi": "10.5772/INTECHOPEN.98540",
-      "arxivId": null,
-      "pdf": "https://doi.org/10.5772/intechopen.98540",
-      "citationCount": 4,
-      "referenceCount": 42,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 17,
-      "direction": "forward",
-      "score": 100,
-      "why": "cites 17 in your list",
-      "fromReferences": false,
-      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/2",
-      "prNumber": 2
-    },
-    {
       "id": "3a395daf6c97c084cf9c3827384c53caf6502921",
       "title": "Learning to Automatically Solve Algebra Word Problems",
       "authors": [
@@ -994,11 +1008,13 @@
       "topAuthors": [
         {
           "name": "Luke Zettlemoyer",
-          "hIndex": 118
+          "hIndex": 118,
+          "authorId": "1982950"
         },
         {
           "name": "R. Barzilay",
-          "hIndex": 99
+          "hIndex": 99,
+          "authorId": "1741283"
         }
       ],
       "affiliations": [
@@ -1020,11 +1036,98 @@
       "addedAt": "2026-09-14",
       "overlap": 10,
       "direction": "backward",
-      "score": 94.96852845483299,
+      "score": 97.56003820994914,
       "why": "cited by 10 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/3",
       "prNumber": 3
+    },
+    {
+      "id": "40a1f266bb5ca853837355bfff272a55f0049c81",
+      "title": "Mining Numbers in Text: A Survey",
+      "authors": [
+        "Minoru Yoshida",
+        "Kenji Kita"
+      ],
+      "topAuthors": [
+        {
+          "name": "Kenji Kita",
+          "hIndex": 13,
+          "authorId": "2138347"
+        },
+        {
+          "name": "Minoru Yoshida",
+          "hIndex": 10,
+          "authorId": "145329865"
+        }
+      ],
+      "affiliations": [],
+      "year": 2021,
+      "venue": "Information Systems",
+      "publicationDate": "2021-07-06",
+      "summary": "A quick overview of the history and recent advances of the research of mining such relations between numerals and words found in text data is provided.",
+      "url": "https://www.semanticscholar.org/paper/40a1f266bb5ca853837355bfff272a55f0049c81",
+      "doi": "10.5772/INTECHOPEN.98540",
+      "arxivId": null,
+      "pdf": "https://doi.org/10.5772/intechopen.98540",
+      "citationCount": 4,
+      "referenceCount": 42,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-09-14",
+      "overlap": 17,
+      "direction": "forward",
+      "score": 95.41903817562479,
+      "why": "cites 17 in your list",
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/2",
+      "prNumber": 2
+    },
+    {
+      "id": "2f2d8f8072e5cc9b296fad551f65f183bdbff7aa",
+      "title": "Exploring the Limits of Language Modeling",
+      "authors": [
+        "R. Józefowicz",
+        "O. Vinyals",
+        "Mike Schuster",
+        "Noam Shazeer",
+        "Yonghui Wu"
+      ],
+      "topAuthors": [
+        {
+          "name": "O. Vinyals",
+          "hIndex": 102,
+          "authorId": "1689108"
+        },
+        {
+          "name": "Yonghui Wu",
+          "hIndex": 65,
+          "authorId": "48607963"
+        }
+      ],
+      "affiliations": [
+        "Google"
+      ],
+      "year": 2016,
+      "venue": "arXiv.org",
+      "publicationDate": "2016-02-07",
+      "summary": "This work explores recent advances in Recurrent Neural Networks for large scale Language Modeling, and extends current models to deal with two key challenges present in this task: corpora and vocabulary sizes, and complex, long term structure of language.",
+      "url": "https://www.semanticscholar.org/paper/2f2d8f8072e5cc9b296fad551f65f183bdbff7aa",
+      "doi": null,
+      "arxivId": "1602.02410",
+      "pdf": null,
+      "citationCount": 1191,
+      "referenceCount": 54,
+      "influentialCitationCount": 116,
+      "source": null,
+      "addedAt": "2026-09-14",
+      "overlap": 12,
+      "direction": "backward",
+      "score": 94.07309545443188,
+      "why": "cited by 12 in your list",
+      "fromReferences": false,
+      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/5",
+      "prNumber": 5
     },
     {
       "id": "891ce1687e2befddd19f54e4eef1d3f39c8dbaf7",
@@ -1038,11 +1141,13 @@
       "topAuthors": [
         {
           "name": "Alexander M. Rush",
-          "hIndex": 61
+          "hIndex": 61,
+          "authorId": "2531268"
         },
         {
           "name": "D. Sontag",
-          "hIndex": 54
+          "hIndex": 54,
+          "authorId": "1746662"
         }
       ],
       "affiliations": [
@@ -1064,55 +1169,11 @@
       "addedAt": "2026-09-14",
       "overlap": 13,
       "direction": "backward",
-      "score": 92.03604071099572,
+      "score": 92.91179075576628,
       "why": "cited by 13 in your list",
       "fromReferences": false,
       "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/4",
       "prNumber": 4
-    },
-    {
-      "id": "2f2d8f8072e5cc9b296fad551f65f183bdbff7aa",
-      "title": "Exploring the Limits of Language Modeling",
-      "authors": [
-        "R. Józefowicz",
-        "O. Vinyals",
-        "Mike Schuster",
-        "Noam Shazeer",
-        "Yonghui Wu"
-      ],
-      "topAuthors": [
-        {
-          "name": "O. Vinyals",
-          "hIndex": 102
-        },
-        {
-          "name": "Yonghui Wu",
-          "hIndex": 65
-        }
-      ],
-      "affiliations": [
-        "Google"
-      ],
-      "year": 2016,
-      "venue": "arXiv.org",
-      "publicationDate": "2016-02-07",
-      "summary": "This work explores recent advances in Recurrent Neural Networks for large scale Language Modeling, and extends current models to deal with two key challenges present in this task: corpora and vocabulary sizes, and complex, long term structure of language.",
-      "url": "https://www.semanticscholar.org/paper/2f2d8f8072e5cc9b296fad551f65f183bdbff7aa",
-      "doi": null,
-      "arxivId": "1602.02410",
-      "pdf": null,
-      "citationCount": 1191,
-      "referenceCount": 54,
-      "influentialCitationCount": 116,
-      "source": null,
-      "addedAt": "2026-09-14",
-      "overlap": 12,
-      "direction": "backward",
-      "score": 91.57421016248996,
-      "why": "cited by 12 in your list",
-      "fromReferences": false,
-      "prUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/5",
-      "prNumber": 5
     }
   ]
 }
