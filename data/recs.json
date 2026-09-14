@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T09:55:35.491Z",
+  "updatedAt": "2026-09-14T15:56:51.657Z",
   "recs": [
     {
       "id": "234fea0bca0519286edc98b49e94337bac2e2719",
@@ -315,7 +315,7 @@
         "Rui Kong",
         "Xinran Chen",
         "Jiamin Chen",
-        "Heng-Yi Cai",
+        "Hengyi Cai",
         "Shuaiqiang Wang",
         "Jiashu Zhao",
         "Yu-Lun Zhang",
@@ -323,7 +323,7 @@
         "Haoyi Xiong",
         "Ling-He Kong",
         "J. Huang",
-        "Da-Wei Yin"
+        "Dawei Yin"
       ],
       "year": 2026,
       "venue": null,
@@ -618,7 +618,7 @@
       "doi": "10.48550/arXiv.2510.21909",
       "arxivId": "2510.21909",
       "pdf": null,
-      "citationCount": 7,
+      "citationCount": 8,
       "referenceCount": 52,
       "influentialCitationCount": 1,
       "source": null,
@@ -770,9 +770,9 @@
       "doi": "10.1609/aaai.v30i1.10362",
       "arxivId": "1508.06615",
       "pdf": "https://doi.org/10.1609/aaai.v30i1.10362",
-      "citationCount": 1733,
+      "citationCount": 1734,
       "referenceCount": 54,
-      "influentialCitationCount": 165,
+      "influentialCitationCount": 166,
       "source": null,
       "addedAt": "2026-09-14",
       "overlap": 13,
