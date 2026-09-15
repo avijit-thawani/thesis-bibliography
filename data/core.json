@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T09:30:11.894Z",
+  "updatedAt": "2026-09-15T13:49:33.312Z",
   "core": [
     {
       "id": "5bec0de2e6614427acdbef2a5e9611a293a8c6d8",
@@ -804,7 +804,10 @@
       "influentialCitationCount": 481,
       "source": "avi-thesis.bib: Google's neural machine translation system: Bridging the gap between human and machine translation",
       "addedAt": "2026-09-12",
-      "score": 4.477611940298507
+      "score": 4.477611940298507,
+      "aliases": [
+        "avi-thesis.bib: Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation"
+      ]
     },
     {
       "id": "412e266cddfd87c79087a88ba1e4d11b89a45a13",
@@ -893,7 +896,10 @@
       "influentialCitationCount": 9,
       "source": "avi-thesis.bib: Between words and characters: A brief history of open-vocabulary modeling and tokenization in NLP",
       "addedAt": "2026-09-12",
-      "score": 35.82089552238806
+      "score": 35.82089552238806,
+      "aliases": [
+        "avi-thesis.bib: Between words and characters: A Brief History of Open-Vocabulary Modeling and Tokenization in NLP"
+      ]
     },
     {
       "id": "28a5a53dafacebad8a7c47773079caeffb9a5baa",
@@ -1016,7 +1022,10 @@
       "influentialCitationCount": 52,
       "source": "avi-thesis.bib: Canine: Pre-training an Efficient Tokenization-Free Encoder for Language Representation",
       "addedAt": "2026-09-12",
-      "score": 19.402985074626866
+      "score": 19.402985074626866,
+      "aliases": [
+        "avi-thesis.bib: CANINE: Pre-training an Efficient Tokenization-Free Encoder for Language Representation"
+      ]
     },
     {
       "id": "5dee4ece8ec1725a7d071b74bf60f4f5fd2e78ad",
@@ -1060,7 +1069,10 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: SHUOWEN-JIEZI: Linguistically informed tokenizers for Chinese language model pretraining",
       "addedAt": "2026-09-12",
-      "score": 16.417910447761194
+      "score": 16.417910447761194,
+      "aliases": [
+        "avi-thesis.bib: Sub-Character Tokenization for Chinese Pretrained Language Models"
+      ]
     },
     {
       "id": "674265c672777b6d10d5455adc58a6cacb0d0cfe",
@@ -3595,7 +3607,10 @@
       "influentialCitationCount": 1488,
       "source": "avi-thesis.bib: Deep Contextualized Word Representations",
       "addedAt": "2026-09-12",
-      "score": 5.970149253731343
+      "score": 5.970149253731343,
+      "aliases": [
+        "avi-thesis.bib: Deep contextualized word representations"
+      ]
     },
     {
       "id": "f6b51c8753a871dc94ff32152c00c01e94f90f09",
@@ -4616,7 +4631,10 @@
       "influentialCitationCount": 127,
       "source": "avi-thesis.bib: Phrase-Based \\& Neural Unsupervised Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 14.925373134328357
+      "score": 14.925373134328357,
+      "aliases": [
+        "avi-thesis.bib: Phrase-Based & Neural Unsupervised Machine Translation"
+      ]
     },
     {
       "id": "9af39292b9407888b98df2c697d92be229be9a07",
