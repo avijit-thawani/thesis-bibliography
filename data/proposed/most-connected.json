@@ -1,0 +1,41 @@
+{
+  "window": "most connected",
+  "proposedAt": "2026-09-19T08:50:43.164Z",
+  "papers": [
+    {
+      "id": "87639a90e0ab573236efeb79cf24efafc2463dcf",
+      "link": "https://arxiv.org/abs/1808.09943",
+      "title": "Revisiting Character-Based Neural Machine Translation with Capacity and Compression"
+    },
+    {
+      "id": "3a395daf6c97c084cf9c3827384c53caf6502921",
+      "link": "https://doi.org/10.3115/v1/P14-1026",
+      "title": "Learning to Automatically Solve Algebra Word Problems"
+    },
+    {
+      "id": "40a1f266bb5ca853837355bfff272a55f0049c81",
+      "link": "https://doi.org/10.5772/INTECHOPEN.98540",
+      "title": "Mining Numbers in Text: A Survey"
+    },
+    {
+      "id": "2f2d8f8072e5cc9b296fad551f65f183bdbff7aa",
+      "link": "https://arxiv.org/abs/1602.02410",
+      "title": "Exploring the Limits of Language Modeling"
+    },
+    {
+      "id": "891ce1687e2befddd19f54e4eef1d3f39c8dbaf7",
+      "link": "https://arxiv.org/abs/1508.06615",
+      "title": "Character-Aware Neural Language Models"
+    },
+    {
+      "id": "fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5",
+      "link": "https://arxiv.org/abs/1409.0473",
+      "title": "Neural Machine Translation by Jointly Learning to Align and Translate"
+    },
+    {
+      "id": "1c1b9f56f904a4fc8e980c3ccb5aa92b342d856b",
+      "link": "https://doi.org/10.1007/s10791-024-09435-8",
+      "title": "Injecting the score of the first-stage retriever as text improves BERT-based re-rankers"
+    }
+  ]
+}

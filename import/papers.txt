@@ -10,3 +10,31 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
+# --- most connected ---
+# Revisiting Character-Based Neural Machine Translation with Capacity and Compression
+#   Orhan Firat (h=47) · Google · 2018 · 101 citations · cited by 8 in your list
+https://arxiv.org/abs/1808.09943
+
+# Learning to Automatically Solve Algebra Word Problems
+#   Luke Zettlemoyer (h=118) · University of Washington · 2014 · 399 citations · cited by 10 in your list
+https://doi.org/10.3115/v1/P14-1026
+
+# Mining Numbers in Text: A Survey
+#   Kenji Kita (h=13) · 2021 · 4 citations · cites 17 in your list
+https://doi.org/10.5772/INTECHOPEN.98540
+
+# Exploring the Limits of Language Modeling
+#   O. Vinyals (h=102) · Google · 2016 · 1192 citations · cited by 12 in your list
+https://arxiv.org/abs/1602.02410
+
+# Character-Aware Neural Language Models
+#   Alexander M. Rush (h=61) · Cornell Tech · 2015 · 1733 citations · cited by 13 in your list
+https://arxiv.org/abs/1508.06615
+
+# Neural Machine Translation by Jointly Learning to Align and Translate
+#   Yoshua Bengio (h=212) · Université de Montréal · 2014 · 30029 citations · cited by 21 in your list
+https://arxiv.org/abs/1409.0473
+
+# Injecting the score of the first-stage retriever as text improves BERT-based re-rankers
+#   Suzan Verberne (h=19) · Leiden University · 2024 · 9 citations · cites 15 in your list
+https://doi.org/10.1007/s10791-024-09435-8
