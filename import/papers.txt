@@ -10,3 +10,35 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
+# --- past month ---
+# Systematic review and comparative synthesis of cross lingual question answering systems for low resource Indic languages
+#   Jovi D'Silva (h=5) · Visvesvaraya Technological University · 2026 · 0 citations · past month · cites 14 in your list
+https://doi.org/10.1007/s44163-026-01750-x
+
+# Self-Reflective Multi-modal Reasoning for Short-Video Fake News Detection
+#   Qichao Ying (h=15) · 2026 · 0 citations · past month · cites 9 in your list
+https://arxiv.org/abs/2608.26787
+
+# The Dialect Tax: Dialectal Biases Persist throughout the Language Modeling Pipeline
+#   Jared Kaplan (h=33) · University of Oxford · 2026 · 0 citations · past month · cites 8 in your list
+https://arxiv.org/abs/2608.24952
+
+# Seeing the Unseen: Visual Similarity for Pixel Language Model Adaptation
+#   Wessel Poelman (h=5) · KU Leuven · 2026 · 0 citations · past month · cites 6 in your list
+https://arxiv.org/abs/2608.30541
+
+# SWRouter: Similarity-Contractive Window Routing for Multi-Turn Large Language Model Conversations
+#   J. Huang (h=22) · 2026 · 0 citations · past month · cites 7 in your list
+https://arxiv.org/abs/2609.11414
+
+# Hierarchical aspect-based sentiment analysis Using FinRoBERTa
+#   Flavius Frasincar (h=41) · 2026 · 0 citations · past month · cites 12 in your list
+https://doi.org/10.1016/j.datak.2026.102634
+
+# Apples to Apples? Towards Comparable Crosslingual Language Model Evaluation
+#   Catherine Arnett (h=7) · EleutherAI · 2026 · 0 citations · past month · cites 5 in your list
+https://arxiv.org/abs/2608.25089
+
+# Vowel Signs Are Not Letters: A Pre-tokenization Ceiling on Multilingual Tokenizer Fertility
+#   S. Regmi (h=1) · 2026 · 1 citations · past month · cites 6 in your list
+https://arxiv.org/abs/2608.26449

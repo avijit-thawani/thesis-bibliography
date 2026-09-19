@@ -1,0 +1,46 @@
+{
+  "window": "past month",
+  "proposedAt": "2026-09-19T08:50:37.756Z",
+  "papers": [
+    {
+      "id": "234fea0bca0519286edc98b49e94337bac2e2719",
+      "link": "https://doi.org/10.1007/s44163-026-01750-x",
+      "title": "Systematic review and comparative synthesis of cross lingual question answering systems for low resource Indic languages"
+    },
+    {
+      "id": "92cec07fb969215c35e0c3d657e50615450a5a31",
+      "link": "https://arxiv.org/abs/2608.26787",
+      "title": "Self-Reflective Multi-modal Reasoning for Short-Video Fake News Detection"
+    },
+    {
+      "id": "33e409a778501b3beba82c9fa0713fa7a383c856",
+      "link": "https://arxiv.org/abs/2608.24952",
+      "title": "The Dialect Tax: Dialectal Biases Persist throughout the Language Modeling Pipeline"
+    },
+    {
+      "id": "57bb68920ac6cb78f64a888fe809aed7e4d77865",
+      "link": "https://arxiv.org/abs/2608.30541",
+      "title": "Seeing the Unseen: Visual Similarity for Pixel Language Model Adaptation"
+    },
+    {
+      "id": "63fe1d5050b6c1b569750ae92399e2d4487404f2",
+      "link": "https://arxiv.org/abs/2609.11414",
+      "title": "SWRouter: Similarity-Contractive Window Routing for Multi-Turn Large Language Model Conversations"
+    },
+    {
+      "id": "23bd8f0daba4db8a62d026ebf3a237ec9e1ff166",
+      "link": "https://doi.org/10.1016/j.datak.2026.102634",
+      "title": "Hierarchical aspect-based sentiment analysis Using FinRoBERTa"
+    },
+    {
+      "id": "3927e82c059f8285b8e0413c0a69ae2e5a538bdb",
+      "link": "https://arxiv.org/abs/2608.25089",
+      "title": "Apples to Apples? Towards Comparable Crosslingual Language Model Evaluation"
+    },
+    {
+      "id": "ddfe9c9bb77816ab10d60001636ddd32ab4e0ef8",
+      "link": "https://arxiv.org/abs/2608.26449",
+      "title": "Vowel Signs Are Not Letters: A Pre-tokenization Ceiling on Multilingual Tokenizer Fertility"
+    }
+  ]
+}
