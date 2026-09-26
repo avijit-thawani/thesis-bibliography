@@ -10,3 +10,47 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
+# --- most connected ---
+# Revisiting Character-Based Neural Machine Translation with Capacity and Compression
+#   Orhan Firat (h=47) · Google · 2018 · 101 citations · cited by 8 in your list
+https://arxiv.org/abs/1808.09943
+
+# Learning to Automatically Solve Algebra Word Problems
+#   Luke Zettlemoyer (h=118) · University of Washington · 2014 · 399 citations · cited by 10 in your list
+https://doi.org/10.3115/v1/P14-1026
+
+# Mining Numbers in Text: A Survey
+#   Kenji Kita (h=13) · 2021 · 4 citations · cites 17 in your list
+https://doi.org/10.5772/INTECHOPEN.98540
+
+# Exploring the Limits of Language Modeling
+#   O. Vinyals (h=102) · Google · 2016 · 1194 citations · cited by 12 in your list
+https://arxiv.org/abs/1602.02410
+
+# Character-Aware Neural Language Models
+#   Alexander M. Rush (h=61) · Cornell Tech · 2015 · 1734 citations · cited by 13 in your list
+https://arxiv.org/abs/1508.06615
+
+# Neural Machine Translation by Jointly Learning to Align and Translate
+#   Yoshua Bengio (h=212) · Université de Montréal · 2014 · 30066 citations · cited by 21 in your list
+https://arxiv.org/abs/1409.0473
+
+# Injecting the score of the first-stage retriever as text improves BERT-based re-rankers
+#   Suzan Verberne (h=19) · Leiden University · 2024 · 9 citations · cites 15 in your list
+https://doi.org/10.1007/s10791-024-09435-8
+
+# Fully Character-Level Neural Machine Translation without Explicit Segmentation
+#   Kyunghyun Cho (h=96) · ETH Zurich · 2016 · 470 citations · cited by 9 in your list
+https://arxiv.org/abs/1610.03017
+
+# CharBERT: Character-aware Pre-trained Language Model
+#   Ting Liu (h=75) · iFLYTEK Research · 2020 · 129 citations · cited by 7 in your list
+https://arxiv.org/abs/2011.01513
+
+# Learning to Solve Arithmetic Word Problems with Verb Categorization
+#   Oren Etzioni (h=88) · University of Edinburgh · 2014 · 489 citations · cited by 9 in your list
+https://doi.org/10.3115/v1/D14-1058
+
+# Measurement Extraction with Natural Language Processing: A Review
+#   D. Stolten (h=79) · Forschungszentrum Jülich · 2022 · 22 citations · cites 12 in your list
+https://doi.org/10.18653/v1/2022.findings-emnlp.161
