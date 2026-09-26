@@ -10,3 +10,43 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
+# --- past year ---
+# Bolmo: Byteifying the Next Generation of Language Models
+#   E. Ponti (h=33) · Allen Institute for AI · 2025 · 8 citations · past year · cites 10 in your list
+https://arxiv.org/abs/2512.15586
+
+# CONE: Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics
+#   M. Gubanov (h=15) · Florida State Univesrity · 2026 · 0 citations · past year · cites 11 in your list
+https://arxiv.org/abs/2603.04741
+
+# Proxy Compression for Language Modeling
+#   Lin Zheng (h=11) · The University of Hong Kong · 2026 · 3 citations · past year · cites 11 in your list
+https://arxiv.org/abs/2602.04289
+
+# Scratchpad Patching: Decoupling Compute from Patch Size in Byte-Level Language Models
+#   Laura Rimell (h=21) · The University of Hong Kong · 2026 · 0 citations · past year · cites 11 in your list
+https://arxiv.org/abs/2605.09630
+
+# Stop Taking Tokenizers for Granted: They Are Core Design Decisions in Large Language Models
+#   Md Tahmid Rahman Laskar (h=19) · York University · 2026 · 5 citations · past year · cites 8 in your list
+https://arxiv.org/abs/2601.13260
+
+# Toten: A Knowledge-Based System For Structure-Preserving Representation Of Physical Quantities And Technical Notation In Brazilian Portuguese
+#   Allan Kardec Duailibe Barros (h=1) · 2026 · 0 citations · past year · cites 8 in your list
+https://arxiv.org/abs/2606.19626
+
+# Dynamic tokenization in the Transformer era: A review and taxonomy
+#   Bagher Babaali (h=4) · University of Tehran · 2026 · 0 citations · past year · cites 5 in your list
+https://doi.org/10.1016/j.patcog.2026.114439
+
+# UTF-8 Plumbing: Byte-level Tokenizers Unavoidably Enable LLMs to Generate Ill-formed UTF-8
+#   Sasa Misailovic (h=30) · 2025 · 5 citations · past year · cites 8 in your list
+https://arxiv.org/abs/2511.05578
+
+# Dynamic Multi-Byte Prediction With Hierarchical Language Models
+#   Abraham Toluwase Owodunni (h=5) · 2026 · 0 citations · past year · cites 7 in your list
+https://arxiv.org/abs/2608.15454
+
+# DNACHUNKER: Learnable Tokenization for DNA Language Models
+#   Youngmok Jung (h=7) · 2026 · 2 citations · past year · cites 4 in your list
+https://arxiv.org/abs/2601.03019
