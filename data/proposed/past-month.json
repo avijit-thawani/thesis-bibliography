@@ -1,0 +1,26 @@
+{
+  "window": "past month",
+  "proposedAt": "2026-09-26T09:23:38.486Z",
+  "papers": [
+    {
+      "id": "234fea0bca0519286edc98b49e94337bac2e2719",
+      "link": "https://doi.org/10.1007/s44163-026-01750-x",
+      "title": "Systematic review and comparative synthesis of cross lingual question answering systems for low resource Indic languages"
+    },
+    {
+      "id": "57bb68920ac6cb78f64a888fe809aed7e4d77865",
+      "link": "https://arxiv.org/abs/2608.30541",
+      "title": "Seeing the Unseen: Visual Similarity for Pixel Language Model Adaptation"
+    },
+    {
+      "id": "63fe1d5050b6c1b569750ae92399e2d4487404f2",
+      "link": "https://arxiv.org/abs/2609.11414",
+      "title": "SWRouter: Similarity-Contractive Window Routing for Multi-Turn Large Language Model Conversations"
+    },
+    {
+      "id": "23bd8f0daba4db8a62d026ebf3a237ec9e1ff166",
+      "link": "https://doi.org/10.1016/j.datak.2026.102634",
+      "title": "Hierarchical aspect-based sentiment analysis Using FinRoBERTa"
+    }
+  ]
+}
