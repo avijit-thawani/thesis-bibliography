@@ -1,0 +1,56 @@
+{
+  "window": "past year",
+  "proposedAt": "2026-09-26T09:23:41.550Z",
+  "papers": [
+    {
+      "id": "bcf94ad307cdaea3e72fe64ddf3cb710b1f0ef3a",
+      "link": "https://arxiv.org/abs/2512.15586",
+      "title": "Bolmo: Byteifying the Next Generation of Language Models"
+    },
+    {
+      "id": "01034e5d9539f208a2e848fc5fc65047b995ddc7",
+      "link": "https://arxiv.org/abs/2603.04741",
+      "title": "CONE: Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics"
+    },
+    {
+      "id": "0c71a9182e0e4af9fa4315c0267a62b216ebc934",
+      "link": "https://arxiv.org/abs/2602.04289",
+      "title": "Proxy Compression for Language Modeling"
+    },
+    {
+      "id": "999cf59792831e0916e9fcc94d1a549b8dfeeb5f",
+      "link": "https://arxiv.org/abs/2605.09630",
+      "title": "Scratchpad Patching: Decoupling Compute from Patch Size in Byte-Level Language Models"
+    },
+    {
+      "id": "b880a2e08e4a102fd7e5c031504145cfb80bd282",
+      "link": "https://arxiv.org/abs/2601.13260",
+      "title": "Stop Taking Tokenizers for Granted: They Are Core Design Decisions in Large Language Models"
+    },
+    {
+      "id": "78ac5f3860d4d1bac6abe0cc0ac876b8e8329875",
+      "link": "https://arxiv.org/abs/2606.19626",
+      "title": "Toten: A Knowledge-Based System For Structure-Preserving Representation Of Physical Quantities And Technical Notation In Brazilian Portuguese"
+    },
+    {
+      "id": "15f29ed3a3860e89993e1f1541f1e8337dbf4b37",
+      "link": "https://doi.org/10.1016/j.patcog.2026.114439",
+      "title": "Dynamic tokenization in the Transformer era: A review and taxonomy"
+    },
+    {
+      "id": "66e13b987c86e9c40b10b27672c83848f316609a",
+      "link": "https://arxiv.org/abs/2511.05578",
+      "title": "UTF-8 Plumbing: Byte-level Tokenizers Unavoidably Enable LLMs to Generate Ill-formed UTF-8"
+    },
+    {
+      "id": "95462c2e9d2b2e6ee6ccc4a90965683e3fe92ee8",
+      "link": "https://arxiv.org/abs/2608.15454",
+      "title": "Dynamic Multi-Byte Prediction With Hierarchical Language Models"
+    },
+    {
+      "id": "2d0a461b6d6859047e7e9932f99638c8e21f75f0",
+      "link": "https://arxiv.org/abs/2601.03019",
+      "title": "DNACHUNKER: Learnable Tokenization for DNA Language Models"
+    }
+  ]
+}
