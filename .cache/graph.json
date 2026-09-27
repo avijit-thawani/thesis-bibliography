@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T09:23:36.695Z",
+  "updatedAt": "2026-09-27T10:05:06.580Z",
   "graph": {
     "5bec0de2e6614427acdbef2a5e9611a293a8c6d8": {
       "fetchedAt": "2026-09-12",
@@ -80137,7 +80137,7 @@
       "cites": []
     },
     "2516b8d7f61da0fac219cf00f488a7d8d3d7d5c7": {
-      "fetchedAt": "2026-09-13",
+      "fetchedAt": "2026-09-27",
       "citedBy": [
         "2aa5ae3dea4342d8b91748ccc4933e1dab25c66c",
         "64548cad25808549b2426ee423a91241bfcced29",
@@ -80227,7 +80227,12 @@
         "0ddb36e1d15f37b63a55ca09b71b43c02582269d",
         "798467c14bd05df92408a58072d1af39b7e06a7b"
       ],
-      "cites": []
+      "cites": [],
+      "citedByStrong": [
+        "34c03bbf72e1b69e04a0c0643574723775fd8b61",
+        "421dd7c4ad2da83d4b2d95c6f2f15cbffe3c8d73"
+      ],
+      "citesStrong": []
     },
     "6ddc5a5009e6b2a146e103e7d1dac283d3741fa3": {
       "fetchedAt": "2026-09-13",
