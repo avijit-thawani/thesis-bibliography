@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T10:32:15.346Z",
+  "updatedAt": "2026-09-30T19:33:16.867Z",
   "core": [
     {
       "id": "5bec0de2e6614427acdbef2a5e9611a293a8c6d8",
@@ -236,7 +236,7 @@
       "influentialCitationCount": 11,
       "source": "avi-thesis.bib: SberQuAD -- Russian Reading Comprehension Dataset: Description and Analysis",
       "addedAt": "2026-09-12",
-      "score": 7.462686567164178
+      "score": 5.970149253731343
     },
     {
       "id": "6bfa1b07cb1f46294adac73afe33616cd919b603",
@@ -738,7 +738,7 @@
       "influentialCitationCount": 156,
       "source": "avi-thesis.bib: Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates",
       "addedAt": "2026-09-12",
-      "score": 35.82089552238806
+      "score": 34.32835820895522
     },
     {
       "id": "c6850869aa5e78a107c378d2e8bfa39633158c0c",
@@ -805,7 +805,10 @@
       "influentialCitationCount": 482,
       "source": "avi-thesis.bib: Google's neural machine translation system: Bridging the gap between human and machine translation",
       "addedAt": "2026-09-12",
-      "score": 4.477611940298507
+      "score": 4.477611940298507,
+      "aliases": [
+        "avi-thesis.bib: Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation"
+      ]
     },
     {
       "id": "412e266cddfd87c79087a88ba1e4d11b89a45a13",
@@ -847,7 +850,7 @@
       "influentialCitationCount": 11,
       "source": "avi-thesis.bib: Megabyte: Predicting million-byte sequences with multiscale transformers",
       "addedAt": "2026-09-12",
-      "score": 8.955223880597014
+      "score": 13.432835820895523
     },
     {
       "id": "d617f51833860dc50d202af7f80be71304b2e994",
@@ -894,7 +897,10 @@
       "influentialCitationCount": 9,
       "source": "avi-thesis.bib: Between words and characters: A brief history of open-vocabulary modeling and tokenization in NLP",
       "addedAt": "2026-09-12",
-      "score": 35.82089552238806
+      "score": 35.82089552238806,
+      "aliases": [
+        "avi-thesis.bib: Between words and characters: A Brief History of Open-Vocabulary Modeling and Tokenization in NLP"
+      ]
     },
     {
       "id": "28a5a53dafacebad8a7c47773079caeffb9a5baa",
@@ -1017,7 +1023,10 @@
       "influentialCitationCount": 51,
       "source": "avi-thesis.bib: Canine: Pre-training an Efficient Tokenization-Free Encoder for Language Representation",
       "addedAt": "2026-09-12",
-      "score": 19.402985074626866
+      "score": 38.80597014925373,
+      "aliases": [
+        "avi-thesis.bib: CANINE: Pre-training an Efficient Tokenization-Free Encoder for Language Representation"
+      ]
     },
     {
       "id": "5dee4ece8ec1725a7d071b74bf60f4f5fd2e78ad",
@@ -1061,7 +1070,10 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: SHUOWEN-JIEZI: Linguistically informed tokenizers for Chinese language model pretraining",
       "addedAt": "2026-09-12",
-      "score": 16.417910447761194
+      "score": 16.417910447761194,
+      "aliases": [
+        "avi-thesis.bib: Sub-Character Tokenization for Chinese Pretrained Language Models"
+      ]
     },
     {
       "id": "674265c672777b6d10d5455adc58a6cacb0d0cfe",
@@ -1217,7 +1229,7 @@
       "influentialCitationCount": 3,
       "source": "avi-thesis.bib: What do tokens know about their characters and how do they know it?",
       "addedAt": "2026-09-12",
-      "score": 22.388059701492537
+      "score": 23.88059701492537
     },
     {
       "id": "d023e4c652dc21b2068a8527203a70d9eaf195d9",
@@ -1255,7 +1267,7 @@
       "influentialCitationCount": 62,
       "source": "avi-thesis.bib: BPE-Dropout: Simple and Effective Subword Regularization",
       "addedAt": "2026-09-12",
-      "score": 8.955223880597014
+      "score": 32.83582089552239
     },
     {
       "id": "a77643bff6f50ccc4f80ec081e4d078a2e788ae7",
@@ -1486,7 +1498,7 @@
       "influentialCitationCount": 174,
       "source": "avi-thesis.bib: No Language Left Behind: Scaling Human-Centered Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 1.4925373134328357
+      "score": 0
     },
     {
       "id": "174a9b78350e9561555052bc6901cc44782f4c62",
@@ -2530,7 +2542,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: The wall street neophyte: A zero-shot analysis of chatgpt over multimodal stock movement prediction challenges",
       "addedAt": "2026-09-12",
-      "score": 1.4925373134328357
+      "score": 4.477611940298507
     },
     {
       "id": "18cad1aa7a3f6e783183a5588e85a9dc3ba6ede6",
@@ -2871,7 +2883,7 @@
       "influentialCitationCount": 6,
       "source": "avi-thesis.bib: Exploring Numeracy in Word Embeddings",
       "addedAt": "2026-09-12",
-      "score": 8.955223880597014
+      "score": 16.417910447761194
     },
     {
       "id": "5f277d2605a272c321615373254097939aae4fac",
@@ -3036,7 +3048,7 @@
       "influentialCitationCount": 236,
       "source": "avi-thesis.bib: DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs",
       "addedAt": "2026-09-12",
-      "score": 14.925373134328357
+      "score": 11.940298507462686
     },
     {
       "id": "52fa450740913a6cdcb4d9395b45e203f46cab79",
@@ -3602,7 +3614,10 @@
       "influentialCitationCount": 1486,
       "source": "avi-thesis.bib: Deep Contextualized Word Representations",
       "addedAt": "2026-09-12",
-      "score": 5.970149253731343
+      "score": 5.970149253731343,
+      "aliases": [
+        "avi-thesis.bib: Deep contextualized word representations"
+      ]
     },
     {
       "id": "f6b51c8753a871dc94ff32152c00c01e94f90f09",
@@ -3674,7 +3689,7 @@
       "influentialCitationCount": 9,
       "source": "avi-thesis.bib: Verb Physics: Relative Physical Knowledge of Actions and Objects",
       "addedAt": "2026-09-12",
-      "score": 13.432835820895523
+      "score": 4.477611940298507
     },
     {
       "id": "4c6fe6179c408e1fbb3871af13d1a8e64f766e54",
@@ -4175,7 +4190,7 @@
       "influentialCitationCount": 12,
       "source": "avi-thesis.bib: Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-Trained Language Models",
       "addedAt": "2026-09-12",
-      "score": 11.940298507462686
+      "score": 19.402985074626866
     },
     {
       "id": "2cc3ab9fa41ba2804e301f7eae9598636e62422a",
@@ -4624,7 +4639,10 @@
       "influentialCitationCount": 127,
       "source": "avi-thesis.bib: Phrase-Based \\& Neural Unsupervised Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 14.925373134328357
+      "score": 14.925373134328357,
+      "aliases": [
+        "avi-thesis.bib: Phrase-Based & Neural Unsupervised Machine Translation"
+      ]
     },
     {
       "id": "9af39292b9407888b98df2c697d92be229be9a07",
@@ -4983,7 +5001,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: CodeBPE: Investigating Subtokenization Options for Large Language Model Pretraining on Source Code",
       "addedAt": "2026-09-12",
-      "score": 2.9850746268656714
+      "score": 19.402985074626866
     },
     {
       "id": "694b3c58712deefb59502847ba1b52b192c413e5",
@@ -6561,7 +6579,7 @@
       "influentialCitationCount": 30,
       "source": "avi-thesis.bib: Variability signatures distinguish verbal from nonverbal counting for both large and small numbers",
       "addedAt": "2026-09-12",
-      "score": 1.4925373134328357
+      "score": 0
     },
     {
       "id": "40dbb25a15b63af3faccb81c8e64a3f5d659e07e",
