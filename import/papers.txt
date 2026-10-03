@@ -10,3 +10,55 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
+# --- most connected ---
+# Revisiting Character-Based Neural Machine Translation with Capacity and Compression
+#   Orhan Firat (h=50) · Google · 2018 · 101 citations · cited by 8 in your list
+https://arxiv.org/abs/1808.09943
+
+# Mining Numbers in Text: A Survey
+#   Kenji Kita (h=13) · 2021 · 4 citations · cites 18 in your list
+https://doi.org/10.5772/INTECHOPEN.98540
+
+# Exploring the Limits of Language Modeling
+#   O. Vinyals (h=102) · Google · 2016 · 1194 citations · cited by 12 in your list
+https://arxiv.org/abs/1602.02410
+
+# Fully Character-Level Neural Machine Translation without Explicit Segmentation
+#   Kyunghyun Cho (h=96) · ETH Zurich · 2016 · 470 citations · cited by 9 in your list
+https://arxiv.org/abs/1610.03017
+
+# Learning to Automatically Solve Algebra Word Problems
+#   Luke Zettlemoyer (h=119) · University of Washington · 2014 · 399 citations · cited by 10 in your list
+https://doi.org/10.3115/v1/P14-1026
+
+# Character-Aware Neural Language Models
+#   Alexander M. Rush (h=62) · Cornell Tech · 2015 · 1735 citations · cited by 13 in your list
+https://arxiv.org/abs/1508.06615
+
+# CharBERT: Character-aware Pre-trained Language Model
+#   Ting Liu (h=76) · iFLYTEK Research · 2020 · 129 citations · cited by 7 in your list
+https://arxiv.org/abs/2011.01513
+
+# Neural Machine Translation by Jointly Learning to Align and Translate
+#   Yoshua Bengio (h=209) · Université de Montréal · 2014 · 30111 citations · cited by 21 in your list
+https://arxiv.org/abs/1409.0473
+
+# Byte Pair Encoding is Suboptimal for Language Model Pretraining
+#   Greg Durrett (h=50) · The University of Texas at Austin · 2020 · 341 citations · cited by 9 in your list
+https://arxiv.org/abs/2004.03720
+
+# Generating Sequences With Recurrent Neural Networks
+#   Alex Graves (h=52) · 2013 · 4353 citations · cited by 12 in your list
+https://arxiv.org/abs/1308.0850
+
+# Deep Neural Solver for Math Word Problems
+#   Shuming Shi (h=41) · Tencent AI Lab · 2017 · 400 citations · cited by 8 in your list
+https://doi.org/10.18653/v1/D17-1088
+
+# Extracting Commonsense Properties from Embeddings with Limited Human Guidance
+#   Doug Downey (h=39) · Allen Institute for Artificial Intelligence · 2018 · 21 citations · cited by 4 in your list
+https://doi.org/10.18653/v1/P18-2102
+
+# Learning to Solve Arithmetic Word Problems with Verb Categorization
+#   Oren Etzioni (h=88) · University of Edinburgh · 2014 · 489 citations · cited by 9 in your list
+https://doi.org/10.3115/v1/D14-1058
