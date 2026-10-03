@@ -10,3 +10,11 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
+# --- past month ---
+# Beyond Atomic Tokens: Factorizing Syllables for Language Model Pretraining
+#   N. Nguyen (h=20) · University of Information Technology, Vietnam National University, Ho Chi Minh city, Vietnam · 2026 · 0 citations · past month · cites 4 in your list
+https://arxiv.org/abs/2609.21362
+
+# Systematic review and comparative synthesis of cross lingual question answering systems for low resource Indic languages
+#   Jovi D'Silva (h=5) · KLS Gogte Institute of Technology · 2026 · 0 citations · past month · cites 13 in your list
+https://doi.org/10.1007/s44163-026-01750-x

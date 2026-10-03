@@ -1,0 +1,16 @@
+{
+  "window": "past month",
+  "proposedAt": "2026-10-03T09:54:42.741Z",
+  "papers": [
+    {
+      "id": "61901075c741690366d0b0d816bcb3a71d77e8be",
+      "link": "https://arxiv.org/abs/2609.21362",
+      "title": "Beyond Atomic Tokens: Factorizing Syllables for Language Model Pretraining"
+    },
+    {
+      "id": "234fea0bca0519286edc98b49e94337bac2e2719",
+      "link": "https://doi.org/10.1007/s44163-026-01750-x",
+      "title": "Systematic review and comparative synthesis of cross lingual question answering systems for low resource Indic languages"
+    }
+  ]
+}
