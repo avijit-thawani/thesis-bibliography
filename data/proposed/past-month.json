@@ -1,0 +1,11 @@
+{
+  "window": "past month",
+  "proposedAt": "2026-10-10T10:39:13.554Z",
+  "papers": [
+    {
+      "id": "61901075c741690366d0b0d816bcb3a71d77e8be",
+      "link": "https://arxiv.org/abs/2609.21362",
+      "title": "Beyond Atomic Tokens: Factorizing Syllables for Language Model Pretraining"
+    }
+  ]
+}
