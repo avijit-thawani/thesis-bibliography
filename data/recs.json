@@ -1,6 +1,101 @@
 {
-  "updatedAt": "2026-10-14T09:33:29.029Z",
+  "updatedAt": "2026-10-15T09:47:29.402Z",
   "recs": [
+    {
+      "id": "d0dbd3dad75dabdadf832d90ba4372fdc9854d4f",
+      "title": "zip2zip++: Towards Inference-Time Token Compression with Minimal Quality Loss",
+      "authors": [
+        "Sai-Bo Geng",
+        "A. Gentilini",
+        "Xin-Xian Ma",
+        "Nathan Ranchin",
+        "Yunzhen Yao",
+        "Robert West"
+      ],
+      "topAuthors": [
+        {
+          "name": "A. Gentilini",
+          "hIndex": 12,
+          "authorId": "49125162"
+        },
+        {
+          "name": "Sai-Bo Geng",
+          "hIndex": 6,
+          "authorId": "2032224647"
+        }
+      ],
+      "affiliations": [
+        "EPFL"
+      ],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-10-09",
+      "summary": "Across four models, the recipe improves perplexity on every corpus the authors evaluated as well as mathematical reasoning accuracy, closing roughly half the quality gap between zip2zip and the uncompressed baseline at a similar compression ratio on general text.",
+      "url": "https://www.semanticscholar.org/paper/d0dbd3dad75dabdadf832d90ba4372fdc9854d4f",
+      "doi": null,
+      "arxivId": "2610.13605",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 46,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-15",
+      "overlap": 10,
+      "direction": "forward",
+      "score": 46.31871387716259,
+      "why": "past month · cites 10 in your list",
+      "fromReferences": false,
+      "freshWindow": "past month",
+      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/54",
+      "batchPrNumber": 54,
+      "batchBranch": "recs/past-month"
+    },
+    {
+      "id": "b0840a6a9dc875d75760bd604a3e60d879b44579",
+      "title": "More Than Words: Compositional Tokenization for Efficient Language Models",
+      "authors": [
+        "Yuval Reif",
+        "Guy Kaplan",
+        "Roy Schwartz"
+      ],
+      "topAuthors": [
+        {
+          "name": "Yuval Reif",
+          "hIndex": 5,
+          "authorId": "2219310473"
+        },
+        {
+          "name": "Guy Kaplan",
+          "hIndex": 4,
+          "authorId": "2325053998"
+        }
+      ],
+      "affiliations": [
+        "The Hebrew University of Jerusalem"
+      ],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-10-04",
+      "summary": "CoBPE is introduced, a compositional tokenization approach that represents such phrases as a lexical base token (table) attached with a small set of reusable surface modifiers, composed in embedding space at input and predicted jointly at output.",
+      "url": "https://www.semanticscholar.org/paper/b0840a6a9dc875d75760bd604a3e60d879b44579",
+      "doi": null,
+      "arxivId": "2610.05597",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 77,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-15",
+      "overlap": 9,
+      "direction": "forward",
+      "score": 21.385924521727553,
+      "why": "past month · cites 9 in your list",
+      "fromReferences": false,
+      "freshWindow": "past month",
+      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/54",
+      "batchPrNumber": 54,
+      "batchBranch": "recs/past-month"
+    },
     {
       "id": "61901075c741690366d0b0d816bcb3a71d77e8be",
       "title": "Beyond Atomic Tokens: Factorizing Syllables for Language Model Pretraining",
@@ -40,11 +135,210 @@
       "referenceCount": 23,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-14",
+      "addedAt": "2026-10-15",
       "overlap": 4,
       "direction": "forward",
-      "score": 15.464942111295125,
+      "score": 17.82155678673219,
       "why": "past month · cites 4 in your list",
+      "fromReferences": false,
+      "freshWindow": "past month",
+      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/54",
+      "batchPrNumber": 54,
+      "batchBranch": "recs/past-month"
+    },
+    {
+      "id": "4929f866efd5ed1ec540ec0f654fdb0f0aa1ae2b",
+      "title": "Language-Specific Effects of Tokenizer Choice in Multilingual Language Models",
+      "authors": [
+        "Clara Meister",
+        "G. S. Altintas",
+        "Antoine Bosselut"
+      ],
+      "topAuthors": [
+        {
+          "name": "Clara Meister",
+          "hIndex": 25,
+          "authorId": "150953620"
+        },
+        {
+          "name": "Antoine Bosselut",
+          "hIndex": 15,
+          "authorId": "2284866282"
+        }
+      ],
+      "affiliations": [
+        "University of Toronto"
+      ],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-10-08",
+      "summary": "It is found that tokenizer choice matters more for languages with less language-model training data: across the 54 tokenizers, the standard deviation of a language's bits-per-byte (BPB) increases as its model training-data share decreases.",
+      "url": "https://www.semanticscholar.org/paper/4929f866efd5ed1ec540ec0f654fdb0f0aa1ae2b",
+      "doi": null,
+      "arxivId": "2610.12144",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 46,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-15",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 15.904250595783513,
+      "why": "past month · cites 5 in your list",
+      "fromReferences": false,
+      "freshWindow": "past month",
+      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/54",
+      "batchPrNumber": 54,
+      "batchBranch": "recs/past-month"
+    },
+    {
+      "id": "4ecb8be51290c673a0dfb5fbf39190c01c99bbf8",
+      "title": "Counting and Min-Cost Encoding for Tokenization in Large Language Models",
+      "authors": [
+        "Shu-Ming Shi",
+        "Xiang Zhang",
+        "Hao-Yi Yu",
+        "Wen-Bo Fei",
+        "Chang-Jian Wang",
+        "Zhan Wang",
+        "Guo-Qing Pang",
+        "Guang-Ye Yu",
+        "Quan Lu",
+        "Ning Jiang"
+      ],
+      "topAuthors": [
+        {
+          "name": "Shu-Ming Shi",
+          "hIndex": 10,
+          "authorId": "2257446263"
+        },
+        {
+          "name": "Quan Lu",
+          "hIndex": 7,
+          "authorId": "2261381093"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-10-01",
+      "summary": "Results demonstrate that CNF-MCE can improve token efficiency significantly while maintaining competitive downstream performance, and is applicable to a wide range of vocabularies, including those built from BPE, UnigramLM, CNF, and others.",
+      "url": "https://www.semanticscholar.org/paper/4ecb8be51290c673a0dfb5fbf39190c01c99bbf8",
+      "doi": null,
+      "arxivId": "2610.01127",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 41,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-15",
+      "overlap": 4,
+      "direction": "forward",
+      "score": 15.872908381976808,
+      "why": "past month · cites 4 in your list",
+      "fromReferences": false,
+      "freshWindow": "past month",
+      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/54",
+      "batchPrNumber": 54,
+      "batchBranch": "recs/past-month"
+    },
+    {
+      "id": "64c823fa0dfd3a2ca609304f5a368f6bb2d90fa2",
+      "title": "Retrofitting language models to operate over bytes.",
+      "authors": [
+        "Benjamin Minixhofer",
+        "Tyler Murray",
+        "Tomasz Limisiewicz",
+        "A. Korhonen",
+        "L. Zettlemoyer",
+        "Noah A. Smith",
+        "Edoardo M. Ponti",
+        "Luca Soldaini",
+        "Valentin Hofmann"
+      ],
+      "topAuthors": [
+        {
+          "name": "Benjamin Minixhofer",
+          "hIndex": 9,
+          "authorId": "2090357303"
+        },
+        {
+          "name": "L. Zettlemoyer",
+          "hIndex": 9,
+          "authorId": "2364685144"
+        }
+      ],
+      "affiliations": [
+        "Allen Institute for Artificial Intelligence",
+        "University of Washington"
+      ],
+      "year": 2026,
+      "venue": "Nature",
+      "publicationDate": "2026-10-07",
+      "summary": "This work uses a two-stage conversion procedure to retrofit existing subword-based models into byte-level models with minimal extra training, demonstrating that models operating on raw text encodings can scale competitively while offering advantages in domains requiring fine-grained textual understanding.",
+      "url": "https://www.semanticscholar.org/paper/64c823fa0dfd3a2ca609304f5a368f6bb2d90fa2",
+      "doi": "10.1038/s41586-026-11111-4",
+      "arxivId": null,
+      "pdf": "https://www.nature.com/articles/s41586-026-11111-4.pdf",
+      "citationCount": 1,
+      "referenceCount": 44,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-15",
+      "overlap": 4,
+      "direction": "forward",
+      "score": 15.387649693404043,
+      "why": "past month · cites 4 in your list",
+      "fromReferences": false,
+      "freshWindow": "past month",
+      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/54",
+      "batchPrNumber": 54,
+      "batchBranch": "recs/past-month"
+    },
+    {
+      "id": "62b6f7ca03af2172befe0a28d1dce35abd23a90c",
+      "title": "TOAST: Stochastic Robot Action Tokenization for Autoregressive Vision-Language-Action Models",
+      "authors": [
+        "Keisuke Shirai",
+        "Tomohiro Motoda",
+        "Hanbit Oh",
+        "Ryoichi Nakajo",
+        "R. Mykhailyshyn",
+        "Ryo Hanai",
+        "Shotaro Miwa",
+        "Y. Domae"
+      ],
+      "topAuthors": [
+        {
+          "name": "Y. Domae",
+          "hIndex": 14,
+          "authorId": "2512607"
+        },
+        {
+          "name": "R. Mykhailyshyn",
+          "hIndex": 13,
+          "authorId": "31073072"
+        }
+      ],
+      "affiliations": [],
+      "year": 2026,
+      "venue": null,
+      "publicationDate": "2026-10-01",
+      "summary": "TOkenization of Action sequences with STochastic sampling (TOAST), a stochastic action tokenization method that samples alternative tokenizations of the same quantized action sequence during policy training, demonstrates the effectiveness of stochastic action tokenization for autoregressive robot policy learning, particularly when training data are limited.",
+      "url": "https://www.semanticscholar.org/paper/62b6f7ca03af2172befe0a28d1dce35abd23a90c",
+      "doi": null,
+      "arxivId": "2610.00899",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 36,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-15",
+      "overlap": 5,
+      "direction": "forward",
+      "score": 15.364169938675646,
+      "why": "past month · cites 5 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/54",
@@ -92,11 +386,11 @@
       "referenceCount": 107,
       "influentialCitationCount": 2,
       "source": null,
-      "addedAt": "2026-10-14",
-      "overlap": 12,
+      "addedAt": "2026-10-15",
+      "overlap": 11,
       "direction": "forward",
-      "score": 46.64240842712146,
-      "why": "past year · cites 12 in your list",
+      "score": 50.81600390004716,
+      "why": "past year · cites 11 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/55",
@@ -141,11 +435,57 @@
       "referenceCount": 101,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-14",
+      "addedAt": "2026-10-15",
       "overlap": 13,
       "direction": "forward",
-      "score": 43.542935255821895,
+      "score": 46.86035495663033,
       "why": "past year · cites 13 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year",
+      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/55",
+      "batchPrNumber": 55,
+      "batchBranch": "recs/past-year"
+    },
+    {
+      "id": "01034e5d9539f208a2e848fc5fc65047b995ddc7",
+      "title": "CONE: Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics",
+      "authors": [
+        "Gyanendra Shrestha",
+        "Anna Pyayt",
+        "M. Gubanov"
+      ],
+      "topAuthors": [
+        {
+          "name": "M. Gubanov",
+          "hIndex": 15,
+          "authorId": "1705924"
+        },
+        {
+          "name": "Anna Pyayt",
+          "hIndex": 12,
+          "authorId": "1743601"
+        }
+      ],
+      "affiliations": [
+        "Florida State Univesrity"
+      ],
+      "year": 2026,
+      "venue": "Proc. ACM Manag. Data",
+      "publicationDate": "2026-03-05",
+      "summary": "This paper proposes CONE, a hybrid transformer encoder pre-trained model that encodes numbers, ranges, and gaussians into an embedding vector space preserving distance and introduces a novel composite embedding construction algorithm that integrates numerical values, ranges or gaussians together with their associated units and attribute names to precisely capture their intricate semantics.",
+      "url": "https://www.semanticscholar.org/paper/01034e5d9539f208a2e848fc5fc65047b995ddc7",
+      "doi": "10.1145/3802049",
+      "arxivId": "2603.04741",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 84,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-15",
+      "overlap": 12,
+      "direction": "forward",
+      "score": 44.46246015234693,
+      "why": "past year · cites 12 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/55",
@@ -189,197 +529,11 @@
       "referenceCount": 119,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-14",
+      "addedAt": "2026-10-15",
       "overlap": 13,
       "direction": "forward",
-      "score": 39.48018016090903,
+      "score": 43.87271152224387,
       "why": "past year · cites 13 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/55",
-      "batchPrNumber": 55,
-      "batchBranch": "recs/past-year"
-    },
-    {
-      "id": "01034e5d9539f208a2e848fc5fc65047b995ddc7",
-      "title": "CONE: Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics",
-      "authors": [
-        "Gyanendra Shrestha",
-        "Anna Pyayt",
-        "M. Gubanov"
-      ],
-      "topAuthors": [
-        {
-          "name": "M. Gubanov",
-          "hIndex": 15,
-          "authorId": "1705924"
-        },
-        {
-          "name": "Anna Pyayt",
-          "hIndex": 12,
-          "authorId": "1743601"
-        }
-      ],
-      "affiliations": [
-        "Florida State Univesrity"
-      ],
-      "year": 2026,
-      "venue": "Proc. ACM Manag. Data",
-      "publicationDate": "2026-03-05",
-      "summary": "This paper proposes CONE, a hybrid transformer encoder pre-trained model that encodes numbers, ranges, and gaussians into an embedding vector space preserving distance and introduces a novel composite embedding construction algorithm that integrates numerical values, ranges or gaussians together with their associated units and attribute names to precisely capture their intricate semantics.",
-      "url": "https://www.semanticscholar.org/paper/01034e5d9539f208a2e848fc5fc65047b995ddc7",
-      "doi": "10.1145/3802049",
-      "arxivId": "2603.04741",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 84,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-14",
-      "overlap": 12,
-      "direction": "forward",
-      "score": 38.585569388146574,
-      "why": "past year · cites 12 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/55",
-      "batchPrNumber": 55,
-      "batchBranch": "recs/past-year"
-    },
-    {
-      "id": "f7d3e59f013cbb5553c4699415dd72a87f348057",
-      "title": "Rate-Utility Frontiers for Language Encodings: Comparing Tokens, Bytes, and Pixels Under Controlled Linguistic Content",
-      "authors": [
-        "Ingo Ziegler",
-        "M. Krebs",
-        "Desmond Elliott"
-      ],
-      "topAuthors": [
-        {
-          "name": "Desmond Elliott",
-          "hIndex": 5,
-          "authorId": "2326119320"
-        },
-        {
-          "name": "Ingo Ziegler",
-          "hIndex": 3,
-          "authorId": "2319415753"
-        }
-      ],
-      "affiliations": [
-        "University of Copenhagen"
-      ],
-      "year": 2026,
-      "venue": "arXiv.org",
-      "publicationDate": "2026-07-17",
-      "summary": "This work uses verified parallel sentences to compare tokens, bytes, and pixels through a shared bottleneck whose width is swept to trace rate-utility frontiers, and evaluates three utilities: surface form preservation, cross-lingual sentence alignment, and topic classification.",
-      "url": "https://www.semanticscholar.org/paper/f7d3e59f013cbb5553c4699415dd72a87f348057",
-      "doi": "10.48550/arXiv.2607.16117",
-      "arxivId": "2607.16117",
-      "pdf": null,
-      "citationCount": 0,
-      "referenceCount": 55,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-14",
-      "overlap": 11,
-      "direction": "forward",
-      "score": 29.62430586474529,
-      "why": "past year · cites 11 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/55",
-      "batchPrNumber": 55,
-      "batchBranch": "recs/past-year"
-    },
-    {
-      "id": "b880a2e08e4a102fd7e5c031504145cfb80bd282",
-      "title": "Stop Taking Tokenizers for Granted: They Are Core Design Decisions in Large Language Models",
-      "authors": [
-        "Sawsan Alqahtani",
-        "Mir Tafseer Nayeem",
-        "Md Tahmid Rahman Laskar",
-        "Tasnim Mohiuddin",
-        "M Saiful Bari"
-      ],
-      "topAuthors": [
-        {
-          "name": "Md Tahmid Rahman Laskar",
-          "hIndex": 21,
-          "authorId": "46437970"
-        },
-        {
-          "name": "M Saiful Bari",
-          "hIndex": 17,
-          "authorId": "31773000"
-        }
-      ],
-      "affiliations": [
-        "York University",
-        "Nanyang Technological University"
-      ],
-      "year": 2026,
-      "venue": "Conference of the European Chapter of the Association for Computational Linguistics",
-      "publicationDate": "2026-01-19",
-      "summary": "This paper reframes tokenization as a core modeling decision rather than a preprocessing step, and argues for a context-aware framework that integrates tokenizer and model co-design, guided by linguistic, domain, and deployment considerations.",
-      "url": "https://www.semanticscholar.org/paper/b880a2e08e4a102fd7e5c031504145cfb80bd282",
-      "doi": "10.48550/arXiv.2601.13260",
-      "arxivId": "2601.13260",
-      "pdf": null,
-      "citationCount": 6,
-      "referenceCount": 92,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-14",
-      "overlap": 7,
-      "direction": "forward",
-      "score": 26.11814633317061,
-      "why": "past year · cites 7 in your list",
-      "fromReferences": false,
-      "freshWindow": "past year",
-      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/55",
-      "batchPrNumber": 55,
-      "batchBranch": "recs/past-year"
-    },
-    {
-      "id": "66e13b987c86e9c40b10b27672c83848f316609a",
-      "title": "UTF-8 Plumbing: Byte-level Tokenizers Unavoidably Enable LLMs to Generate Ill-formed UTF-8",
-      "authors": [
-        "Preston Firestone",
-        "Shubham Ugare",
-        "Gagandeep Singh",
-        "Sasa Misailovic"
-      ],
-      "topAuthors": [
-        {
-          "name": "Sasa Misailovic",
-          "hIndex": 32,
-          "authorId": "1704478"
-        },
-        {
-          "name": "Shubham Ugare",
-          "hIndex": 11,
-          "authorId": "1413931779"
-        }
-      ],
-      "affiliations": [],
-      "year": 2025,
-      "venue": "arXiv.org",
-      "publicationDate": "2025-11-05",
-      "summary": "This paper formalizes tokenization using monoid theory and proves that tokenizers whose vocabularies contain tokens that are ill-formed UTF-8 can always produce sequences that are ill-formed UTF-8.",
-      "url": "https://www.semanticscholar.org/paper/66e13b987c86e9c40b10b27672c83848f316609a",
-      "doi": "10.48550/arXiv.2511.05578",
-      "arxivId": "2511.05578",
-      "pdf": null,
-      "citationCount": 5,
-      "referenceCount": 75,
-      "influentialCitationCount": 0,
-      "source": null,
-      "addedAt": "2026-10-14",
-      "overlap": 9,
-      "direction": "forward",
-      "score": 25.554378485741537,
-      "why": "past year · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/55",
@@ -422,11 +576,57 @@
       "referenceCount": 67,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-14",
-      "overlap": 10,
+      "addedAt": "2026-10-15",
+      "overlap": 11,
       "direction": "forward",
-      "score": 25.13413738067926,
-      "why": "past year · cites 10 in your list",
+      "score": 32.448954121420414,
+      "why": "past year · cites 11 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year",
+      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/55",
+      "batchPrNumber": 55,
+      "batchBranch": "recs/past-year"
+    },
+    {
+      "id": "f7d3e59f013cbb5553c4699415dd72a87f348057",
+      "title": "Rate-Utility Frontiers for Language Encodings: Comparing Tokens, Bytes, and Pixels Under Controlled Linguistic Content",
+      "authors": [
+        "Ingo Ziegler",
+        "M. Krebs",
+        "Desmond Elliott"
+      ],
+      "topAuthors": [
+        {
+          "name": "Desmond Elliott",
+          "hIndex": 5,
+          "authorId": "2326119320"
+        },
+        {
+          "name": "Ingo Ziegler",
+          "hIndex": 3,
+          "authorId": "2319415753"
+        }
+      ],
+      "affiliations": [
+        "University of Copenhagen"
+      ],
+      "year": 2026,
+      "venue": "arXiv.org",
+      "publicationDate": "2026-07-17",
+      "summary": "This work uses verified parallel sentences to compare tokens, bytes, and pixels through a shared bottleneck whose width is swept to trace rate-utility frontiers, and evaluates three utilities: surface form preservation, cross-lingual sentence alignment, and topic classification.",
+      "url": "https://www.semanticscholar.org/paper/f7d3e59f013cbb5553c4699415dd72a87f348057",
+      "doi": "10.48550/arXiv.2607.16117",
+      "arxivId": "2607.16117",
+      "pdf": null,
+      "citationCount": 0,
+      "referenceCount": 55,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-15",
+      "overlap": 11,
+      "direction": "forward",
+      "score": 31.767675277685576,
+      "why": "past year · cites 11 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/55",
@@ -474,11 +674,11 @@
       "referenceCount": 65,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-14",
-      "overlap": 7,
+      "addedAt": "2026-10-15",
+      "overlap": 8,
       "direction": "forward",
-      "score": 24.285052418492928,
-      "why": "past year · cites 7 in your list",
+      "score": 31.508463064379722,
+      "why": "past year · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/55",
@@ -523,11 +723,104 @@
       "referenceCount": 36,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-14",
-      "overlap": 8,
+      "addedAt": "2026-10-15",
+      "overlap": 9,
       "direction": "forward",
-      "score": 24.167656307096642,
-      "why": "past year · cites 8 in your list",
+      "score": 31.287016095211523,
+      "why": "past year · cites 9 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year",
+      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/55",
+      "batchPrNumber": 55,
+      "batchBranch": "recs/past-year"
+    },
+    {
+      "id": "67a3b9bbbcfc3e95b7329246373e18c2762242f1",
+      "title": "Explaining and Mitigating Crosslingual Tokenizer Inequities",
+      "authors": [
+        "Catherine Arnett",
+        "Tyler A. Chang",
+        "Stella Biderman",
+        "Benjamin K. Bergen"
+      ],
+      "topAuthors": [
+        {
+          "name": "Stella Biderman",
+          "hIndex": 37,
+          "authorId": "103476203"
+        },
+        {
+          "name": "Catherine Arnett",
+          "hIndex": 10,
+          "authorId": "2257347764"
+        }
+      ],
+      "affiliations": [
+        "Booz Allen Hamilton",
+        "EleutherAI"
+      ],
+      "year": 2025,
+      "venue": "Neural Information Processing Systems",
+      "publicationDate": "2025-10-24",
+      "summary": "It is shown that even after controlling for dataset size, vocabulary size, and data content, monolingual tokenizers exhibit a wide range of token premiums across languages, and intervening on the vocabulary size or the pre-tokenizer significantly reduces crosslingual token premium effects.",
+      "url": "https://www.semanticscholar.org/paper/67a3b9bbbcfc3e95b7329246373e18c2762242f1",
+      "doi": "10.48550/arXiv.2510.21909",
+      "arxivId": "2510.21909",
+      "pdf": null,
+      "citationCount": 10,
+      "referenceCount": 52,
+      "influentialCitationCount": 1,
+      "source": null,
+      "addedAt": "2026-10-15",
+      "overlap": 9,
+      "direction": "forward",
+      "score": 28.0750857747543,
+      "why": "past year · cites 9 in your list",
+      "fromReferences": false,
+      "freshWindow": "past year",
+      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/55",
+      "batchPrNumber": 55,
+      "batchBranch": "recs/past-year"
+    },
+    {
+      "id": "66e13b987c86e9c40b10b27672c83848f316609a",
+      "title": "UTF-8 Plumbing: Byte-level Tokenizers Unavoidably Enable LLMs to Generate Ill-formed UTF-8",
+      "authors": [
+        "Preston Firestone",
+        "Shubham Ugare",
+        "Gagandeep Singh",
+        "Sasa Misailovic"
+      ],
+      "topAuthors": [
+        {
+          "name": "Sasa Misailovic",
+          "hIndex": 32,
+          "authorId": "1704478"
+        },
+        {
+          "name": "Shubham Ugare",
+          "hIndex": 11,
+          "authorId": "1413931779"
+        }
+      ],
+      "affiliations": [],
+      "year": 2025,
+      "venue": "arXiv.org",
+      "publicationDate": "2025-11-05",
+      "summary": "This paper formalizes tokenization using monoid theory and proves that tokenizers whose vocabularies contain tokens that are ill-formed UTF-8 can always produce sequences that are ill-formed UTF-8.",
+      "url": "https://www.semanticscholar.org/paper/66e13b987c86e9c40b10b27672c83848f316609a",
+      "doi": "10.48550/arXiv.2511.05578",
+      "arxivId": "2511.05578",
+      "pdf": null,
+      "citationCount": 5,
+      "referenceCount": 75,
+      "influentialCitationCount": 0,
+      "source": null,
+      "addedAt": "2026-10-15",
+      "overlap": 9,
+      "direction": "forward",
+      "score": 27.759484712619663,
+      "why": "past year · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/55",
@@ -572,7 +865,7 @@
       "referenceCount": 22,
       "influentialCitationCount": 16,
       "source": null,
-      "addedAt": "2026-10-14",
+      "addedAt": "2026-10-15",
       "overlap": 8,
       "direction": "backward",
       "score": 100,
@@ -614,11 +907,11 @@
       "referenceCount": 42,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-10-14",
-      "overlap": 18,
+      "addedAt": "2026-10-15",
+      "overlap": 16,
       "direction": "forward",
       "score": 95.20445205986522,
-      "why": "cites 18 in your list",
+      "why": "cites 16 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
       "batchPrNumber": 56,
@@ -661,10 +954,10 @@
       "referenceCount": 54,
       "influentialCitationCount": 116,
       "source": null,
-      "addedAt": "2026-10-14",
+      "addedAt": "2026-10-15",
       "overlap": 12,
       "direction": "backward",
-      "score": 90.68717805719027,
+      "score": 90.67199520382655,
       "why": "cited by 12 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
@@ -707,7 +1000,7 @@
       "referenceCount": 30,
       "influentialCitationCount": 45,
       "source": null,
-      "addedAt": "2026-10-14",
+      "addedAt": "2026-10-15",
       "overlap": 9,
       "direction": "backward",
       "score": 90.36968543380624,
@@ -754,10 +1047,10 @@
       "referenceCount": 35,
       "influentialCitationCount": 51,
       "source": null,
-      "addedAt": "2026-10-14",
+      "addedAt": "2026-10-15",
       "overlap": 10,
       "direction": "backward",
-      "score": 89.55338625959013,
+      "score": 89.5085647224844,
       "why": "cited by 10 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
@@ -801,11 +1094,57 @@
       "referenceCount": 54,
       "influentialCitationCount": 165,
       "source": null,
-      "addedAt": "2026-10-14",
+      "addedAt": "2026-10-15",
       "overlap": 13,
       "direction": "backward",
-      "score": 88.46614857974076,
+      "score": 88.43556919165792,
       "why": "cited by 13 in your list",
+      "fromReferences": false,
+      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
+      "batchPrNumber": 56,
+      "batchBranch": "recs/most-connected"
+    },
+    {
+      "id": "fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5",
+      "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
+      "authors": [
+        "D. Bahdanau",
+        "Kyunghyun Cho",
+        "Yoshua Bengio"
+      ],
+      "topAuthors": [
+        {
+          "name": "Yoshua Bengio",
+          "hIndex": 209,
+          "authorId": "1751762"
+        },
+        {
+          "name": "Kyunghyun Cho",
+          "hIndex": 97,
+          "authorId": "1979489"
+        }
+      ],
+      "affiliations": [
+        "Université de Montréal",
+        "Constructor University"
+      ],
+      "year": 2014,
+      "venue": "International Conference on Learning Representations",
+      "publicationDate": "2014-09-01",
+      "summary": "It is conjecture that the use of a fixed-length vector is a bottleneck in improving the performance of this basic encoder-decoder architecture, and it is proposed to extend this by allowing a model to automatically (soft-)search for parts of a source sentence that are relevant to predicting a target word, without having to form these parts as a hard segment explicitly.",
+      "url": "https://www.semanticscholar.org/paper/fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5",
+      "doi": null,
+      "arxivId": "1409.0473",
+      "pdf": null,
+      "citationCount": 30199,
+      "referenceCount": 33,
+      "influentialCitationCount": 2620,
+      "source": null,
+      "addedAt": "2026-10-15",
+      "overlap": 21,
+      "direction": "backward",
+      "score": 81.94458259650675,
+      "why": "cited by 21 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
       "batchPrNumber": 56,
@@ -850,325 +1189,11 @@
       "referenceCount": 38,
       "influentialCitationCount": 8,
       "source": null,
-      "addedAt": "2026-10-14",
+      "addedAt": "2026-10-15",
       "overlap": 7,
       "direction": "backward",
-      "score": 82.17735232074149,
+      "score": 81.9248825634295,
       "why": "cited by 7 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
-      "batchPrNumber": 56,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5",
-      "title": "Neural Machine Translation by Jointly Learning to Align and Translate",
-      "authors": [
-        "D. Bahdanau",
-        "Kyunghyun Cho",
-        "Yoshua Bengio"
-      ],
-      "topAuthors": [
-        {
-          "name": "Yoshua Bengio",
-          "hIndex": 209,
-          "authorId": "1751762"
-        },
-        {
-          "name": "Kyunghyun Cho",
-          "hIndex": 97,
-          "authorId": "1979489"
-        }
-      ],
-      "affiliations": [
-        "Université de Montréal",
-        "Constructor University"
-      ],
-      "year": 2014,
-      "venue": "International Conference on Learning Representations",
-      "publicationDate": "2014-09-01",
-      "summary": "It is conjecture that the use of a fixed-length vector is a bottleneck in improving the performance of this basic encoder-decoder architecture, and it is proposed to extend this by allowing a model to automatically (soft-)search for parts of a source sentence that are relevant to predicting a target word, without having to form these parts as a hard segment explicitly.",
-      "url": "https://www.semanticscholar.org/paper/fa72afa9b2cbc8f0d7b05d52548906610ffbb9c5",
-      "doi": null,
-      "arxivId": "1409.0473",
-      "pdf": null,
-      "citationCount": 30191,
-      "referenceCount": 33,
-      "influentialCitationCount": 2620,
-      "source": null,
-      "addedAt": "2026-10-14",
-      "overlap": 21,
-      "direction": "backward",
-      "score": 82.00168499580262,
-      "why": "cited by 21 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
-      "batchPrNumber": 56,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "b0b0dddb8310e01b9407a21674c2d33a23a6e967",
-      "title": "Byte Pair Encoding is Suboptimal for Language Model Pretraining",
-      "authors": [
-        "Kaj Bostrom",
-        "Greg Durrett"
-      ],
-      "topAuthors": [
-        {
-          "name": "Greg Durrett",
-          "hIndex": 51,
-          "authorId": "1814094"
-        },
-        {
-          "name": "Kaj Bostrom",
-          "hIndex": 7,
-          "authorId": "1620502132"
-        }
-      ],
-      "affiliations": [
-        "The University of Texas at Austin"
-      ],
-      "year": 2020,
-      "venue": "Findings",
-      "publicationDate": "2020-04-07",
-      "summary": "Differences between BPE and unigram LM tokenization are analyzed, finding that the latter method recovers subword units that align more closely with morphology and avoids problems stemming from BPE’s greedy construction procedure.",
-      "url": "https://www.semanticscholar.org/paper/b0b0dddb8310e01b9407a21674c2d33a23a6e967",
-      "doi": "10.18653/v1/2020.findings-emnlp.414",
-      "arxivId": "2004.03720",
-      "pdf": "https://www.aclweb.org/anthology/2020.findings-emnlp.414.pdf",
-      "citationCount": 345,
-      "referenceCount": 28,
-      "influentialCitationCount": 27,
-      "source": null,
-      "addedAt": "2026-10-14",
-      "overlap": 9,
-      "direction": "backward",
-      "score": 78.50208806729061,
-      "why": "cited by 9 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
-      "batchPrNumber": 56,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "6471fd1cbc081fb3b7b5b14d6ab9eaaba02b5c17",
-      "title": "Generating Sequences With Recurrent Neural Networks",
-      "authors": [
-        "Alex Graves"
-      ],
-      "topAuthors": [
-        {
-          "name": "Alex Graves",
-          "hIndex": 52,
-          "authorId": "1753223"
-        }
-      ],
-      "affiliations": [
-        "University of Bologna",
-        "University of Toronto"
-      ],
-      "year": 2013,
-      "venue": "arXiv.org",
-      "publicationDate": "2013-08-04",
-      "summary": "This paper shows how Long Short-term Memory recurrent neural networks can be used to generate complex sequences with long-range structure, simply by predicting one data point at a time.",
-      "url": "https://www.semanticscholar.org/paper/6471fd1cbc081fb3b7b5b14d6ab9eaaba02b5c17",
-      "doi": null,
-      "arxivId": "1308.0850",
-      "pdf": null,
-      "citationCount": 4359,
-      "referenceCount": 38,
-      "influentialCitationCount": 355,
-      "source": null,
-      "addedAt": "2026-10-14",
-      "overlap": 12,
-      "direction": "backward",
-      "score": 77.84123983069341,
-      "why": "cited by 12 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
-      "batchPrNumber": 56,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "678fd7c48efe21434148b4b3482c2b8b3ee618fc",
-      "title": "Deep Neural Solver for Math Word Problems",
-      "authors": [
-        "Yan Wang",
-        "Xiaojiang Liu",
-        "Shuming Shi"
-      ],
-      "topAuthors": [
-        {
-          "name": "Shuming Shi",
-          "hIndex": 41,
-          "authorId": "34720053"
-        },
-        {
-          "name": "Xiaojiang Liu",
-          "hIndex": 30,
-          "authorId": "3028405"
-        }
-      ],
-      "affiliations": [
-        "Tencent AI Lab"
-      ],
-      "year": 2017,
-      "venue": "Conference on Empirical Methods in Natural Language Processing",
-      "publicationDate": "2017-09-01",
-      "summary": "Experiments conducted on a large dataset show that the RNN model and the hybrid model significantly outperform state-of-the-art statistical learning methods for math word problem solving.",
-      "url": "https://www.semanticscholar.org/paper/678fd7c48efe21434148b4b3482c2b8b3ee618fc",
-      "doi": "10.18653/v1/D17-1088",
-      "arxivId": null,
-      "pdf": "https://www.aclweb.org/anthology/D17-1088.pdf",
-      "citationCount": 401,
-      "referenceCount": 29,
-      "influentialCitationCount": 105,
-      "source": null,
-      "addedAt": "2026-10-14",
-      "overlap": 8,
-      "direction": "backward",
-      "score": 75.38988126051821,
-      "why": "cited by 8 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
-      "batchPrNumber": 56,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "8eb9b2ea146e3a381a29b4a9314c36f61b71e367",
-      "title": "Extracting Commonsense Properties from Embeddings with Limited Human Guidance",
-      "authors": [
-        "Yiben Yang",
-        "Larry Birnbaum",
-        "Ji-Ping Z. Wang",
-        "Doug Downey"
-      ],
-      "topAuthors": [
-        {
-          "name": "Doug Downey",
-          "hIndex": 40,
-          "authorId": "145612610"
-        },
-        {
-          "name": "Ji-Ping Z. Wang",
-          "hIndex": 25,
-          "authorId": "2109493175"
-        }
-      ],
-      "affiliations": [
-        "Allen Institute for Artificial Intelligence",
-        "Northwestern University"
-      ],
-      "year": 2018,
-      "venue": "Annual Meeting of the Association for Computational Linguistics",
-      "publicationDate": null,
-      "summary": "This work proposes and assess methods for extracting one type of commonsense knowledge, object-property comparisons, from pre-trained embeddings and shows that an active learning approach that synthesizes common-sense queries can boost accuracy.",
-      "url": "https://www.semanticscholar.org/paper/8eb9b2ea146e3a381a29b4a9314c36f61b71e367",
-      "doi": "10.18653/v1/P18-2102",
-      "arxivId": null,
-      "pdf": "https://www.aclweb.org/anthology/P18-2102.pdf",
-      "citationCount": 22,
-      "referenceCount": 14,
-      "influentialCitationCount": 3,
-      "source": null,
-      "addedAt": "2026-10-14",
-      "overlap": 4,
-      "direction": "backward",
-      "score": 74.68831788229997,
-      "why": "cited by 4 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
-      "batchPrNumber": 56,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "a7862e14b4c20cefd6dc4f611f8aa866fabf130b",
-      "title": "Learning to Solve Arithmetic Word Problems with Verb Categorization",
-      "authors": [
-        "Mohammad Javad Hosseini",
-        "Hannaneh Hajishirzi",
-        "Oren Etzioni",
-        "Nate Kushman"
-      ],
-      "topAuthors": [
-        {
-          "name": "Oren Etzioni",
-          "hIndex": 88,
-          "authorId": "1741101"
-        },
-        {
-          "name": "Hannaneh Hajishirzi",
-          "hIndex": 86,
-          "authorId": "2548384"
-        }
-      ],
-      "affiliations": [
-        "University of Edinburgh"
-      ],
-      "year": 2014,
-      "venue": "Conference on Empirical Methods in Natural Language Processing",
-      "publicationDate": "2014-10-01",
-      "summary": "The paper analyzes the arithmetic-word problems “genre”, identifying seven categories of verbs used in such problems, and reports the first learning results on this task without reliance on predefined templates and makes the data publicly available.",
-      "url": "https://www.semanticscholar.org/paper/a7862e14b4c20cefd6dc4f611f8aa866fabf130b",
-      "doi": "10.3115/v1/D14-1058",
-      "arxivId": null,
-      "pdf": "https://aclanthology.org/D14-1058.pdf",
-      "citationCount": 493,
-      "referenceCount": 35,
-      "influentialCitationCount": 82,
-      "source": null,
-      "addedAt": "2026-10-14",
-      "overlap": 9,
-      "direction": "backward",
-      "score": 74.45287440356563,
-      "why": "cited by 9 in your list",
-      "fromReferences": false,
-      "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
-      "batchPrNumber": 56,
-      "batchBranch": "recs/most-connected"
-    },
-    {
-      "id": "5df55d94ab5026ff84ec01871592108fbadbddbe",
-      "title": "Measurement Extraction with Natural Language Processing: A Review",
-      "authors": [
-        "Jan Göpfert",
-        "Patrick Kuckertz",
-        "J. Weinand",
-        "Leander Kotzur",
-        "D. Stolten"
-      ],
-      "topAuthors": [
-        {
-          "name": "D. Stolten",
-          "hIndex": 81,
-          "authorId": "2852152"
-        },
-        {
-          "name": "J. Weinand",
-          "hIndex": 26,
-          "authorId": "101166098"
-        }
-      ],
-      "affiliations": [
-        "Forschungszentrum Jülich"
-      ],
-      "year": 2022,
-      "venue": "Conference on Empirical Methods in Natural Language Processing",
-      "publicationDate": null,
-      "summary": "In this review, an overview of prior work on measurement extraction is presented and different approaches to measurement extraction are described and the challenges posed by this task are outlined.",
-      "url": "https://www.semanticscholar.org/paper/5df55d94ab5026ff84ec01871592108fbadbddbe",
-      "doi": "10.18653/v1/2022.findings-emnlp.161",
-      "arxivId": null,
-      "pdf": "https://aclanthology.org/2022.findings-emnlp.161.pdf",
-      "citationCount": 23,
-      "referenceCount": 175,
-      "influentialCitationCount": 3,
-      "source": null,
-      "addedAt": "2026-10-14",
-      "overlap": 12,
-      "direction": "forward",
-      "score": 72.88504858674119,
-      "why": "cites 12 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
       "batchPrNumber": 56,
