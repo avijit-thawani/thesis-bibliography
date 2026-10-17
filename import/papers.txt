@@ -10,3 +10,35 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
+# --- most connected ---
+# Revisiting Character-Based Neural Machine Translation with Capacity and Compression
+#   O. Firat (h=50) · Google · 2018 · 101 citations · cited by 8 in your list
+https://arxiv.org/abs/1808.09943
+
+# Mining Numbers in Text: A Survey
+#   Kenji Kita (h=13) · 2021 · 4 citations · cites 16 in your list
+https://doi.org/10.5772/INTECHOPEN.98540
+
+# Exploring the Limits of Language Modeling
+#   O. Vinyals (h=104) · Google · 2016 · 1195 citations · cited by 12 in your list
+https://arxiv.org/abs/1602.02410
+
+# Fully Character-Level Neural Machine Translation without Explicit Segmentation
+#   Kyunghyun Cho (h=97) · ETH Zurich · 2016 · 470 citations · cited by 9 in your list
+https://arxiv.org/abs/1610.03017
+
+# Learning to Automatically Solve Algebra Word Problems
+#   Luke Zettlemoyer (h=120) · University of Washington · 2014 · 400 citations · cited by 10 in your list
+https://doi.org/10.3115/v1/P14-1026
+
+# Character-Aware Neural Language Models
+#   Alexander M. Rush (h=62) · Cornell Tech · 2015 · 1737 citations · cited by 13 in your list
+https://arxiv.org/abs/1508.06615
+
+# Neural Machine Translation by Jointly Learning to Align and Translate
+#   Yoshua Bengio (h=209) · Université de Montréal · 2014 · 30212 citations · cited by 21 in your list
+https://arxiv.org/abs/1409.0473
+
+# CharBERT: Character-aware Pre-trained Language Model
+#   Ting Liu (h=76) · iFLYTEK Research · 2020 · 131 citations · cited by 7 in your list
+https://arxiv.org/abs/2011.01513
