@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T09:24:17.254Z",
+  "updatedAt": "2026-10-22T09:27:43.405Z",
   "graph": {
     "5bec0de2e6614427acdbef2a5e9611a293a8c6d8": {
       "fetchedAt": "2026-10-15",
@@ -30152,7 +30152,7 @@
       ]
     },
     "b8e6e8fd64d71f7c89b1aa9cf1fa073451f6d5e9": {
-      "fetchedAt": "2026-10-15",
+      "fetchedAt": "2026-10-22",
       "citedBy": [
         "a837a76e6b2a5a285d76ffdef4cab488ca365b65",
         "6bfa59d8667b809dccf1cdc0ac65b93be2f5c945",
@@ -30168,7 +30168,6 @@
         "5b71bcf769e7efab90ceba56b9e4f898899538fe",
         "100c8078165575acc222919c353e4c2751e2d08d",
         "3738aaca2ed08325079a36f4e8c011607de29d08",
-        "1f51e972f2aac9b14d2dcd0f88fc02feb1e7d790",
         "a53b203d416793ef58262c9f3ad7a7cadd381d84",
         "4eb8ac1f091befb9eebb60d5b80fdac5667fd758",
         "b4b6f21b80b053595da339776874f11f62abefa5",
@@ -30218,6 +30217,7 @@
         "646937d02c4c9ba1ec7e4b59a5b06174008536a4",
         "0ca017e408c1d0395aa6150c267f3e6a1250faef",
         "46e55e8327a26e0cb32419e3ff0187f488b2900a",
+        "1f51e972f2aac9b14d2dcd0f88fc02feb1e7d790",
         "8109332b4f872af1d2be2180d1720b2ac3ced814",
         "36a0c4235b8390023f48e68ecf45b7f394fc6d98"
       ],
@@ -30225,7 +30225,6 @@
       "citedByStrong": [
         "10cf0a1e04ed57f8fec1d2327a4ad67c9c539729",
         "5b71bcf769e7efab90ceba56b9e4f898899538fe",
-        "1f51e972f2aac9b14d2dcd0f88fc02feb1e7d790",
         "b4b6f21b80b053595da339776874f11f62abefa5",
         "bbcd2bbd4aa0da971ccd13d75cfb5881f2cb928a",
         "63d8c15193e3ead91ecd17cc6bc430e3b94f7c9a",
