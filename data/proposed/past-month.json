@@ -1,0 +1,36 @@
+{
+  "window": "past month",
+  "proposedAt": "2026-10-24T08:55:44.233Z",
+  "papers": [
+    {
+      "id": "d0dbd3dad75dabdadf832d90ba4372fdc9854d4f",
+      "link": "https://arxiv.org/abs/2610.13605",
+      "title": "zip2zip++: Towards Inference-Time Token Compression with Minimal Quality Loss"
+    },
+    {
+      "id": "b0840a6a9dc875d75760bd604a3e60d879b44579",
+      "link": "https://arxiv.org/abs/2610.05597",
+      "title": "More Than Words: Compositional Tokenization for Efficient Language Models"
+    },
+    {
+      "id": "64c823fa0dfd3a2ca609304f5a368f6bb2d90fa2",
+      "link": "https://doi.org/10.1038/s41586-026-11111-4",
+      "title": "Retrofitting language models to operate over bytes"
+    },
+    {
+      "id": "4ecb8be51290c673a0dfb5fbf39190c01c99bbf8",
+      "link": "https://arxiv.org/abs/2610.01127",
+      "title": "Counting and Min-Cost Encoding for Tokenization in Large Language Models"
+    },
+    {
+      "id": "4929f866efd5ed1ec540ec0f654fdb0f0aa1ae2b",
+      "link": "https://arxiv.org/abs/2610.12144",
+      "title": "Language-Specific Effects of Tokenizer Choice in Multilingual Language Models"
+    },
+    {
+      "id": "62b6f7ca03af2172befe0a28d1dce35abd23a90c",
+      "link": "https://arxiv.org/abs/2610.00899",
+      "title": "TOAST: Stochastic Robot Action Tokenization for Autoregressive Vision-Language-Action Models"
+    }
+  ]
+}
