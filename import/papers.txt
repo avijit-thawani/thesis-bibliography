@@ -10,3 +10,27 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
+# --- past month ---
+# zip2zip++: Towards Inference-Time Token Compression with Minimal Quality Loss
+#   A. Gentilini (h=12) · EPFL · 2026 · 0 citations · past month · cites 10 in your list
+https://arxiv.org/abs/2610.13605
+
+# More Than Words: Compositional Tokenization for Efficient Language Models
+#   Yuval Reif (h=5) · The Hebrew University of Jerusalem · 2026 · 0 citations · past month · cites 9 in your list
+https://arxiv.org/abs/2610.05597
+
+# Retrofitting language models to operate over bytes
+#   Benjamin Minixhofer (h=10) · Allen Institute for Artificial Intelligence · 2026 · 2 citations · past month · cites 5 in your list
+https://doi.org/10.1038/s41586-026-11111-4
+
+# Counting and Min-Cost Encoding for Tokenization in Large Language Models
+#   Shu-Ming Shi (h=10) · 2026 · 0 citations · past month · cites 4 in your list
+https://arxiv.org/abs/2610.01127
+
+# Language-Specific Effects of Tokenizer Choice in Multilingual Language Models
+#   Clara Meister (h=25) · University of Toronto · 2026 · 0 citations · past month · cites 5 in your list
+https://arxiv.org/abs/2610.12144
+
+# TOAST: Stochastic Robot Action Tokenization for Autoregressive Vision-Language-Action Models
+#   R. Mykhailyshyn (h=14) · 2026 · 0 citations · past month · cites 5 in your list
+https://arxiv.org/abs/2610.00899
