@@ -2,7 +2,7 @@
 
 The papers you have.
 
-**177** papers. Sorted by **Score** &#9660; · [Year](core-by-year.md) · [Cited by](core-by-citations.md) · [Paper](core-by-title.md).
+**182** papers. Sorted by **Score** &#9660; · [Year](core-by-year.md) · [Cited by](core-by-citations.md) · [Paper](core-by-title.md).
 
 | # | Paper | Top authors | Affiliation | Details | Score |
 | ---: | --- | --- | --- | --- | ---: |
@@ -183,6 +183,11 @@ The papers you have.
 | 175 | [Can ChatGPT improve investment decisions? From a portfolio management perspective](https://www.semanticscholar.org/paper/2516b8d7f61da0fac219cf00f488a7d8d3d7d5c7)<br><sub>Hyungjin Ko, Jaewook Lee</sub> | <sub>[Jaewook Lee](https://www.semanticscholar.org/author/Jaewook-Lee/2144714752) (h=14)</sub><br><sub>[Hyungjin Ko](https://www.semanticscholar.org/author/Hyungjin-Ko/2065491997) (h=11)</sub> | - | <sub>2024 · Finance Research Letters</sub><br><sub>87 citations</sub> | 0 |
 | 176 | [Hawkins, Jeff. 2021. A Thousand Brains: A New Theory of Intelligence](https://www.semanticscholar.org/paper/fc55a79a1040e540bcf8e2fbc4bd5b837d1c23b5)<br><sub>A. Vyshedskiy</sub> | <sub>[A. Vyshedskiy](https://www.semanticscholar.org/author/A-Vyshedskiy/5533758) (h=23)</sub> | - | <sub>2022 · Evolutionary Studies in Imaginative Culture</sub><br><sub>106 citations</sub> | 0 |
 | 177 | [WordNet : A Lexical Database for English](https://www.semanticscholar.org/paper/68c03788224000794d5491ab459be0b2a2c38677)<br><sub>G. Miller</sub><br><sub>WordNet is an online lexical database designed for use under program control that provides a more effective combination of traditional lexicographic information and modern computing.</sub> | <sub>[G. Miller](https://www.semanticscholar.org/author/G-Miller/144096985) (h=48)</sub> | - | <sub>1997</sub><br><sub>72 citations</sub> | 0 |
+| 178 | [Sub-Character Tokenization for Chinese Pretrained Language Models](https://doi.org/10.1162/tacl_a_00560)<br><sub>Chenglei Si et al.</sub> | - | <sub>University of Maryland, College Park</sub><br><sub>Tsinghua University</sub> | <sub>2023 · Transactions of the Association for Computational Linguistics</sub><br><sub>15 citations</sub> | 0 |
+| 179 | [Between words and characters: A Brief History of Open-Vocabulary Modeling and Tokenization in NLP](https://doi.org/10.48550/arxiv.2112.10508)<br><sub>Sabrina J. Mielke et al.</sub> | - | <sub>Johns Hopkins University</sub><br><sub>Hugging Face</sub> | <sub>2021 · arXiv (Cornell University)</sub><br><sub>112 citations</sub> | 0 |
+| 180 | [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation](https://doi.org/10.48550/arxiv.1609.08144)<br><sub>Yonghui Wu et al.</sub> | - | - | <sub>2016 · arXiv (Cornell University)</sub><br><sub>5319 citations</sub> | 0 |
+| 181 | [Canine : Pre-training an Efficient Tokenization-Free Encoder for Language Representation](https://doi.org/10.1162/tacl_a_00448)<br><sub>Jonathan H. Clark et al.</sub> | - | <sub>Google (United States)</sub> | <sub>2022 · Transactions of the Association for Computational Linguistics</sub><br><sub>142 citations</sub> | 0 |
+| 182 | [Phrase-Based & Neural Unsupervised Machine Translation](https://doi.org/10.18653/v1/d18-1549)<br><sub>Guillaume Lample et al.</sub> | - | <sub>Centre National de la Recherche Scientifique</sub><br><sub>Sorbonne Université</sub> | <sub>2018 · Conference on Empirical Methods in Natural Language Processing (EMNLP)</sub><br><sub>623 citations</sub> | 0 |
 
 ---
 
