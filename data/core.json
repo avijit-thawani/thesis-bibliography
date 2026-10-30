@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T10:55:57.455Z",
+  "updatedAt": "2026-10-30T11:14:39.970Z",
   "core": [
     {
       "id": "5bec0de2e6614427acdbef2a5e9611a293a8c6d8",
@@ -76,12 +76,12 @@
       "doi": null,
       "arxivId": "2303.17564",
       "pdf": null,
-      "citationCount": 1587,
+      "citationCount": 1591,
       "referenceCount": 138,
       "influentialCitationCount": 77,
       "source": "avi-thesis.bib: BloombergGPT: A Large Language Model for Finance",
       "addedAt": "2026-09-12",
-      "score": 20
+      "score": 20.33898305084746
     },
     {
       "id": "ffd5d435c9534cf7e4e6995cd9d6a888d317e2f9",
@@ -119,7 +119,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Numerical Correlation in Text",
       "addedAt": "2026-09-12",
-      "score": 20
+      "score": 20.33898305084746
     },
     {
       "id": "a9cd3b1ad7ea09dfddf1a22124c27070c6f910e1",
@@ -159,7 +159,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Assessing the Importance of Frequency versus Compositionality for Subword-based Tokenization in NMT",
       "addedAt": "2026-09-12",
-      "score": 18.333333333333332
+      "score": 18.64406779661017
     },
     {
       "id": "05dd7254b632376973f3a1b4d39485da17814df5",
@@ -191,9 +191,9 @@
       "doi": "10.18653/v1/D16-1264",
       "arxivId": "1606.05250",
       "pdf": "https://aclanthology.org/D16-1264.pdf",
-      "citationCount": 10143,
+      "citationCount": 10186,
       "referenceCount": 28,
-      "influentialCitationCount": 1878,
+      "influentialCitationCount": 1880,
       "source": "avi-thesis.bib: SQuAD: 100,000+ Questions for Machine Comprehension of Text",
       "addedAt": "2026-09-12",
       "score": 0
@@ -236,7 +236,7 @@
       "influentialCitationCount": 11,
       "source": "avi-thesis.bib: SberQuAD -- Russian Reading Comprehension Dataset: Description and Analysis",
       "addedAt": "2026-09-12",
-      "score": 8.333333333333332
+      "score": 8.47457627118644
     },
     {
       "id": "6bfa1b07cb1f46294adac73afe33616cd919b603",
@@ -275,7 +275,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: MANTa: Efficient Gradient-Based Tokenization for End-to-End Robust Language Modeling",
       "addedAt": "2026-09-12",
-      "score": 3.3333333333333335
+      "score": 3.389830508474576
     },
     {
       "id": "a794a92e1fa516250390514eeeb3c3b3140876a3",
@@ -313,7 +313,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: RetVec: Resilient and Efficient Text Vectorizer",
       "addedAt": "2026-09-12",
-      "score": 13.333333333333334
+      "score": 13.559322033898304
     },
     {
       "id": "473921de1b52f98f34f37afd507e57366ff7d1ca",
@@ -347,12 +347,12 @@
       "doi": "10.18653/V1/2020.COLING-MAIN.609",
       "arxivId": "2010.10392",
       "pdf": "https://www.aclweb.org/anthology/2020.coling-main.609.pdf",
-      "citationCount": 185,
+      "citationCount": 186,
       "referenceCount": 38,
       "influentialCitationCount": 18,
       "source": "avi-thesis.bib: CharacterBERT: Reconciling ELMo and BERT for Word-Level Open-Vocabulary Representations From Characters",
       "addedAt": "2026-09-12",
-      "score": 25
+      "score": 25.423728813559322
     },
     {
       "id": "0427110f0e79f41e69a8eb00a3ec8868bac26a4f",
@@ -388,12 +388,12 @@
       "doi": "10.18653/v1/D19-1534",
       "arxivId": "1909.07940",
       "pdf": "https://www.aclweb.org/anthology/D19-1534.pdf",
-      "citationCount": 333,
+      "citationCount": 334,
       "referenceCount": 30,
       "influentialCitationCount": 37,
       "source": "avi-thesis.bib: Do NLP Models Know Numbers? Probing Numeracy in Embeddings",
       "addedAt": "2026-09-12",
-      "score": 38.333333333333336
+      "score": 38.983050847457626
     },
     {
       "id": "163b4d6a79a5b19af88b8585456363340d9efd04",
@@ -494,7 +494,7 @@
         "P. Hoeschele",
         "Brandon Houghton",
         "Kenny Hsu",
-        "Shengli Hu",
+        "Sheng-Li Hu",
         "Xin Hu",
         "Joost Huizinga",
         "Shantanu Jain",
@@ -704,9 +704,9 @@
       "doi": null,
       "arxivId": "2303.08774",
       "pdf": null,
-      "citationCount": 28129,
+      "citationCount": 28161,
       "referenceCount": 0,
-      "influentialCitationCount": 3374,
+      "influentialCitationCount": 3379,
       "source": "avi-thesis.bib: GPT-4 Technical Report",
       "addedAt": "2026-09-12",
       "score": 0
@@ -733,12 +733,12 @@
       "doi": "10.18653/v1/P18-1007",
       "arxivId": "1804.10959",
       "pdf": "https://www.aclweb.org/anthology/P18-1007.pdf",
-      "citationCount": 1467,
+      "citationCount": 1473,
       "referenceCount": 36,
       "influentialCitationCount": 161,
       "source": "avi-thesis.bib: Subword Regularization: Improving Neural Network Translation Models with Multiple Subword Candidates",
       "addedAt": "2026-09-12",
-      "score": 38.333333333333336
+      "score": 38.983050847457626
     },
     {
       "id": "c6850869aa5e78a107c378d2e8bfa39633158c0c",
@@ -800,12 +800,12 @@
       "doi": null,
       "arxivId": "1609.08144",
       "pdf": null,
-      "citationCount": 7475,
+      "citationCount": 7489,
       "referenceCount": 53,
       "influentialCitationCount": 485,
       "source": "avi-thesis.bib: Google's neural machine translation system: Bridging the gap between human and machine translation",
       "addedAt": "2026-09-12",
-      "score": 5
+      "score": 5.084745762711865
     },
     {
       "id": "412e266cddfd87c79087a88ba1e4d11b89a45a13",
@@ -847,7 +847,7 @@
       "influentialCitationCount": 11,
       "source": "avi-thesis.bib: Megabyte: Predicting million-byte sequences with multiscale transformers",
       "addedAt": "2026-09-12",
-      "score": 15
+      "score": 15.254237288135593
     },
     {
       "id": "d617f51833860dc50d202af7f80be71304b2e994",
@@ -889,12 +889,12 @@
       "doi": null,
       "arxivId": "2112.10508",
       "pdf": null,
-      "citationCount": 247,
+      "citationCount": 250,
       "referenceCount": 200,
       "influentialCitationCount": 10,
       "source": "avi-thesis.bib: Between words and characters: A brief history of open-vocabulary modeling and tokenization in NLP",
       "addedAt": "2026-09-12",
-      "score": 40
+      "score": 40.67796610169492
     },
     {
       "id": "28a5a53dafacebad8a7c47773079caeffb9a5baa",
@@ -973,12 +973,12 @@
       "doi": "10.1162/tacl_a_00461",
       "arxivId": "2105.13626",
       "pdf": "https://doi.org/10.1162/tacl_a_00461",
-      "citationCount": 813,
+      "citationCount": 815,
       "referenceCount": 68,
       "influentialCitationCount": 103,
       "source": "avi-thesis.bib: ByT5: Towards a Token-Free Future with Pre-trained Byte-to-Byte Models",
       "addedAt": "2026-09-12",
-      "score": 35
+      "score": 35.59322033898305
     },
     {
       "id": "969287b8a96e242793b11f0dbb99ec341228106f",
@@ -1012,12 +1012,12 @@
       "doi": "10.1162/tacl_a_00448",
       "arxivId": "2103.06874",
       "pdf": "https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00448/1985933/tacl_a_00448.pdf",
-      "citationCount": 354,
+      "citationCount": 355,
       "referenceCount": 84,
       "influentialCitationCount": 52,
       "source": "avi-thesis.bib: Canine: Pre-training an Efficient Tokenization-Free Encoder for Language Representation",
       "addedAt": "2026-09-12",
-      "score": 43.333333333333336
+      "score": 44.06779661016949
     },
     {
       "id": "5dee4ece8ec1725a7d071b74bf60f4f5fd2e78ad",
@@ -1061,7 +1061,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: SHUOWEN-JIEZI: Linguistically informed tokenizers for Chinese language model pretraining",
       "addedAt": "2026-09-12",
-      "score": 18.333333333333332
+      "score": 18.64406779661017
     },
     {
       "id": "674265c672777b6d10d5455adc58a6cacb0d0cfe",
@@ -1099,7 +1099,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: BPE beyond Word Boundary: How NOT to use Multi Word Expressions in Neural Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 35
+      "score": 35.59322033898305
     },
     {
       "id": "5c3005e22e6fb218aa76fea49971f3f991993b32",
@@ -1138,7 +1138,7 @@
       "influentialCitationCount": 5,
       "source": "avi-thesis.bib: Robust Open-Vocabulary Translation from Visual Text Representations",
       "addedAt": "2026-09-12",
-      "score": 13.333333333333334
+      "score": 13.559322033898304
     },
     {
       "id": "23f4b6432b74e5db05da04e354341807f5044f7e",
@@ -1180,7 +1180,7 @@
       "influentialCitationCount": 8,
       "source": "avi-thesis.bib: Language Modelling with Pixels",
       "addedAt": "2026-09-12",
-      "score": 31.666666666666664
+      "score": 32.20338983050847
     },
     {
       "id": "9a1a9ae2fc2911f1f275702bef38aa8f79c86986",
@@ -1217,7 +1217,7 @@
       "influentialCitationCount": 3,
       "source": "avi-thesis.bib: What do tokens know about their characters and how do they know it?",
       "addedAt": "2026-09-12",
-      "score": 26.666666666666668
+      "score": 27.11864406779661
     },
     {
       "id": "d023e4c652dc21b2068a8527203a70d9eaf195d9",
@@ -1255,7 +1255,7 @@
       "influentialCitationCount": 63,
       "source": "avi-thesis.bib: BPE-Dropout: Simple and Effective Subword Regularization",
       "addedAt": "2026-09-12",
-      "score": 36.666666666666664
+      "score": 37.28813559322034
     },
     {
       "id": "a77643bff6f50ccc4f80ec081e4d078a2e788ae7",
@@ -1289,12 +1289,12 @@
       "doi": "10.18653/V1/2021.NAACL-MAIN.40",
       "arxivId": "2103.08490",
       "pdf": "https://aclanthology.org/2021.naacl-main.40.pdf",
-      "citationCount": 57,
+      "citationCount": 58,
       "referenceCount": 39,
       "influentialCitationCount": 9,
       "source": "avi-thesis.bib: Multi-view Subword Regularization",
       "addedAt": "2026-09-12",
-      "score": 21.666666666666668
+      "score": 22.033898305084744
     },
     {
       "id": "31699d03a49e38295298f1b1a53185644abba12e",
@@ -1333,7 +1333,7 @@
       "influentialCitationCount": 3,
       "source": "avi-thesis.bib: Numeracy enhances the Literacy of Language Models",
       "addedAt": "2026-09-12",
-      "score": 30
+      "score": 30.508474576271187
     },
     {
       "id": "2dee21f5605054a5d4ede63aca0bf75f9a28e55e",
@@ -1408,12 +1408,12 @@
       "doi": "10.48550/arXiv.2305.13707",
       "arxivId": "2305.13707",
       "pdf": "http://arxiv.org/pdf/2305.13707",
-      "citationCount": 275,
+      "citationCount": 278,
       "referenceCount": 81,
       "influentialCitationCount": 24,
       "source": "avi-thesis.bib: Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models",
       "addedAt": "2026-09-12",
-      "score": 13.333333333333334
+      "score": 0
     },
     {
       "id": "e19b54ad4c1c8af045069e9cac350ffc2ce60e1a",
@@ -1482,12 +1482,12 @@
       "doi": "10.48550/arXiv.2207.04672",
       "arxivId": "2207.04672",
       "pdf": "http://arxiv.org/pdf/2207.04672",
-      "citationCount": 2140,
+      "citationCount": 2149,
       "referenceCount": 0,
-      "influentialCitationCount": 185,
+      "influentialCitationCount": 186,
       "source": "avi-thesis.bib: No Language Left Behind: Scaling Human-Centered Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "174a9b78350e9561555052bc6901cc44782f4c62",
@@ -1526,7 +1526,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Estimating Numbers without Regression",
       "addedAt": "2026-09-12",
-      "score": 16.666666666666664
+      "score": 16.94915254237288
     },
     {
       "id": "a640215755e23e2649f4b3d3246a47b14fea93f7",
@@ -1559,12 +1559,12 @@
       "doi": null,
       "arxivId": "2402.01035",
       "pdf": null,
-      "citationCount": 83,
+      "citationCount": 84,
       "referenceCount": 45,
       "influentialCitationCount": 6,
       "source": "avi-thesis.bib: Getting the most out of your tokenizer for pre-training and domain adaptation",
       "addedAt": "2026-09-12",
-      "score": 20
+      "score": 20.33898305084746
     },
     {
       "id": "de5e7320729f5d3cbb6709eb6329ec41ace8c95d",
@@ -1597,12 +1597,12 @@
       "doi": null,
       "arxivId": "1606.08415",
       "pdf": null,
-      "citationCount": 7697,
+      "citationCount": 7722,
       "referenceCount": 30,
-      "influentialCitationCount": 497,
+      "influentialCitationCount": 498,
       "source": "avi-thesis.bib: Gaussian Error Linear Units (GELUs)",
       "addedAt": "2026-09-12",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "57e849d0de13ed5f91d086936296721d4ff75a75",
@@ -1644,12 +1644,12 @@
       "doi": null,
       "arxivId": "2302.13971",
       "pdf": null,
-      "citationCount": 22371,
+      "citationCount": 22413,
       "referenceCount": 80,
-      "influentialCitationCount": 2289,
+      "influentialCitationCount": 2293,
       "source": "avi-thesis.bib: LLaMA: Open and Efficient Foundation Language Models",
       "addedAt": "2026-09-12",
-      "score": 11.666666666666666
+      "score": 11.864406779661017
     },
     {
       "id": "db633c6b1c286c0386f0078d8a2e6224e03a6227",
@@ -1697,12 +1697,12 @@
       "doi": "10.48550/arXiv.2310.06825",
       "arxivId": "2310.06825",
       "pdf": "https://arxiv.org/pdf/2310.06825",
-      "citationCount": 4107,
+      "citationCount": 4119,
       "referenceCount": 29,
-      "influentialCitationCount": 467,
+      "influentialCitationCount": 469,
       "source": "avi-thesis.bib: Mistral 7B",
       "addedAt": "2026-09-12",
-      "score": 6.666666666666667
+      "score": 6.779661016949152
     },
     {
       "id": "90abbc2cf38462b954ae1b772fac9532e2ccd8b0",
@@ -1764,12 +1764,12 @@
       "doi": null,
       "arxivId": "2005.14165",
       "pdf": null,
-      "citationCount": 65689,
+      "citationCount": 65807,
       "referenceCount": 146,
-      "influentialCitationCount": 5597,
+      "influentialCitationCount": 5603,
       "source": "avi-thesis.bib: Language Models are Few-Shot Learners",
       "addedAt": "2026-09-12",
-      "score": 18.333333333333332
+      "score": 18.64406779661017
     },
     {
       "id": "ac45bbf9940512d9d686cf8cd3a95969bc313570",
@@ -1843,12 +1843,12 @@
       "doi": "10.48550/arXiv.2402.00838",
       "arxivId": "2402.00838",
       "pdf": null,
-      "citationCount": 781,
+      "citationCount": 783,
       "referenceCount": 99,
-      "influentialCitationCount": 112,
+      "influentialCitationCount": 113,
       "source": "avi-thesis.bib: OLMo: Accelerating the Science of Language Models",
       "addedAt": "2026-09-12",
-      "score": 11.666666666666666
+      "score": 11.864406779661017
     },
     {
       "id": "104b0bb1da562d53cbda87aec79ef6a2827d191a",
@@ -1919,7 +1919,7 @@
         "Melanie Kambadur",
         "Sharan Narang",
         "Aurélien Rodriguez",
-        "Robert Stojnić",
+        "Robert Stojnic",
         "Sergey Edunov",
         "Thomas Scialom"
       ],
@@ -1947,12 +1947,12 @@
       "doi": null,
       "arxivId": "2307.09288",
       "pdf": null,
-      "citationCount": 18834,
+      "citationCount": 18856,
       "referenceCount": 131,
-      "influentialCitationCount": 2326,
+      "influentialCitationCount": 2330,
       "source": "avi-thesis.bib: Llama 2: Open Foundation and Fine-Tuned Chat Models",
       "addedAt": "2026-09-12",
-      "score": 11.666666666666666
+      "score": 11.864406779661017
     },
     {
       "id": "8fd47bff451220ce612463dbfb5bff2423fb06ab",
@@ -1991,12 +1991,12 @@
       "doi": null,
       "arxivId": "1902.01382",
       "pdf": null,
-      "citationCount": 152,
+      "citationCount": 153,
       "referenceCount": 38,
       "influentialCitationCount": 21,
       "source": "avi-thesis.bib: No Language Left Behind: Scaling Human-Centered Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 10
+      "score": 10.16949152542373
     },
     {
       "id": "9237d6efc603465765e80eb5ca1268c2bd7b5c24",
@@ -2038,7 +2038,7 @@
       "influentialCitationCount": 7,
       "source": "avi-thesis.bib: compare-mt: A Tool for Holistic Comparison of Language Generation Systems",
       "addedAt": "2026-09-12",
-      "score": 3.3333333333333335
+      "score": 3.389830508474576
     },
     {
       "id": "285c165c81fc9275955147a892b9a039ec8b1052",
@@ -2062,12 +2062,12 @@
       "doi": "10.18653/v1/W15-3049",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/W15-3049.pdf",
-      "citationCount": 2123,
+      "citationCount": 2134,
       "referenceCount": 10,
       "influentialCitationCount": 206,
       "source": "avi-thesis.bib: chrF: character n-gram F-score for automatic MT evaluation",
       "addedAt": "2026-09-12",
-      "score": 1.6666666666666667
+      "score": 0
     },
     {
       "id": "1518039b5001f1836565215eb047526b3ac7f462",
@@ -2100,12 +2100,12 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9205,
+      "citationCount": 9220,
       "referenceCount": 40,
-      "influentialCitationCount": 1100,
+      "influentialCitationCount": 1107,
       "source": "avi-thesis.bib: Neural Machine Translation of Rare Words with Subword Units",
       "addedAt": "2026-09-12",
-      "score": 3.3333333333333335
+      "score": 3.389830508474576
     },
     {
       "id": "b4bfadfca9742bb3ee98a0cd322d5ce4e59a3ceb",
@@ -2132,12 +2132,12 @@
       "doi": "10.18653/v1/W18-6319",
       "arxivId": "1804.08771",
       "pdf": "https://www.aclweb.org/anthology/W18-6319.pdf",
-      "citationCount": 3768,
+      "citationCount": 3780,
       "referenceCount": 22,
-      "influentialCitationCount": 398,
+      "influentialCitationCount": 401,
       "source": "avi-thesis.bib: A Call for Clarity in Reporting BLEU Scores",
       "addedAt": "2026-09-12",
-      "score": 6.666666666666667
+      "score": 6.779661016949152
     },
     {
       "id": "a6cb366736791bcccc5c8639de5a8f9636bf87e8",
@@ -2167,12 +2167,12 @@
       "doi": null,
       "arxivId": "1412.6980",
       "pdf": null,
-      "citationCount": 174177,
+      "citationCount": 174453,
       "referenceCount": 26,
-      "influentialCitationCount": 27623,
+      "influentialCitationCount": 27681,
       "source": "avi-thesis.bib: Adam: A Method for Stochastic Optimization",
       "addedAt": "2026-09-12",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "8d188daf721fde8de4877718e96f89ae9d7a1925",
@@ -2190,7 +2190,7 @@
         "B. Haddow",
         "Rebecca Knowles",
         "Philipp Koehn",
-        "C. Monz",
+        "Christof Monz",
         "Makoto Morishita",
         "Masaaki Nagata",
         "Toshiaki Nakazawa",
@@ -2222,12 +2222,12 @@
       "doi": "10.18653/v1/2022.wmt-1.1",
       "arxivId": null,
       "pdf": "https://aclanthology.org/2022.wmt-1.1.pdf",
-      "citationCount": 298,
+      "citationCount": 302,
       "referenceCount": 98,
-      "influentialCitationCount": 25,
+      "influentialCitationCount": 17,
       "source": "avi-thesis.bib: Findings of the 2022 Conference on Machine Translation (WMT22)",
       "addedAt": "2026-09-12",
-      "score": 10
+      "score": 10.16949152542373
     },
     {
       "id": "aa30c3e357c8e0f0eea7c67cd64539d7688a8470",
@@ -2267,7 +2267,7 @@
       "influentialCitationCount": 9,
       "source": "avi-thesis.bib: Many-to-English Machine Translation Tools, Data, and Pretrained Models",
       "addedAt": "2026-09-12",
-      "score": 21.666666666666668
+      "score": 25.423728813559322
     },
     {
       "id": "28c75ab7f6951f1c2bb349b34abc3204ba8b9498",
@@ -2302,7 +2302,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Toucan: Token-Aware Character Level Language Modeling",
       "addedAt": "2026-09-12",
-      "score": 11.666666666666666
+      "score": 11.864406779661017
     },
     {
       "id": "2c8935ec872eca14636a090e5f6b49bc1c90c30d",
@@ -2343,7 +2343,7 @@
       "influentialCitationCount": 2,
       "source": "avi-thesis.bib: Are Character-level Translations Worth the Wait? Comparing Character- and Subword-level Models for Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 11.666666666666666
+      "score": 11.864406779661017
     },
     {
       "id": "b7bfabf8610f46075e8034032589c9f1baeacea5",
@@ -2374,7 +2374,7 @@
       "doi": "10.1145/322234.322243",
       "arxivId": null,
       "pdf": "https://dl.acm.org/doi/pdf/10.1145/322234.322243",
-      "citationCount": 1137,
+      "citationCount": 1140,
       "referenceCount": 24,
       "influentialCitationCount": 145,
       "source": "avi-thesis.bib: Alternation",
@@ -2409,7 +2409,7 @@
       "doi": null,
       "arxivId": "1503.06733",
       "pdf": null,
-      "citationCount": 224,
+      "citationCount": 225,
       "referenceCount": 41,
       "influentialCitationCount": 6,
       "source": "avi-thesis.bib: Yara Parser: A Fast and Accurate Dependency Parser",
@@ -2450,7 +2450,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: Are discrete units necessary for Spoken Language Modeling?",
       "addedAt": "2026-09-12",
-      "score": 6.666666666666667
+      "score": 6.779661016949152
     },
     {
       "id": "9c2e4e5ee224c20a45c37244924138b50f3fe603",
@@ -2490,15 +2490,15 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Learning to Look Inside: Augmenting Token-Based Encoders with Character-Level Information",
       "addedAt": "2026-09-12",
-      "score": 20
+      "score": 20.33898305084746
     },
     {
       "id": "ef4cb88b1635b34af15059567dfdf134f79797aa",
       "title": "The Wall Street Neophyte: A Zero-Shot Analysis of ChatGPT Over MultiModal Stock Movement Prediction Challenges",
       "authors": [
         "Qianqian Xie",
-        "Weiguang Han",
-        "Yanzhao Lai",
+        "Wei-Guang Han",
+        "Yan-Zhao Lai",
         "Min Peng",
         "Ji-Min Huang"
       ],
@@ -2531,7 +2531,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: The wall street neophyte: A zero-shot analysis of chatgpt over multimodal stock movement prediction challenges",
       "addedAt": "2026-09-12",
-      "score": 5
+      "score": 5.084745762711865
     },
     {
       "id": "18cad1aa7a3f6e783183a5588e85a9dc3ba6ede6",
@@ -2570,7 +2570,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Enhancing Quantitative Reasoning Skills of Large Language Models through Dimension Perception",
       "addedAt": "2026-09-12",
-      "score": 21.666666666666668
+      "score": 22.033898305084744
     },
     {
       "id": "24f09c1eb5d7b662bd53892f846600c5e0b66a6c",
@@ -2609,7 +2609,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Masked Measurement Prediction: Learning to Jointly Predict Quantities and Units from Textual Context",
       "addedAt": "2026-09-12",
-      "score": 28.333333333333332
+      "score": 28.8135593220339
     },
     {
       "id": "4eb8ac1f091befb9eebb60d5b80fdac5667fd758",
@@ -2644,7 +2644,7 @@
       "influentialCitationCount": 11,
       "source": "avi-thesis.bib: Numeracy for Language Models: Evaluating and Improving their Ability to Predict Numbers",
       "addedAt": "2026-09-12",
-      "score": 30
+      "score": 30.508474576271187
     },
     {
       "id": "c825b92effcf400ab1679071cef8233a5a6a18ba",
@@ -2679,7 +2679,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: How Much is 131 Million Dollars? Putting Numbers in Perspective with Compositional Descriptions",
       "addedAt": "2026-09-12",
-      "score": 1.6666666666666667
+      "score": 8.47457627118644
     },
     {
       "id": "7e342021e0a6d2e2dd8f6127fbac4c586f187f48",
@@ -2734,14 +2734,13 @@
           "authorId": "144590225"
         },
         {
-          "name": "Yanai Elazar",
-          "hIndex": 30,
-          "authorId": "51131518"
+          "name": "Deepak Ramachandran",
+          "hIndex": 11,
+          "authorId": "34968061"
         }
       ],
       "affiliations": [
-        "University of Pennsylvania, Oracle",
-        "Bar-Ilan University"
+        "University of Pennsylvania, Oracle"
       ],
       "year": 2019,
       "venue": "Annual Meeting of the Association for Computational Linguistics",
@@ -2756,7 +2755,7 @@
       "influentialCitationCount": 3,
       "source": "avi-thesis.bib: How Large Are Lions? Inducing Distributions over Quantitative Attributes",
       "addedAt": "2026-09-12",
-      "score": 16.666666666666664
+      "score": 16.94915254237288
     },
     {
       "id": "41094beddc498680d807e99e07efa41fec5d6724",
@@ -2794,7 +2793,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: How Pre-trained Word Representations Capture Commonsense Physical Comparisons",
       "addedAt": "2026-09-12",
-      "score": 11.666666666666666
+      "score": 11.864406779661017
     },
     {
       "id": "11bb73c6cdec9c5ce579194c26ad74c722e32f95",
@@ -2833,7 +2832,7 @@
       "influentialCitationCount": 7,
       "source": "avi-thesis.bib: Numeracy-600K: Learning Numeracy for Detecting Exaggerated Information in Market Comments",
       "addedAt": "2026-09-12",
-      "score": 13.333333333333334
+      "score": 13.559322033898304
     },
     {
       "id": "a5dde0a71fb0465d33b95496c4bb64914b3d62d9",
@@ -2872,7 +2871,7 @@
       "influentialCitationCount": 6,
       "source": "avi-thesis.bib: Exploring Numeracy in Word Embeddings",
       "addedAt": "2026-09-12",
-      "score": 18.333333333333332
+      "score": 18.64406779661017
     },
     {
       "id": "5f277d2605a272c321615373254097939aae4fac",
@@ -2913,7 +2912,7 @@
       "influentialCitationCount": 3,
       "source": "avi-thesis.bib: ``When Numbers Matter!'': Detecting Sarcasm in Numerical Portions of Text",
       "addedAt": "2026-09-12",
-      "score": 5
+      "score": 5.084745762711865
     },
     {
       "id": "730043364aed106241ef18ab3e3b5e316802a254",
@@ -2954,7 +2953,7 @@
       "influentialCitationCount": 31,
       "source": "avi-thesis.bib: NumNet: Machine Reading Comprehension with Numerical Reasoning",
       "addedAt": "2026-09-12",
-      "score": 18.333333333333332
+      "score": 18.64406779661017
     },
     {
       "id": "72e6b14c081ad3e6a1c295b60e5c834837e6b304",
@@ -2995,7 +2994,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: Towards Question Format Independent Numerical Reasoning: A Set of Prerequisite Tasks",
       "addedAt": "2026-09-12",
-      "score": 30
+      "score": 30.508474576271187
     },
     {
       "id": "dda6fb309f62e2557a071522354d8c2c897a2805",
@@ -3034,10 +3033,10 @@
       "pdf": "https://doi.org/10.18653/v1/n19-1246",
       "citationCount": 1448,
       "referenceCount": 54,
-      "influentialCitationCount": 246,
+      "influentialCitationCount": 247,
       "source": "avi-thesis.bib: DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs",
       "addedAt": "2026-09-12",
-      "score": 11.666666666666666
+      "score": 11.864406779661017
     },
     {
       "id": "52fa450740913a6cdcb4d9395b45e203f46cab79",
@@ -3074,7 +3073,7 @@
       "influentialCitationCount": 7,
       "source": "avi-thesis.bib: Giving BERT a Calculator: Finding Operations and Arguments with Reading Comprehension",
       "addedAt": "2026-09-12",
-      "score": 8.333333333333332
+      "score": 20.33898305084746
     },
     {
       "id": "d0d030ccebd669ed5faeca504091bbe5fff4aefb",
@@ -3112,7 +3111,7 @@
       "influentialCitationCount": 8,
       "source": "avi-thesis.bib: Bootstrapping for Numerical Open IE",
       "addedAt": "2026-09-12",
-      "score": 5
+      "score": 3.389830508474576
     },
     {
       "id": "ea68d467d08252c8f9002512dce6dfae360e5157",
@@ -3152,7 +3151,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: Is a 204 cm Man Tall or Small ? Acquisition of Numerical Common Sense from the Web",
       "addedAt": "2026-09-12",
-      "score": 6.666666666666667
+      "score": 6.779661016949152
     },
     {
       "id": "36d6c8895bbc755964b8b2136c6fd6087a7af089",
@@ -3194,7 +3193,7 @@
       "influentialCitationCount": 16,
       "source": "avi-thesis.bib: TORQUE: A Reading Comprehension Dataset of Temporal Ordering Questions",
       "addedAt": "2026-09-12",
-      "score": 10
+      "score": 10.16949152542373
     },
     {
       "id": "077f8329a7b6fa3b7c877a57b81eb6c18b5f87de",
@@ -3235,12 +3234,12 @@
       "doi": null,
       "arxivId": "1907.11692",
       "pdf": null,
-      "citationCount": 32242,
+      "citationCount": 32319,
       "referenceCount": 68,
-      "influentialCitationCount": 6293,
+      "influentialCitationCount": 6321,
       "source": "avi-thesis.bib: RoBERTa: A Robustly Optimized BERT Pretraining Approach",
       "addedAt": "2026-09-12",
-      "score": 16.666666666666664
+      "score": 16.94915254237288
     },
     {
       "id": "716efab73e1916fdc2a23727b581d200271ed499",
@@ -3277,7 +3276,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: BERT in Negotiations: Early Prediction of Buyer-Seller Negotiation Outcomes",
       "addedAt": "2026-09-12",
-      "score": 5
+      "score": 5.084745762711865
     },
     {
       "id": "eef7cfe8267954adbb4675576072a1d80ca7a3a8",
@@ -3318,7 +3317,7 @@
       "influentialCitationCount": 118,
       "source": "avi-thesis.bib: MathQA: Towards Interpretable Math Word Problem Solving with Operation-Based Formalisms",
       "addedAt": "2026-09-12",
-      "score": 13.333333333333334
+      "score": 13.559322033898304
     },
     {
       "id": "b8e6e8fd64d71f7c89b1aa9cf1fa073451f6d5e9",
@@ -3353,10 +3352,10 @@
       "pdf": null,
       "citationCount": 66,
       "referenceCount": 28,
-      "influentialCitationCount": 9,
+      "influentialCitationCount": 8,
       "source": "avi-thesis.bib: ``Was It Good? It Was Provocative.'' Learning the Meaning of Scalar Adjectives",
       "addedAt": "2026-09-12",
-      "score": 3.3333333333333335
+      "score": 3.389830508474576
     },
     {
       "id": "ef89a1f27d1b1bfd451d4482a6de2dcd3d4a1318",
@@ -3397,7 +3396,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Grounding Gradable Adjectives through Crowdsourcing",
       "addedAt": "2026-09-12",
-      "score": 6.666666666666667
+      "score": 6.779661016949152
     },
     {
       "id": "007bc04c97f9f8bcec0487699e197315418f22e7",
@@ -3447,7 +3446,7 @@
       "influentialCitationCount": 13,
       "source": "avi-thesis.bib: From'F'to'A'on the NY Regents Science Exams: An Overview of the Aristo Project",
       "addedAt": "2026-09-12",
-      "score": 13.333333333333334
+      "score": 13.559322033898304
     },
     {
       "id": "df2b0e26d0599ce3e70df8a9da02e51594e0e992",
@@ -3479,12 +3478,12 @@
       "doi": "10.18653/v1/N19-1423",
       "arxivId": "1810.04805",
       "pdf": "https://doi.org/10.18653/v1/n19-1423",
-      "citationCount": 124393,
+      "citationCount": 124668,
       "referenceCount": 63,
-      "influentialCitationCount": 23448,
+      "influentialCitationCount": 23498,
       "source": "avi-thesis.bib: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
       "addedAt": "2026-09-12",
-      "score": 11.666666666666666
+      "score": 11.864406779661017
     },
     {
       "id": "0772212420238b48233256a59912f8e6a31cde3d",
@@ -3522,7 +3521,7 @@
       "influentialCitationCount": 5,
       "source": "avi-thesis.bib: NumClaim: Investor's Fine-Grained Claim Detection",
       "addedAt": "2026-09-12",
-      "score": 13.333333333333334
+      "score": 13.559322033898304
     },
     {
       "id": "f37e1b62a767a307c046404ca96bc140b3e68cb5",
@@ -3555,12 +3554,12 @@
       "doi": "10.3115/v1/D14-1162",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 35752,
+      "citationCount": 35847,
       "referenceCount": 32,
-      "influentialCitationCount": 4126,
+      "influentialCitationCount": 4127,
       "source": "avi-thesis.bib: GloVe: Global Vectors for Word Representation",
       "addedAt": "2026-09-12",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "3febb2bed8865945e7fddc99efd791887bb7e14f",
@@ -3598,12 +3597,12 @@
       "doi": "10.18653/v1/N18-1202",
       "arxivId": "1802.05365",
       "pdf": "https://www.aclweb.org/anthology/N18-1202.pdf",
-      "citationCount": 12438,
+      "citationCount": 12461,
       "referenceCount": 64,
-      "influentialCitationCount": 1496,
+      "influentialCitationCount": 1500,
       "source": "avi-thesis.bib: Deep Contextualized Word Representations",
       "addedAt": "2026-09-12",
-      "score": 6.666666666666667
+      "score": 6.779661016949152
     },
     {
       "id": "f6b51c8753a871dc94ff32152c00c01e94f90f09",
@@ -3635,9 +3634,9 @@
       "doi": null,
       "arxivId": "1301.3781",
       "pdf": null,
-      "citationCount": 35908,
+      "citationCount": 36044,
       "referenceCount": 36,
-      "influentialCitationCount": 4583,
+      "influentialCitationCount": 4622,
       "source": "avi-thesis.bib: Efficient estimation of word representations in vector space",
       "addedAt": "2026-09-12",
       "score": 0
@@ -3675,7 +3674,7 @@
       "influentialCitationCount": 10,
       "source": "avi-thesis.bib: Verb Physics: Relative Physical Knowledge of Actions and Objects",
       "addedAt": "2026-09-12",
-      "score": 15
+      "score": 13.559322033898304
     },
     {
       "id": "4c6fe6179c408e1fbb3871af13d1a8e64f766e54",
@@ -3712,7 +3711,7 @@
       "influentialCitationCount": 114,
       "source": "avi-thesis.bib: Solving General Arithmetic Word Problems",
       "addedAt": "2026-09-12",
-      "score": 18.333333333333332
+      "score": 18.64406779661017
     },
     {
       "id": "b9485d1e2c66c3ae452ec4903c2a157caef4d2ed",
@@ -3752,7 +3751,7 @@
       "influentialCitationCount": 13,
       "source": "avi-thesis.bib: Temporal Common Sense Acquisition with Minimal Supervision",
       "addedAt": "2026-09-12",
-      "score": 8.333333333333332
+      "score": 8.47457627118644
     },
     {
       "id": "1eff94b44432a8e6af29288b8234494516579ad3",
@@ -3791,7 +3790,7 @@
       "influentialCitationCount": 14,
       "source": "avi-thesis.bib: EQUATE: A Benchmark Evaluation Framework for Quantitative Reasoning in Natural Language Inference",
       "addedAt": "2026-09-12",
-      "score": 28.333333333333332
+      "score": 28.8135593220339
     },
     {
       "id": "187c25de08261760cf48b4e9dabf308d2f7f15d9",
@@ -3830,7 +3829,7 @@
       "influentialCitationCount": 22,
       "source": "avi-thesis.bib: Reasoning about Quantities in Natural Language",
       "addedAt": "2026-09-12",
-      "score": 20
+      "score": 20.33898305084746
     },
     {
       "id": "da4fc448a81ca207609e78bced9a02a10f75866e",
@@ -3869,7 +3868,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: SemEval-2018 Task 5: Counting Events and Participants in the Long Tail",
       "addedAt": "2026-09-12",
-      "score": 3.3333333333333335
+      "score": 3.389830508474576
     },
     {
       "id": "da6ba9f19581bd7e28bc280c53385a1327eb09dd",
@@ -3904,12 +3903,12 @@
       "doi": "10.18653/v1/W19-3905",
       "arxivId": "1906.03648",
       "pdf": "https://www.aclweb.org/anthology/W19-3905.pdf",
-      "citationCount": 86,
+      "citationCount": 87,
       "referenceCount": 38,
       "influentialCitationCount": 20,
       "source": "avi-thesis.bib: LSTM Networks Can Perform Dynamic Counting",
       "addedAt": "2026-09-12",
-      "score": 5
+      "score": 5.084745762711865
     },
     {
       "id": "a20712b1b9779ee43ce143a19b3f67f0cacbbf57",
@@ -3950,7 +3949,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Neural Databases",
       "addedAt": "2026-09-12",
-      "score": 15
+      "score": 15.254237288135593
     },
     {
       "id": "451d4a16e425ecbf38c4b1cca0dcf5d9bec8255c",
@@ -3987,12 +3986,12 @@
       "doi": "10.18653/v1/W18-5446",
       "arxivId": "1804.07461",
       "pdf": "https://www.aclweb.org/anthology/W18-5446.pdf",
-      "citationCount": 9196,
+      "citationCount": 9214,
       "referenceCount": 77,
-      "influentialCitationCount": 1467,
+      "influentialCitationCount": 1470,
       "source": "avi-thesis.bib: GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
       "addedAt": "2026-09-12",
-      "score": 8.333333333333332
+      "score": 8.47457627118644
     },
     {
       "id": "4d1c856275744c0284312a3a50efb6ca9dc4cd4c",
@@ -4023,12 +4022,12 @@
       "doi": "10.18653/v1/P18-2124",
       "arxivId": "1806.03822",
       "pdf": "https://www.aclweb.org/anthology/P18-2124.pdf",
-      "citationCount": 3563,
+      "citationCount": 3572,
       "referenceCount": 25,
-      "influentialCitationCount": 881,
+      "influentialCitationCount": 882,
       "source": "avi-thesis.bib: Know What You Don't Know: Unanswerable Questions for SQuAD",
       "addedAt": "2026-09-12",
-      "score": 3.3333333333333335
+      "score": 3.389830508474576
     },
     {
       "id": "5f5dc5b9a2ba710937e2c413b37b053cd673df02",
@@ -4058,9 +4057,9 @@
       "doi": null,
       "arxivId": "1312.6114",
       "pdf": null,
-      "citationCount": 18171,
+      "citationCount": 18426,
       "referenceCount": 26,
-      "influentialCitationCount": 3219,
+      "influentialCitationCount": 3231,
       "source": "avi-thesis.bib: Auto-encoding variational bayes",
       "addedAt": "2026-09-12",
       "score": 0
@@ -4101,7 +4100,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Where's My Head? Definition, Data Set, and Models for Numeric Fused-Head Identification and Resolution",
       "addedAt": "2026-09-12",
-      "score": 16.666666666666664
+      "score": 16.94915254237288
     },
     {
       "id": "ed6262b569c0a62c51d941228c54f34e563af022",
@@ -4131,12 +4130,12 @@
       "doi": "10.1109/ICASSP.2012.6289079",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 1036,
+      "citationCount": 1043,
       "referenceCount": 7,
       "influentialCitationCount": 61,
       "source": "avi-thesis.bib: Japanese and Korean voice search",
       "addedAt": "2026-09-12",
-      "score": 20
+      "score": 20.33898305084746
     },
     {
       "id": "016760dc4a05489ddf5dbb48aecbb49e214e1b71",
@@ -4176,7 +4175,7 @@
       "influentialCitationCount": 12,
       "source": "avi-thesis.bib: Birds have four legs?! NumerSense: Probing Numerical Commonsense Knowledge of Pre-Trained Language Models",
       "addedAt": "2026-09-12",
-      "score": 21.666666666666668
+      "score": 22.033898305084744
     },
     {
       "id": "2cc3ab9fa41ba2804e301f7eae9598636e62422a",
@@ -4207,12 +4206,12 @@
       "doi": null,
       "arxivId": "2102.13019",
       "pdf": null,
-      "citationCount": 201,
+      "citationCount": 208,
       "referenceCount": 49,
       "influentialCitationCount": 15,
       "source": "avi-thesis.bib: Investigating the Limitations of the Transformers with Simple Arithmetic Tasks",
       "addedAt": "2026-09-12",
-      "score": 28.333333333333332
+      "score": 33.89830508474576
     },
     {
       "id": "57d1e7ac339e783898f2c3b1af55737cbeee9fc5",
@@ -4251,12 +4250,12 @@
       "doi": null,
       "arxivId": "2103.03874",
       "pdf": null,
-      "citationCount": 7144,
+      "citationCount": 7158,
       "referenceCount": 71,
-      "influentialCitationCount": 1614,
+      "influentialCitationCount": 1618,
       "source": "avi-thesis.bib: Measuring Mathematical Problem Solving With the MATH Dataset",
       "addedAt": "2026-09-12",
-      "score": 10
+      "score": 10.16949152542373
     },
     {
       "id": "63e39cdf1ad884da6bc69096bb3413b5b1100559",
@@ -4294,7 +4293,7 @@
       "influentialCitationCount": 37,
       "source": "avi-thesis.bib: Using the output embedding to improve language models",
       "addedAt": "2026-09-12",
-      "score": 13.333333333333334
+      "score": 13.559322033898304
     },
     {
       "id": "13c4e5a6122f3fa2663f63e49537091da6532f35",
@@ -4327,12 +4326,12 @@
       "doi": "10.18653/V1/2021.NAACL-MAIN.168",
       "arxivId": "2103.07191",
       "pdf": "https://aclanthology.org/2021.naacl-main.168.pdf",
-      "citationCount": 1414,
+      "citationCount": 1416,
       "referenceCount": 28,
       "influentialCitationCount": 282,
       "source": "avi-thesis.bib: Are NLP Models really able to Solve Simple Math Word Problems?",
       "addedAt": "2026-09-12",
-      "score": 5
+      "score": 5.084745762711865
     },
     {
       "id": "2c871df72c52b58f05447fcb3afc838168d94505",
@@ -4373,7 +4372,7 @@
       "influentialCitationCount": 78,
       "source": "avi-thesis.bib: Knowledge neurons in pretrained transformers",
       "addedAt": "2026-09-12",
-      "score": 10
+      "score": 10.16949152542373
     },
     {
       "id": "4a54d58a4b20e4f3af25cea3c188a12082a95e02",
@@ -4408,12 +4407,12 @@
       "doi": "10.18653/v1/2021.emnlp-main.446",
       "arxivId": "2012.14913",
       "pdf": "https://aclanthology.org/2021.emnlp-main.446.pdf",
-      "citationCount": 1801,
+      "citationCount": 1805,
       "referenceCount": 28,
       "influentialCitationCount": 142,
       "source": "avi-thesis.bib: Transformer Feed-Forward Layers Are Key-Value Memories",
       "addedAt": "2026-09-12",
-      "score": 6.666666666666667
+      "score": 6.779661016949152
     },
     {
       "id": "ff156cfff059005318bcfabe6d4d74814d062893",
@@ -4442,7 +4441,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: On the number of k-skip-n-grams",
       "addedAt": "2026-09-12",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "3c8f280d4e5a1cc4b978ee510252f5bbb2f6baf7",
@@ -4484,7 +4483,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: A Generalized Language Model as the Combination of Skipped n-grams and Modified Kneser Ney Smoothing",
       "addedAt": "2026-09-12",
-      "score": 3.3333333333333335
+      "score": 3.389830508474576
     },
     {
       "id": "0db6eb46ca9941660acc775e3ca39bf4434c18be",
@@ -4508,12 +4507,12 @@
       "doi": "10.1162/coli.2007.33.2.201",
       "arxivId": null,
       "pdf": "https://direct.mit.edu/coli/article-pdf/33/2/201/1798392/coli.2007.33.2.201.pdf",
-      "citationCount": 1332,
+      "citationCount": 1333,
       "referenceCount": 48,
-      "influentialCitationCount": 287,
+      "influentialCitationCount": 288,
       "source": "avi-thesis.bib: Hierarchical Phrase-Based Translation",
       "addedAt": "2026-09-12",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "31100d7f8fdd3d263238624a888dab0f7aba3d5a",
@@ -4548,7 +4547,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: Adaptor Grammars for Learning Non-Concatenative Morphology",
       "addedAt": "2026-09-12",
-      "score": 3.3333333333333335
+      "score": 3.389830508474576
     },
     {
       "id": "b8375d7d333f2789dd743150fc1daaba3a2ba521",
@@ -4585,7 +4584,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Learning to Generate Word- and Phrase-Embeddings for Efficient Phrase-Based Neural Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 13.333333333333334
+      "score": 1.694915254237288
     },
     {
       "id": "48925fef94500cf19ee220ed74217816f1ab5e60",
@@ -4625,7 +4624,7 @@
       "influentialCitationCount": 126,
       "source": "avi-thesis.bib: Phrase-Based \\& Neural Unsupervised Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 16.666666666666664
+      "score": 16.94915254237288
     },
     {
       "id": "9af39292b9407888b98df2c697d92be229be9a07",
@@ -4665,7 +4664,7 @@
       "influentialCitationCount": 3,
       "source": "avi-thesis.bib: Translating Phrases in Neural Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 8.333333333333332
+      "score": 8.47457627118644
     },
     {
       "id": "b5246fa284f86b544a7c31f050b3bd0defd053fd",
@@ -4695,12 +4694,12 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4429,
+      "citationCount": 4439,
       "referenceCount": 16,
       "influentialCitationCount": 279,
       "source": "avi-thesis.bib: SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing",
       "addedAt": "2026-09-12",
-      "score": 8.333333333333332
+      "score": 8.47457627118644
     },
     {
       "id": "5e788c833321b12671206b96a438c0e5b1202027",
@@ -4738,13 +4737,13 @@
       "influentialCitationCount": 10,
       "source": "avi-thesis.bib: Finding the Optimal Vocabulary Size for Neural Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 13.333333333333334
+      "score": 22.033898305084744
     },
     {
       "id": "5849552213363da6c309999f937710778fb749f6",
       "title": "The Google Similarity Distance",
       "authors": [
-        "Rudi Cilibrasi",
+        "R. Cilibrasi",
         "P. Vitányi"
       ],
       "topAuthors": [
@@ -4754,7 +4753,7 @@
           "authorId": "46641506"
         },
         {
-          "name": "Rudi Cilibrasi",
+          "name": "R. Cilibrasi",
           "hIndex": 14,
           "authorId": "2702975"
         }
@@ -4768,9 +4767,9 @@
       "doi": "10.1109/TKDE.2007.48",
       "arxivId": "cs/0412098",
       "pdf": "https://arxiv.org/pdf/cs/0412098",
-      "citationCount": 1911,
+      "citationCount": 1916,
       "referenceCount": 48,
-      "influentialCitationCount": 204,
+      "influentialCitationCount": 203,
       "source": "avi-thesis.bib: The Google Similarity Distance",
       "addedAt": "2026-09-12",
       "score": 0
@@ -4818,12 +4817,12 @@
       "doi": "10.3115/1557769.1557821",
       "arxivId": null,
       "pdf": "https://dl.acm.org/doi/pdf/10.5555/1557769.1557821",
-      "citationCount": 6599,
+      "citationCount": 6610,
       "referenceCount": 15,
-      "influentialCitationCount": 911,
+      "influentialCitationCount": 913,
       "source": "avi-thesis.bib: Moses: Open Source Toolkit for Statistical Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 3.3333333333333335
+      "score": 3.389830508474576
     },
     {
       "id": "25c0e5ad89b77ae9c7ff91765ebd4e1e21abdcb3",
@@ -4861,7 +4860,7 @@
       "influentialCitationCount": 29,
       "source": "avi-thesis.bib: The IIT Bombay English-Hindi Parallel Corpus",
       "addedAt": "2026-09-12",
-      "score": 10
+      "score": 10.16949152542373
     },
     {
       "id": "ea3e18c7b10a137d495054682c055a80b5be768c",
@@ -4912,7 +4911,7 @@
       "influentialCitationCount": 48,
       "source": "avi-thesis.bib: Findings of the 2019 Conference on Machine Translation (WMT19)",
       "addedAt": "2026-09-12",
-      "score": 15
+      "score": 15.254237288135593
     },
     {
       "id": "e2dba792360873aef125572812f3673b1a85d850",
@@ -4944,12 +4943,12 @@
       "doi": "10.1162/tacl_a_00051",
       "arxivId": "1607.04606",
       "pdf": "http://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00051",
-      "citationCount": 11192,
+      "citationCount": 11217,
       "referenceCount": 53,
-      "influentialCitationCount": 1083,
+      "influentialCitationCount": 1085,
       "source": "avi-thesis.bib: Enriching word vectors with subword information",
       "addedAt": "2026-09-12",
-      "score": 3.3333333333333335
+      "score": 3.389830508474576
     },
     {
       "id": "e6b73466bab5e52ce0db19dd06d9353c26557dae",
@@ -4979,12 +4978,12 @@
       "doi": "10.48550/arXiv.2308.00683",
       "arxivId": "2308.00683",
       "pdf": "https://arxiv.org/pdf/2308.00683",
-      "citationCount": 11,
+      "citationCount": 12,
       "referenceCount": 48,
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: CodeBPE: Investigating Subtokenization Options for Large Language Model Pretraining on Source Code",
       "addedAt": "2026-09-12",
-      "score": 21.666666666666668
+      "score": 22.033898305084744
     },
     {
       "id": "694b3c58712deefb59502847ba1b52b192c413e5",
@@ -5010,12 +5009,12 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 4130,
+      "citationCount": 4134,
       "referenceCount": 13,
       "influentialCitationCount": 538,
       "source": "avi-thesis.bib: Europarl: A parallel corpus for statistical machine translation",
       "addedAt": "2026-09-12",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "a401510c434b2274b299e9444085df0b18808aaa",
@@ -5055,7 +5054,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: Learn Your Tokens: Word-Pooled Tokenization for Language Modeling",
       "addedAt": "2026-09-12",
-      "score": 45
+      "score": 45.76271186440678
     },
     {
       "id": "a1aeb5442e31276b197696f49b3243112a4049ce",
@@ -5098,12 +5097,12 @@
       "doi": "10.1007/978-3-031-20059-5_1",
       "arxivId": "2204.09817",
       "pdf": "https://arxiv.org/pdf/2204.09817",
-      "citationCount": 584,
+      "citationCount": 587,
       "referenceCount": 91,
       "influentialCitationCount": 82,
       "source": "avi-thesis.bib: Making the most of text semantics to improve biomedical vision--language processing",
       "addedAt": "2026-09-12",
-      "score": 10
+      "score": 10.16949152542373
     },
     {
       "id": "f652e8af69fc13a74c54ff332223827822a12339",
@@ -5133,7 +5132,7 @@
       "doi": "10.1145/1273496.1273501",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 671,
+      "citationCount": 672,
       "referenceCount": 19,
       "influentialCitationCount": 62,
       "source": "avi-thesis.bib: Scalable training of L1-regularized log-linear models",
@@ -5184,7 +5183,7 @@
       "influentialCitationCount": 20,
       "source": "avi-thesis.bib: Charformer: Fast Character Transformers via Gradient-based Subword Tokenization",
       "addedAt": "2026-09-12",
-      "score": 38.333333333333336
+      "score": 38.983050847457626
     },
     {
       "id": "d5fcad8a3b183642fcf609519a4dbbda9c3541ff",
@@ -5226,7 +5225,7 @@
       "influentialCitationCount": 5,
       "source": "avi-thesis.bib: Learning Numeral Embeddings",
       "addedAt": "2026-09-12",
-      "score": 18.333333333333332
+      "score": 18.64406779661017
     },
     {
       "id": "91fa08ca6f7d39489d53af1deb87e9f7219f2dba",
@@ -5259,13 +5258,13 @@
       "url": "https://www.semanticscholar.org/paper/91fa08ca6f7d39489d53af1deb87e9f7219f2dba",
       "doi": "10.1016/J.ACN.2003.12.002",
       "arxivId": null,
-      "pdf": "https://academic.oup.com/acn/article-pdf/19/6/835/9115/19-6-835.pdf",
+      "pdf": null,
       "citationCount": 79,
       "referenceCount": 19,
       "influentialCitationCount": 15,
       "source": "avi-thesis.bib: The Biber cognitive estimation test",
       "addedAt": "2026-09-12",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "f56fc41eff96afbc64030ce5e97d444706e4997c",
@@ -5305,7 +5304,7 @@
       "influentialCitationCount": 13,
       "source": "avi-thesis.bib: Leap-Of-Thought: Teaching Pre-Trained Models to Systematically Reason Over Implicit Knowledge",
       "addedAt": "2026-09-12",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "e7cafbce5945fe8d9ca94df04bd7cb45f68af1ae",
@@ -5329,12 +5328,12 @@
       "doi": "10.1016/0010-0277(90)90003-3",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 1080,
+      "citationCount": 1081,
       "referenceCount": 29,
       "influentialCitationCount": 135,
       "source": "avi-thesis.bib: Children's understanding of counting",
       "addedAt": "2026-09-12",
-      "score": 3.3333333333333335
+      "score": 3.389830508474576
     },
     {
       "id": "3e5a2bf57350d4ceab87f8262a86ac7be98937af",
@@ -5399,7 +5398,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 1736,
+      "citationCount": 1738,
       "referenceCount": 28,
       "influentialCitationCount": 131,
       "source": "avi-thesis.bib: A Framework for Learning Predictive Structures from Multiple Tasks and Unlabeled Data",
@@ -5442,7 +5441,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: On the Usability of Transformers-based models for a French Question-Answering task",
       "addedAt": "2026-09-12",
-      "score": 13.333333333333334
+      "score": 13.559322033898304
     },
     {
       "id": "openalex:W4224510354",
@@ -5681,7 +5680,7 @@
       "influentialCitationCount": 3,
       "source": "avi-thesis.bib: Paying Attention to Multi-Word Expressions in Neural Machine Translation",
       "addedAt": "2026-09-12",
-      "score": 6.666666666666667
+      "score": 6.779661016949152
     },
     {
       "id": "3dd61d97827e3f380bf9304101149a3f865051fc",
@@ -5720,7 +5719,7 @@
       "influentialCitationCount": 25,
       "source": "avi-thesis.bib: Injecting Numerical Reasoning Skills into Language Models",
       "addedAt": "2026-09-12",
-      "score": 38.333333333333336
+      "score": 40.67796610169492
     },
     {
       "id": "0c7f81e26ae77b4be5e5e6ab96641effe219ab1c",
@@ -5757,7 +5756,7 @@
       "influentialCitationCount": 1,
       "source": "avi-thesis.bib: Probing for Multilingual Numerical Understanding in Transformer-Based Language Models",
       "addedAt": "2026-09-12",
-      "score": 10
+      "score": 10.16949152542373
     },
     {
       "id": "afed6dc6900d3b37e528b9086661bba583d60bf6",
@@ -5789,12 +5788,12 @@
       "doi": null,
       "arxivId": "1904.01557",
       "pdf": null,
-      "citationCount": 544,
+      "citationCount": 545,
       "referenceCount": 32,
       "influentialCitationCount": 55,
       "source": "avi-thesis.bib: Analysing Mathematical Reasoning Abilities of Neural Models",
       "addedAt": "2026-09-12",
-      "score": 20
+      "score": 20.33898305084746
     },
     {
       "id": "75e17a2dc0a2b2c1cce5ab89d8c703fb8bddbef1",
@@ -5832,7 +5831,7 @@
       "influentialCitationCount": 15,
       "source": "avi-thesis.bib: On the Computational Power of Transformers and Its Implications in Sequence Modeling",
       "addedAt": "2026-09-12",
-      "score": 10
+      "score": 8.47457627118644
     },
     {
       "id": "c95383f251a62c63217586059c67f63507c3e839",
@@ -5848,7 +5847,7 @@
         "Tim Rault",
         "Rémi Louf",
         "Morgan Funtowicz",
-        "Jamie Brew"
+        "J. Brew"
       ],
       "topAuthors": [
         {
@@ -5871,12 +5870,12 @@
       "doi": null,
       "arxivId": "1910.03771",
       "pdf": null,
-      "citationCount": 4525,
+      "citationCount": 4541,
       "referenceCount": 64,
       "influentialCitationCount": 326,
       "source": "avi-thesis.bib: Transformers: State-of-the-Art Natural Language Processing",
       "addedAt": "2026-09-12",
-      "score": 15
+      "score": 15.254237288135593
     },
     {
       "id": "f3fded0fc942e615dd0aef1fe8bd4836327a7518",
@@ -5911,7 +5910,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Can Chatgpt Improve Investment Decision? From a Portfolio Management Perspective",
       "addedAt": "2026-09-12",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "204e3073870fae3d05bcbc2f6a8e263d9b72e776",
@@ -5950,12 +5949,12 @@
       "doi": null,
       "arxivId": "1706.03762",
       "pdf": null,
-      "citationCount": 200016,
+      "citationCount": 200441,
       "referenceCount": 41,
-      "influentialCitationCount": 21334,
+      "influentialCitationCount": 21404,
       "source": "avi-thesis.bib: Attention is all you need",
       "addedAt": "2026-09-12",
-      "score": 6.666666666666667
+      "score": 6.779661016949152
     },
     {
       "id": "f09831246d22d6db66437a682459b146a9e93c7a",
@@ -6014,9 +6013,9 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 15610,
+      "citationCount": 15625,
       "referenceCount": 73,
-      "influentialCitationCount": 1398,
+      "influentialCitationCount": 1400,
       "source": "avi-thesis.bib: Improving language understanding by generative pre-training",
       "addedAt": "2026-09-12",
       "score": 0
@@ -6043,7 +6042,7 @@
       "doi": "10.5840/persforum19873112",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 2434,
+      "citationCount": 2442,
       "referenceCount": 0,
       "influentialCitationCount": 77,
       "source": "avi-thesis.bib: Society of mind",
@@ -6091,7 +6090,7 @@
       "influentialCitationCount": 4,
       "source": "avi-thesis.bib: The bitter lesson",
       "addedAt": "2026-09-12",
-      "score": 6.666666666666667
+      "score": 6.779661016949152
     },
     {
       "id": "4e6412fc27a6d10555fee95325a9ef556a819c05",
@@ -6121,12 +6120,12 @@
       "doi": "10.2307/2589308",
       "arxivId": null,
       "pdf": "https://intellectum.unisabana.edu.co/bitstream/10818/29866/1/Mauricio%20Javier%20Rico%20Lugo%20%28Tesis%29.pdf",
-      "citationCount": 2593,
+      "citationCount": 2599,
       "referenceCount": 0,
       "influentialCitationCount": 287,
       "source": "avi-thesis.bib: The number sense: How the mind creates mathematics",
       "addedAt": "2026-09-12",
-      "score": 13.333333333333334
+      "score": 13.559322033898304
     },
     {
       "id": "0ee09a9f7c586b703650f9a189668366f619b9e2",
@@ -6161,7 +6160,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: A Fact-aligned Corpus of Numerical Expressions",
       "addedAt": "2026-09-12",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "cabb0a468af8184e0e930841435b65679b580521",
@@ -6198,7 +6197,7 @@
       "influentialCitationCount": 3,
       "source": "avi-thesis.bib: Numeral understanding in financial tweets for fine-grained crowd-based forecasting",
       "addedAt": "2026-09-12",
-      "score": 6.666666666666667
+      "score": 6.779661016949152
     },
     {
       "id": "51004bc6461a572e1189a0e3b32b441155d760ce",
@@ -6239,7 +6238,7 @@
       "influentialCitationCount": 10,
       "source": "avi-thesis.bib: Quarel: A dataset and models for answering questions about qualitative relationships",
       "addedAt": "2026-09-12",
-      "score": 8.333333333333332
+      "score": 8.47457627118644
     },
     {
       "id": "d9f6ada77448664b71128bb19df15765336974a6",
@@ -6278,12 +6277,12 @@
       "doi": null,
       "arxivId": "1905.00537",
       "pdf": null,
-      "citationCount": 3033,
+      "citationCount": 3042,
       "referenceCount": 86,
-      "influentialCitationCount": 344,
+      "influentialCitationCount": 345,
       "source": "avi-thesis.bib: Superglue: A stickier benchmark for general-purpose language understanding systems",
       "addedAt": "2026-09-12",
-      "score": 13.333333333333334
+      "score": 11.864406779661017
     },
     {
       "id": "92c5ed53f7dbe471f2c13ebf5dfb4b9081d2c00b",
@@ -6357,7 +6356,7 @@
       "influentialCitationCount": 27,
       "source": "avi-thesis.bib: Neural arithmetic logic units",
       "addedAt": "2026-09-12",
-      "score": 10
+      "score": 10.16949152542373
     },
     {
       "id": "c45dd0497ca3e929b48f3255855be2bb1fada469",
@@ -6394,7 +6393,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Language combinatorics: A sentence pattern extraction architecture based on combinatorial explosion",
       "addedAt": "2026-09-12",
-      "score": 3.3333333333333335
+      "score": 3.389830508474576
     },
     {
       "id": "7771aa7badc3375a31bfac8dc47755ff5d5c7780",
@@ -6431,7 +6430,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: From characters to words: the turning point of BPE merges",
       "addedAt": "2026-09-12",
-      "score": 6.666666666666667
+      "score": 6.779661016949152
     },
     {
       "id": "fbd201207e51f50f14235c5ea864ccccb6425325",
@@ -6455,9 +6454,9 @@
       "doi": "10.1075/cilt.309.19tie",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 657,
+      "citationCount": 659,
       "referenceCount": 17,
-      "influentialCitationCount": 64,
+      "influentialCitationCount": 65,
       "source": "avi-thesis.bib: News from OPUS - A Collection of Multilingual Parallel Corpora with Tools and Interfaces",
       "addedAt": "2026-09-12",
       "score": 0
@@ -6484,7 +6483,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 1840,
+      "citationCount": 1843,
       "referenceCount": 0,
       "influentialCitationCount": 147,
       "source": "avi-thesis.bib: Algorithms on Strings, Trees and Sequences",
@@ -6520,7 +6519,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 1978,
+      "citationCount": 1976,
       "referenceCount": 67,
       "influentialCitationCount": 76,
       "source": "avi-thesis.bib: Core systems of number",
@@ -6562,7 +6561,7 @@
       "influentialCitationCount": 30,
       "source": "avi-thesis.bib: Variability signatures distinguish verbal from nonverbal counting for both large and small numbers",
       "addedAt": "2026-09-12",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "40dbb25a15b63af3faccb81c8e64a3f5d659e07e",
@@ -6592,7 +6591,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 2050,
+      "citationCount": 2051,
       "referenceCount": 0,
       "influentialCitationCount": 142,
       "source": "avi-thesis.bib: The Theory of Parsing, Translation and Compiling",
@@ -6637,7 +6636,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Tabular Functional Block Detection with Embedding-based Agglomerative Cell Clustering",
       "addedAt": "2026-09-12",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "9d848d5c278b8765767814a7e4b3021abd64704d",
@@ -6705,7 +6704,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Local Byte Fusion for Neural Machine Translation",
       "addedAt": "2026-09-13",
-      "score": 23.333333333333332
+      "score": 23.728813559322035
     },
     {
       "id": "b822553430521146261482508a9fa4e5fbcbe9ae",
@@ -6734,7 +6733,7 @@
       "influentialCitationCount": 3,
       "source": "avi-thesis.bib: Risk factors that matter: Textual analysis of risk disclosures for the cross-section of returns",
       "addedAt": "2026-09-13",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "d86866a805ea8d147da7004730956ef30a82d66b",
@@ -6769,7 +6768,7 @@
       "influentialCitationCount": 2,
       "source": "avi-thesis.bib: Can chatgpt decipher fedspeak",
       "addedAt": "2026-09-13",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "2516b8d7f61da0fac219cf00f488a7d8d3d7d5c7",
@@ -6834,12 +6833,12 @@
       "doi": "10.1016/S0079-6123(07)64014-X",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 133,
+      "citationCount": 134,
       "referenceCount": 92,
       "influentialCitationCount": 2,
       "source": "avi-thesis.bib: Core systems in human cognition",
       "addedAt": "2026-09-13",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "fceb5988cf8b7cde44534c52adf296ce40a92cc4",
@@ -6876,7 +6875,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: First Glance on Pattern-based Language Modeling",
       "addedAt": "2026-09-13",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "251a27e00b9838c8c315f0152cb52762db766aee",
@@ -6913,7 +6912,7 @@
       "influentialCitationCount": 3,
       "source": "avi-thesis.bib: Visual sense of number vs. sense of magnitude in humans and machines",
       "addedAt": "2026-09-13",
-      "score": 5
+      "score": 5.084745762711865
     },
     {
       "id": "fc55a79a1040e540bcf8e2fbc4bd5b837d1c23b5",
@@ -6977,7 +6976,7 @@
       "influentialCitationCount": 10,
       "source": "avi-thesis.bib: The Oxford handbook of numerical cognition",
       "addedAt": "2026-09-13",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "68c03788224000794d5491ab459be0b2a2c38677",
@@ -7001,9 +7000,9 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 104,
+      "citationCount": 106,
       "referenceCount": 8,
-      "influentialCitationCount": 26,
+      "influentialCitationCount": 27,
       "source": "avi-thesis.bib: WordNet: a lexical database for English",
       "addedAt": "2026-09-13",
       "score": 0
@@ -7036,12 +7035,12 @@
       "doi": "10.2139/ssrn.4412788",
       "arxivId": "2304.07619",
       "pdf": "http://arxiv.org/pdf/2304.07619",
-      "citationCount": 433,
+      "citationCount": 434,
       "referenceCount": 79,
       "influentialCitationCount": 24,
       "source": "avi-thesis.bib: Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models",
       "addedAt": "2026-09-13",
-      "score": 13.333333333333334
+      "score": 13.559322033898304
     },
     {
       "id": "3182aa468641a3aa4f1b26a853aed45a48099853",
@@ -7079,7 +7078,7 @@
       "influentialCitationCount": 28,
       "source": "avi-thesis.bib: Effective teachers of numeracy",
       "addedAt": "2026-09-13",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "09437cba3abec8d7befd5358c0049281eb2afd69",
@@ -7108,7 +7107,7 @@
       "influentialCitationCount": 0,
       "source": "avi-thesis.bib: Dataset for Evaluation of Mathematical Reasoning Abilities in Russian",
       "addedAt": "2026-09-13",
-      "score": 5
+      "score": 5.084745762711865
     },
     {
       "id": "70c0bbece96ab013050e10ece778ef857858bde6",
@@ -7148,7 +7147,7 @@
       "influentialCitationCount": 4,
       "source": "avi-thesis.bib: Wikicorpus: A Word-Sense Disambiguated Multilingual Wikipedia Corpus",
       "addedAt": "2026-09-13",
-      "score": 1.6666666666666667
+      "score": 1.694915254237288
     },
     {
       "id": "openalex:W4377116057",
