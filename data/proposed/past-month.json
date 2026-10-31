@@ -1,0 +1,31 @@
+{
+  "window": "past month",
+  "proposedAt": "2026-10-31T10:30:32.149Z",
+  "papers": [
+    {
+      "id": "64c823fa0dfd3a2ca609304f5a368f6bb2d90fa2",
+      "link": "https://doi.org/10.1038/s41586-026-11111-4",
+      "title": "Retrofitting language models to operate over bytes"
+    },
+    {
+      "id": "d0dbd3dad75dabdadf832d90ba4372fdc9854d4f",
+      "link": "https://arxiv.org/abs/2610.13605",
+      "title": "zip2zip++: Towards Inference-Time Token Compression with Minimal Quality Loss"
+    },
+    {
+      "id": "535a0b155aaa63b74e485ff9afea4bbd9de9c7c7",
+      "link": "https://arxiv.org/abs/2610.24290",
+      "title": "Beyond Clean Accuracy: The Practical Challenges and Benefits of Pixel-Based Language Models"
+    },
+    {
+      "id": "49b89ee435d4e83d8db70bcfed8f7e03713137b5",
+      "link": "https://arxiv.org/abs/2610.22071",
+      "title": "The Right Byte First: How UTF-16 Helps Multilingual Boundary Prediction"
+    },
+    {
+      "id": "b0840a6a9dc875d75760bd604a3e60d879b44579",
+      "link": "https://arxiv.org/abs/2610.05597",
+      "title": "More Than Words: Compositional Tokenization for Efficient Language Models"
+    }
+  ]
+}
