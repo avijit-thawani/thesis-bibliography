@@ -10,3 +10,43 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
+# --- most connected ---
+# Revisiting Character-Based Neural Machine Translation with Capacity and Compression
+#   O. Firat (h=50) · Google · 2018 · 103 citations · cited by 8 in your list
+https://arxiv.org/abs/1808.09943
+
+# Mining Numbers in Text: A Survey
+#   Kenji Kita (h=13) · 2021 · 0 citations · cites 17 in your list
+https://doi.org/10.5772/INTECHOPEN.98540
+
+# We are IntechOpen, the world’s leading publisher of Open Access books Built by scientists, for scientists
+#   Kenji Kita (h=13) · 2022 · 4 citations · cites 16 in your list
+https://www.semanticscholar.org/paper/bc2a12ee5cd80980d278ba535c5864217291e26d
+
+# Exploring the Limits of Language Modeling
+#   O. Vinyals (h=104) · Google · 2016 · 1201 citations · cited by 12 in your list
+https://arxiv.org/abs/1602.02410
+
+# Fully Character-Level Neural Machine Translation without Explicit Segmentation
+#   Kyunghyun Cho (h=97) · ETH Zurich · 2016 · 473 citations · cited by 9 in your list
+https://arxiv.org/abs/1610.03017
+
+# Learning to Automatically Solve Algebra Word Problems
+#   Luke Zettlemoyer (h=120) · University of Washington · 2014 · 400 citations · cited by 10 in your list
+https://doi.org/10.3115/v1/P14-1026
+
+# Character-Aware Neural Language Models
+#   Alexander M. Rush (h=62) · Cornell Tech · 2015 · 1744 citations · cited by 13 in your list
+https://arxiv.org/abs/1508.06615
+
+# Measurement Extraction with Natural Language Processing: A Review
+#   D. Stolten (h=82) · Forschungszentrum Jülich · 2022 · 23 citations · cites 11 in your list
+https://doi.org/10.18653/v1/2022.findings-emnlp.161
+
+# CharBERT: Character-aware Pre-trained Language Model
+#   Ting Liu (h=76) · iFLYTEK Research · 2020 · 132 citations · cited by 7 in your list
+https://arxiv.org/abs/2011.01513
+
+# SpaceByte: Towards Deleting Tokenization from Large Language Modeling
+#   K. Slagle (h=23) · Rice University · 2024 · 40 citations · cites 11 in your list
+https://arxiv.org/abs/2404.14408

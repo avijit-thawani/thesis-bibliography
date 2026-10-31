@@ -1,0 +1,56 @@
+{
+  "window": "most connected",
+  "proposedAt": "2026-10-31T10:30:38.642Z",
+  "papers": [
+    {
+      "id": "87639a90e0ab573236efeb79cf24efafc2463dcf",
+      "link": "https://arxiv.org/abs/1808.09943",
+      "title": "Revisiting Character-Based Neural Machine Translation with Capacity and Compression"
+    },
+    {
+      "id": "40a1f266bb5ca853837355bfff272a55f0049c81",
+      "link": "https://doi.org/10.5772/INTECHOPEN.98540",
+      "title": "Mining Numbers in Text: A Survey"
+    },
+    {
+      "id": "bc2a12ee5cd80980d278ba535c5864217291e26d",
+      "link": "https://www.semanticscholar.org/paper/bc2a12ee5cd80980d278ba535c5864217291e26d",
+      "title": "We are IntechOpen, the world’s leading publisher of Open Access books Built by scientists, for scientists"
+    },
+    {
+      "id": "2f2d8f8072e5cc9b296fad551f65f183bdbff7aa",
+      "link": "https://arxiv.org/abs/1602.02410",
+      "title": "Exploring the Limits of Language Modeling"
+    },
+    {
+      "id": "b8bc86a1bc281b15ce45e967cbdd045bcf23a952",
+      "link": "https://arxiv.org/abs/1610.03017",
+      "title": "Fully Character-Level Neural Machine Translation without Explicit Segmentation"
+    },
+    {
+      "id": "3a395daf6c97c084cf9c3827384c53caf6502921",
+      "link": "https://doi.org/10.3115/v1/P14-1026",
+      "title": "Learning to Automatically Solve Algebra Word Problems"
+    },
+    {
+      "id": "891ce1687e2befddd19f54e4eef1d3f39c8dbaf7",
+      "link": "https://arxiv.org/abs/1508.06615",
+      "title": "Character-Aware Neural Language Models"
+    },
+    {
+      "id": "5df55d94ab5026ff84ec01871592108fbadbddbe",
+      "link": "https://doi.org/10.18653/v1/2022.findings-emnlp.161",
+      "title": "Measurement Extraction with Natural Language Processing: A Review"
+    },
+    {
+      "id": "4658662425f71a711024728db90dce0f40c9f0e6",
+      "link": "https://arxiv.org/abs/2011.01513",
+      "title": "CharBERT: Character-aware Pre-trained Language Model"
+    },
+    {
+      "id": "915b10732f264bebd952c806db93692bf2cf8b08",
+      "link": "https://arxiv.org/abs/2404.14408",
+      "title": "SpaceByte: Towards Deleting Tokenization from Large Language Modeling"
+    }
+  ]
+}
