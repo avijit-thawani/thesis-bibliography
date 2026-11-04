@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T12:13:17.088Z",
+  "updatedAt": "2026-11-04T12:23:07.563Z",
   "core": [
     {
       "id": "5bec0de2e6614427acdbef2a5e9611a293a8c6d8",
@@ -60,7 +60,7 @@
         },
         {
           "name": "Sebastian Gehrmann",
-          "hIndex": 37,
+          "hIndex": 38,
           "authorId": "3159346"
         }
       ],
@@ -76,7 +76,7 @@
       "doi": null,
       "arxivId": "2303.17564",
       "pdf": null,
-      "citationCount": 1597,
+      "citationCount": 1598,
       "referenceCount": 138,
       "influentialCitationCount": 77,
       "source": "avi-thesis.bib: BloombergGPT: A Large Language Model for Finance",
@@ -191,7 +191,7 @@
       "doi": "10.18653/v1/D16-1264",
       "arxivId": "1606.05250",
       "pdf": "https://aclanthology.org/D16-1264.pdf",
-      "citationCount": 10208,
+      "citationCount": 10212,
       "referenceCount": 28,
       "influentialCitationCount": 1881,
       "source": "avi-thesis.bib: SQuAD: 100,000+ Questions for Machine Comprehension of Text",
@@ -210,7 +210,7 @@
       "topAuthors": [
         {
           "name": "Pavel Braslavski",
-          "hIndex": 21,
+          "hIndex": 22,
           "authorId": "2319913"
         },
         {
@@ -329,7 +329,7 @@
       "topAuthors": [
         {
           "name": "Junichi Tsujii",
-          "hIndex": 63,
+          "hIndex": 64,
           "authorId": "1737901"
         },
         {
@@ -367,7 +367,7 @@
       "topAuthors": [
         {
           "name": "Sameer Singh",
-          "hIndex": 64,
+          "hIndex": 66,
           "authorId": "34650964"
         },
         {
@@ -683,7 +683,7 @@
       "topAuthors": [
         {
           "name": "I. Sutskever",
-          "hIndex": 75,
+          "hIndex": 74,
           "authorId": "1701686"
         },
         {
@@ -693,8 +693,8 @@
         }
       ],
       "affiliations": [
-        "Google Brain",
-        "Google"
+        "Google",
+        "Google Brain"
       ],
       "year": 2023,
       "venue": null,
@@ -704,9 +704,9 @@
       "doi": null,
       "arxivId": "2303.08774",
       "pdf": null,
-      "citationCount": 28247,
+      "citationCount": 28265,
       "referenceCount": 0,
-      "influentialCitationCount": 3392,
+      "influentialCitationCount": 3390,
       "source": "avi-thesis.bib: GPT-4 Technical Report",
       "addedAt": "2026-09-12",
       "score": 0
@@ -789,8 +789,8 @@
         }
       ],
       "affiliations": [
-        "Google DeepMind",
-        "Google Research (Google LLC)"
+        "Google Research (Google LLC)",
+        "Google DeepMind"
       ],
       "year": 2016,
       "venue": "arXiv.org",
@@ -821,7 +821,7 @@
       "topAuthors": [
         {
           "name": "Luke Zettlemoyer",
-          "hIndex": 120,
+          "hIndex": 122,
           "authorId": "1982950"
         },
         {
@@ -889,7 +889,7 @@
       "doi": "10.48550/arXiv.2112.10508",
       "arxivId": "2112.10508",
       "pdf": null,
-      "citationCount": 251,
+      "citationCount": 252,
       "referenceCount": 200,
       "influentialCitationCount": 10,
       "source": "avi-thesis.bib: Between words and characters: A brief history of open-vocabulary modeling and tokenization in NLP",
@@ -973,7 +973,7 @@
       "doi": "10.1162/tacl_a_00461",
       "arxivId": "2105.13626",
       "pdf": "https://doi.org/10.1162/tacl_a_00461",
-      "citationCount": 821,
+      "citationCount": 822,
       "referenceCount": 68,
       "influentialCitationCount": 104,
       "source": "avi-thesis.bib: ByT5: Towards a Token-Free Future with Pre-trained Byte-to-Byte Models",
@@ -1036,7 +1036,7 @@
       "topAuthors": [
         {
           "name": "Maosong Sun",
-          "hIndex": 101,
+          "hIndex": 102,
           "authorId": "1753344"
         },
         {
@@ -1112,7 +1112,7 @@
       "topAuthors": [
         {
           "name": "Matt Post",
-          "hIndex": 40,
+          "hIndex": 41,
           "authorId": "38842528"
         },
         {
@@ -1175,7 +1175,7 @@
       "doi": null,
       "arxivId": "2207.06991",
       "pdf": null,
-      "citationCount": 76,
+      "citationCount": 77,
       "referenceCount": 145,
       "influentialCitationCount": 8,
       "source": "avi-thesis.bib: Language Modelling with Pixels",
@@ -1250,9 +1250,9 @@
       "doi": "10.48550/arXiv.1910.13267",
       "arxivId": "1910.13267",
       "pdf": "https://aclanthology.org/2020.acl-main.170.pdf",
-      "citationCount": 364,
+      "citationCount": 366,
       "referenceCount": 30,
-      "influentialCitationCount": 64,
+      "influentialCitationCount": 66,
       "source": "avi-thesis.bib: BPE-Dropout: Simple and Effective Subword Regularization",
       "addedAt": "2026-09-12",
       "score": 37.28813559322034
@@ -1347,12 +1347,12 @@
       "topAuthors": [
         {
           "name": "J. Gross",
-          "hIndex": 163,
+          "hIndex": 164,
           "authorId": "1775321"
         },
         {
           "name": "G. Sheppes",
-          "hIndex": 35,
+          "hIndex": 36,
           "authorId": "5236984"
         }
       ],
@@ -1408,7 +1408,7 @@
       "doi": "10.48550/arXiv.2305.13707",
       "arxivId": "2305.13707",
       "pdf": "http://arxiv.org/pdf/2305.13707",
-      "citationCount": 278,
+      "citationCount": 282,
       "referenceCount": 82,
       "influentialCitationCount": 24,
       "source": "avi-thesis.bib: Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models",
@@ -1482,9 +1482,9 @@
       "doi": "10.48550/arXiv.2207.04672",
       "arxivId": "2207.04672",
       "pdf": "http://arxiv.org/pdf/2207.04672",
-      "citationCount": 2165,
+      "citationCount": 2167,
       "referenceCount": 0,
-      "influentialCitationCount": 188,
+      "influentialCitationCount": 189,
       "source": "avi-thesis.bib: No Language Left Behind: Scaling Human-Centered Machine Translation",
       "addedAt": "2026-09-12",
       "score": 1.694915254237288
@@ -1500,7 +1500,7 @@
       "topAuthors": [
         {
           "name": "A. Kalyan",
-          "hIndex": 15,
+          "hIndex": 16,
           "authorId": "51043791"
         },
         {
@@ -1539,7 +1539,7 @@
       "topAuthors": [
         {
           "name": "Gabriel Synnaeve",
-          "hIndex": 62,
+          "hIndex": 63,
           "authorId": "2282478"
         },
         {
@@ -1597,9 +1597,9 @@
       "doi": null,
       "arxivId": "1606.08415",
       "pdf": null,
-      "citationCount": 7746,
+      "citationCount": 7754,
       "referenceCount": 30,
-      "influentialCitationCount": 501,
+      "influentialCitationCount": 502,
       "source": "avi-thesis.bib: Gaussian Error Linear Units (GELUs)",
       "addedAt": "2026-09-12",
       "score": 1.694915254237288
@@ -1631,7 +1631,7 @@
         },
         {
           "name": "E. Grave",
-          "hIndex": 46,
+          "hIndex": 47,
           "authorId": "3024698"
         }
       ],
@@ -1644,9 +1644,9 @@
       "doi": null,
       "arxivId": "2302.13971",
       "pdf": null,
-      "citationCount": 22488,
-      "referenceCount": 80,
-      "influentialCitationCount": 2302,
+      "citationCount": 22504,
+      "referenceCount": 81,
+      "influentialCitationCount": 2305,
       "source": "avi-thesis.bib: LLaMA: Open and Efficient Foundation Language Models",
       "addedAt": "2026-09-12",
       "score": 11.864406779661017
@@ -1697,9 +1697,9 @@
       "doi": "10.48550/arXiv.2310.06825",
       "arxivId": "2310.06825",
       "pdf": "https://arxiv.org/pdf/2310.06825",
-      "citationCount": 4140,
+      "citationCount": 4147,
       "referenceCount": 29,
-      "influentialCitationCount": 473,
+      "influentialCitationCount": 472,
       "source": "avi-thesis.bib: Mistral 7B",
       "addedAt": "2026-09-12",
       "score": 6.779661016949152
@@ -1743,7 +1743,7 @@
       "topAuthors": [
         {
           "name": "I. Sutskever",
-          "hIndex": 75,
+          "hIndex": 74,
           "authorId": "1701686"
         },
         {
@@ -1764,9 +1764,9 @@
       "doi": "10.48550/arXiv.2005.14165",
       "arxivId": "2005.14165",
       "pdf": "http://arxiv.org/pdf/2005.14165",
-      "citationCount": 66023,
+      "citationCount": 66064,
       "referenceCount": 146,
-      "influentialCitationCount": 5615,
+      "influentialCitationCount": 5616,
       "source": "avi-thesis.bib: Language Models are Few-Shot Learners",
       "addedAt": "2026-09-12",
       "score": 18.64406779661017
@@ -1822,7 +1822,7 @@
       "topAuthors": [
         {
           "name": "Niklas Muennighoff",
-          "hIndex": 52,
+          "hIndex": 53,
           "authorId": "2037383772"
         },
         {
@@ -1843,7 +1843,7 @@
       "doi": "10.48550/arXiv.2402.00838",
       "arxivId": "2402.00838",
       "pdf": null,
-      "citationCount": 786,
+      "citationCount": 787,
       "referenceCount": 99,
       "influentialCitationCount": 113,
       "source": "avi-thesis.bib: OLMo: Accelerating the Science of Language Models",
@@ -1926,13 +1926,13 @@
       "topAuthors": [
         {
           "name": "Angela Fan",
-          "hIndex": 37,
+          "hIndex": 38,
           "authorId": "144270981"
         },
         {
-          "name": "Madian Khabsa",
-          "hIndex": 30,
-          "authorId": "2072010"
+          "name": "Naman Goyal",
+          "hIndex": 34,
+          "authorId": "2519247661"
         }
       ],
       "affiliations": [
@@ -1947,7 +1947,7 @@
       "doi": null,
       "arxivId": "2307.09288",
       "pdf": null,
-      "citationCount": 18914,
+      "citationCount": 18924,
       "referenceCount": 131,
       "influentialCitationCount": 2336,
       "source": "avi-thesis.bib: Llama 2: Open Foundation and Fine-Tuned Chat Models",
@@ -2017,7 +2017,7 @@
         },
         {
           "name": "Xinyi Wang",
-          "hIndex": 39,
+          "hIndex": 42,
           "authorId": "3277494"
         }
       ],
@@ -2062,7 +2062,7 @@
       "doi": "10.18653/v1/W15-3049",
       "arxivId": null,
       "pdf": "https://www.aclweb.org/anthology/W15-3049.pdf",
-      "citationCount": 2157,
+      "citationCount": 2159,
       "referenceCount": 10,
       "influentialCitationCount": 209,
       "source": "avi-thesis.bib: chrF: character n-gram F-score for automatic MT evaluation",
@@ -2079,14 +2079,14 @@
       ],
       "topAuthors": [
         {
+          "name": "R. Sennrich",
+          "hIndex": 50,
+          "authorId": "2066518243"
+        },
+        {
           "name": "B. Haddow",
           "hIndex": 47,
           "authorId": "2259100"
-        },
-        {
-          "name": "Alexandra Birch",
-          "hIndex": 31,
-          "authorId": "2539211"
         }
       ],
       "affiliations": [],
@@ -2098,7 +2098,7 @@
       "doi": "10.18653/v1/P16-1162",
       "arxivId": "1508.07909",
       "pdf": "https://www.aclweb.org/anthology/P16-1162.pdf",
-      "citationCount": 9239,
+      "citationCount": 9243,
       "referenceCount": 40,
       "influentialCitationCount": 1099,
       "source": "avi-thesis.bib: Neural Machine Translation of Rare Words with Subword Units",
@@ -2114,7 +2114,7 @@
       "topAuthors": [
         {
           "name": "Matt Post",
-          "hIndex": 40,
+          "hIndex": 41,
           "authorId": "38842528"
         }
       ],
@@ -2130,7 +2130,7 @@
       "doi": "10.18653/v1/W18-6319",
       "arxivId": "1804.08771",
       "pdf": "https://www.aclweb.org/anthology/W18-6319.pdf",
-      "citationCount": 3804,
+      "citationCount": 3807,
       "referenceCount": 22,
       "influentialCitationCount": 405,
       "source": "avi-thesis.bib: A Call for Clarity in Reporting BLEU Scores",
@@ -2203,9 +2203,9 @@
           "authorId": "1755162"
         },
         {
-          "name": "Ondrej Bojar",
-          "hIndex": 49,
-          "authorId": "143832874"
+          "name": "Christof Monz",
+          "hIndex": 52,
+          "authorId": "1696402"
         }
       ],
       "affiliations": [
@@ -2239,12 +2239,12 @@
       "topAuthors": [
         {
           "name": "Jonathan May",
-          "hIndex": 33,
+          "hIndex": 32,
           "authorId": "143823227"
         },
         {
           "name": "C. Mattmann",
-          "hIndex": 25,
+          "hIndex": 27,
           "authorId": "1725551"
         }
       ],
@@ -2277,7 +2277,7 @@
       "topAuthors": [
         {
           "name": "Benjamin Van Durme",
-          "hIndex": 59,
+          "hIndex": 61,
           "authorId": "7536576"
         },
         {
@@ -2320,7 +2320,7 @@
         },
         {
           "name": "Arianna Bisazza",
-          "hIndex": 24,
+          "hIndex": 25,
           "authorId": "3242253"
         }
       ],
@@ -2430,7 +2430,7 @@
         },
         {
           "name": "Emmanuel Dupoux",
-          "hIndex": 21,
+          "hIndex": 22,
           "authorId": "90049550"
         }
       ],
@@ -2467,7 +2467,7 @@
         },
         {
           "name": "Jacob Eisenstein",
-          "hIndex": 55,
+          "hIndex": 56,
           "authorId": "144154709"
         }
       ],
@@ -2503,7 +2503,7 @@
       "topAuthors": [
         {
           "name": "Ji-Min Huang",
-          "hIndex": 24,
+          "hIndex": 25,
           "authorId": "2555230"
         },
         {
@@ -2637,7 +2637,7 @@
       "doi": "10.18653/v1/P18-1196",
       "arxivId": "1805.08154",
       "pdf": "https://www.aclweb.org/anthology/P18-1196.pdf",
-      "citationCount": 100,
+      "citationCount": 101,
       "referenceCount": 75,
       "influentialCitationCount": 11,
       "source": "avi-thesis.bib: Numeracy for Language Models: Evaluating and Improving their Ability to Predict Numbers",
@@ -2728,13 +2728,13 @@
       "topAuthors": [
         {
           "name": "Dan Roth",
-          "hIndex": 100,
+          "hIndex": 102,
           "authorId": "144590225"
         },
         {
-          "name": "Deepak Ramachandran",
-          "hIndex": 11,
-          "authorId": "34968061"
+          "name": "Yanai Elazar",
+          "hIndex": 22,
+          "authorId": "2508065994"
         }
       ],
       "affiliations": [
@@ -2805,7 +2805,7 @@
       "topAuthors": [
         {
           "name": "Hsin-Hsi Chen",
-          "hIndex": 39,
+          "hIndex": 40,
           "authorId": "153924342"
         },
         {
@@ -2884,7 +2884,7 @@
       "topAuthors": [
         {
           "name": "P. Bhattacharyya",
-          "hIndex": 59,
+          "hIndex": 60,
           "authorId": "145532184"
         },
         {
@@ -3008,7 +3008,7 @@
       "topAuthors": [
         {
           "name": "Sameer Singh",
-          "hIndex": 64,
+          "hIndex": 66,
           "authorId": "34650964"
         },
         {
@@ -3029,7 +3029,7 @@
       "doi": "10.18653/v1/N19-1246",
       "arxivId": "1903.00161",
       "pdf": "https://doi.org/10.18653/v1/n19-1246",
-      "citationCount": 1455,
+      "citationCount": 1457,
       "referenceCount": 54,
       "influentialCitationCount": 246,
       "source": "avi-thesis.bib: DROP: A Reading Comprehension Benchmark Requiring Discrete Reasoning Over Paragraphs",
@@ -3048,7 +3048,7 @@
       "topAuthors": [
         {
           "name": "Kenton Lee",
-          "hIndex": 31,
+          "hIndex": 32,
           "authorId": "2544107"
         },
         {
@@ -3165,7 +3165,7 @@
       "topAuthors": [
         {
           "name": "Dan Roth",
-          "hIndex": 100,
+          "hIndex": 102,
           "authorId": "144590225"
         },
         {
@@ -3211,7 +3211,7 @@
       "topAuthors": [
         {
           "name": "Luke Zettlemoyer",
-          "hIndex": 120,
+          "hIndex": 122,
           "authorId": "1982950"
         },
         {
@@ -3232,9 +3232,9 @@
       "doi": "10.48550/arXiv.1907.11692",
       "arxivId": "1907.11692",
       "pdf": "http://arxiv.org/pdf/1907.11692",
-      "citationCount": 32404,
+      "citationCount": 32427,
       "referenceCount": 68,
-      "influentialCitationCount": 6312,
+      "influentialCitationCount": 6319,
       "source": "avi-thesis.bib: RoBERTa: A Robustly Optimized BERT Pretraining Approach",
       "addedAt": "2026-09-12",
       "score": 16.94915254237288
@@ -3251,7 +3251,7 @@
       "topAuthors": [
         {
           "name": "J. Gratch",
-          "hIndex": 65,
+          "hIndex": 67,
           "authorId": "145438097"
         },
         {
@@ -3290,7 +3290,7 @@
       "topAuthors": [
         {
           "name": "Yejin Choi",
-          "hIndex": 115,
+          "hIndex": 116,
           "authorId": "1699545"
         },
         {
@@ -3458,12 +3458,12 @@
       "topAuthors": [
         {
           "name": "K. Toutanova",
-          "hIndex": 50,
+          "hIndex": 52,
           "authorId": "3259253"
         },
         {
           "name": "Ming-Wei Chang",
-          "hIndex": 47,
+          "hIndex": 48,
           "authorId": "1744179"
         }
       ],
@@ -3476,9 +3476,9 @@
       "doi": "10.18653/v1/N19-1423",
       "arxivId": "1810.04805",
       "pdf": "https://doi.org/10.18653/v1/n19-1423",
-      "citationCount": 124951,
+      "citationCount": 125001,
       "referenceCount": 63,
-      "influentialCitationCount": 23470,
+      "influentialCitationCount": 23474,
       "source": "avi-thesis.bib: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding",
       "addedAt": "2026-09-12",
       "score": 11.864406779661017
@@ -3494,7 +3494,7 @@
       "topAuthors": [
         {
           "name": "Hsin-Hsi Chen",
-          "hIndex": 39,
+          "hIndex": 40,
           "authorId": "153924342"
         },
         {
@@ -3537,7 +3537,7 @@
         },
         {
           "name": "R. Socher",
-          "hIndex": 90,
+          "hIndex": 92,
           "authorId": "2166511"
         }
       ],
@@ -3552,9 +3552,9 @@
       "doi": "10.3115/v1/D14-1162",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 35865,
+      "citationCount": 35869,
       "referenceCount": 32,
-      "influentialCitationCount": 4107,
+      "influentialCitationCount": 4109,
       "source": "avi-thesis.bib: GloVe: Global Vectors for Word Representation",
       "addedAt": "2026-09-12",
       "score": 1.694915254237288
@@ -3574,7 +3574,7 @@
       "topAuthors": [
         {
           "name": "Luke Zettlemoyer",
-          "hIndex": 120,
+          "hIndex": 122,
           "authorId": "1982950"
         },
         {
@@ -3595,7 +3595,7 @@
       "doi": "10.18653/v1/N18-1202",
       "arxivId": "1802.05365",
       "pdf": "https://www.aclweb.org/anthology/N18-1202.pdf",
-      "citationCount": 12470,
+      "citationCount": 12472,
       "referenceCount": 64,
       "influentialCitationCount": 1490,
       "source": "avi-thesis.bib: Deep Contextualized Word Representations",
@@ -3632,9 +3632,9 @@
       "doi": "10.48550/arXiv.1301.3781",
       "arxivId": "1301.3781",
       "pdf": null,
-      "citationCount": 36084,
+      "citationCount": 36088,
       "referenceCount": 36,
-      "influentialCitationCount": 4626,
+      "influentialCitationCount": 4627,
       "source": "avi-thesis.bib: Efficient estimation of word representations in vector space",
       "addedAt": "2026-09-12",
       "score": 0
@@ -3649,7 +3649,7 @@
       "topAuthors": [
         {
           "name": "Yejin Choi",
-          "hIndex": 115,
+          "hIndex": 116,
           "authorId": "1699545"
         },
         {
@@ -3684,7 +3684,7 @@
       "topAuthors": [
         {
           "name": "Dan Roth",
-          "hIndex": 100,
+          "hIndex": 102,
           "authorId": "144590225"
         },
         {
@@ -3723,7 +3723,7 @@
       "topAuthors": [
         {
           "name": "Dan Roth",
-          "hIndex": 100,
+          "hIndex": 102,
           "authorId": "144590225"
         },
         {
@@ -3801,7 +3801,7 @@
       "topAuthors": [
         {
           "name": "Dan Roth",
-          "hIndex": 100,
+          "hIndex": 102,
           "authorId": "144590225"
         },
         {
@@ -3880,12 +3880,12 @@
       "topAuthors": [
         {
           "name": "Yonatan Belinkov",
-          "hIndex": 59,
+          "hIndex": 60,
           "authorId": "2083259"
         },
         {
           "name": "S. Shieber",
-          "hIndex": 56,
+          "hIndex": 57,
           "authorId": "1692491"
         }
       ],
@@ -3922,7 +3922,7 @@
       "topAuthors": [
         {
           "name": "A. Halevy",
-          "hIndex": 83,
+          "hIndex": 82,
           "authorId": "1770962"
         },
         {
@@ -3984,9 +3984,9 @@
       "doi": "10.18653/v1/W18-5446",
       "arxivId": "1804.07461",
       "pdf": "https://www.aclweb.org/anthology/W18-5446.pdf",
-      "citationCount": 9232,
+      "citationCount": 9237,
       "referenceCount": 77,
-      "influentialCitationCount": 1459,
+      "influentialCitationCount": 1460,
       "source": "avi-thesis.bib: GLUE: A Multi-Task Benchmark and Analysis Platform for Natural Language Understanding",
       "addedAt": "2026-09-12",
       "score": 8.47457627118644
@@ -4020,9 +4020,9 @@
       "doi": "10.18653/v1/P18-2124",
       "arxivId": "1806.03822",
       "pdf": "https://www.aclweb.org/anthology/P18-2124.pdf",
-      "citationCount": 3586,
+      "citationCount": 3588,
       "referenceCount": 25,
-      "influentialCitationCount": 889,
+      "influentialCitationCount": 890,
       "source": "avi-thesis.bib: Know What You Don't Know: Unanswerable Questions for SQuAD",
       "addedAt": "2026-09-12",
       "score": 3.389830508474576
@@ -4037,7 +4037,7 @@
       "topAuthors": [
         {
           "name": "M. Welling",
-          "hIndex": 95,
+          "hIndex": 102,
           "authorId": "1678311"
         },
         {
@@ -4055,9 +4055,9 @@
       "doi": "10.48550/arXiv.1312.6114",
       "arxivId": "1312.6114",
       "pdf": "http://arxiv.org/pdf/1312.6114",
-      "citationCount": 18684,
+      "citationCount": 18723,
       "referenceCount": 26,
-      "influentialCitationCount": 3205,
+      "influentialCitationCount": 3206,
       "source": "avi-thesis.bib: Auto-encoding variational bayes",
       "addedAt": "2026-09-12",
       "score": 0
@@ -4072,12 +4072,12 @@
       "topAuthors": [
         {
           "name": "Yoav Goldberg",
-          "hIndex": 53,
+          "hIndex": 54,
           "authorId": "2089067"
         },
         {
           "name": "Yanai Elazar",
-          "hIndex": 30,
+          "hIndex": 14,
           "authorId": "51131518"
         }
       ],
@@ -4186,7 +4186,7 @@
       "topAuthors": [
         {
           "name": "Jimmy Lin",
-          "hIndex": 91,
+          "hIndex": 93,
           "authorId": "145580839"
         },
         {
@@ -4248,9 +4248,9 @@
       "doi": "10.48550/arXiv.2103.03874",
       "arxivId": "2103.03874",
       "pdf": "http://arxiv.org/pdf/2103.03874",
-      "citationCount": 7206,
+      "citationCount": 7228,
       "referenceCount": 72,
-      "influentialCitationCount": 1629,
+      "influentialCitationCount": 1632,
       "source": "avi-thesis.bib: Measuring Mathematical Problem Solving With the MATH Dataset",
       "addedAt": "2026-09-12",
       "score": 10.16949152542373
@@ -4324,9 +4324,9 @@
       "doi": "10.48550/arXiv.2103.07191",
       "arxivId": "2103.07191",
       "pdf": "http://arxiv.org/pdf/2103.07191",
-      "citationCount": 1421,
+      "citationCount": 1428,
       "referenceCount": 29,
-      "influentialCitationCount": 282,
+      "influentialCitationCount": 284,
       "source": "avi-thesis.bib: Are NLP Models really able to Solve Simple Math Word Problems?",
       "addedAt": "2026-09-12",
       "score": 5.084745762711865
@@ -4384,7 +4384,7 @@
       "topAuthors": [
         {
           "name": "Jonathan Berant",
-          "hIndex": 60,
+          "hIndex": 61,
           "authorId": "1750652"
         },
         {
@@ -4405,7 +4405,7 @@
       "doi": "10.18653/v1/2021.emnlp-main.446",
       "arxivId": "2012.14913",
       "pdf": "https://aclanthology.org/2021.emnlp-main.446.pdf",
-      "citationCount": 1813,
+      "citationCount": 1818,
       "referenceCount": 28,
       "influentialCitationCount": 143,
       "source": "avi-thesis.bib: Transformer Feed-Forward Layers Are Key-Value Memories",
@@ -4455,7 +4455,7 @@
       "topAuthors": [
         {
           "name": "Steffen Staab",
-          "hIndex": 86,
+          "hIndex": 87,
           "authorId": "1752093"
         },
         {
@@ -4692,7 +4692,7 @@
       "doi": "10.18653/v1/D18-2012",
       "arxivId": "1808.06226",
       "pdf": "https://www.aclweb.org/anthology/D18-2012.pdf",
-      "citationCount": 4448,
+      "citationCount": 4449,
       "referenceCount": 16,
       "influentialCitationCount": 280,
       "source": "avi-thesis.bib: SentencePiece: A simple and language independent subword tokenizer and detokenizer for Neural Text Processing",
@@ -4709,7 +4709,7 @@
       "topAuthors": [
         {
           "name": "Jonathan May",
-          "hIndex": 33,
+          "hIndex": 32,
           "authorId": "143823227"
         },
         {
@@ -4747,12 +4747,12 @@
       "topAuthors": [
         {
           "name": "P. Vitányi",
-          "hIndex": 46,
+          "hIndex": 48,
           "authorId": "46641506"
         },
         {
           "name": "R. Cilibrasi",
-          "hIndex": 14,
+          "hIndex": 15,
           "authorId": "2702975"
         }
       ],
@@ -4833,7 +4833,7 @@
       "topAuthors": [
         {
           "name": "P. Bhattacharyya",
-          "hIndex": 59,
+          "hIndex": 60,
           "authorId": "145532184"
         },
         {
@@ -4887,9 +4887,9 @@
           "authorId": "1755162"
         },
         {
-          "name": "Ondrej Bojar",
-          "hIndex": 49,
-          "authorId": "143832874"
+          "name": "Christof Monz",
+          "hIndex": 52,
+          "authorId": "1696402"
         }
       ],
       "affiliations": [
@@ -4928,7 +4928,7 @@
         },
         {
           "name": "E. Grave",
-          "hIndex": 46,
+          "hIndex": 47,
           "authorId": "3024698"
         }
       ],
@@ -4941,7 +4941,7 @@
       "doi": "10.1162/tacl_a_00051",
       "arxivId": "1607.04606",
       "pdf": "http://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00051",
-      "citationCount": 11232,
+      "citationCount": 11237,
       "referenceCount": 53,
       "influentialCitationCount": 1081,
       "source": "avi-thesis.bib: Enriching word vectors with subword information",
@@ -5095,9 +5095,9 @@
       "doi": "10.1007/978-3-031-20059-5_1",
       "arxivId": "2204.09817",
       "pdf": "https://arxiv.org/pdf/2204.09817",
-      "citationCount": 591,
+      "citationCount": 595,
       "referenceCount": 91,
-      "influentialCitationCount": 82,
+      "influentialCitationCount": 83,
       "source": "avi-thesis.bib: Making the most of text semantics to improve biomedical vision--language processing",
       "addedAt": "2026-09-12",
       "score": 10.16949152542373
@@ -5112,7 +5112,7 @@
       "topAuthors": [
         {
           "name": "Jianfeng Gao",
-          "hIndex": 98,
+          "hIndex": 99,
           "authorId": "1800422"
         },
         {
@@ -5277,12 +5277,12 @@
       "topAuthors": [
         {
           "name": "Jonathan Berant",
-          "hIndex": 60,
+          "hIndex": 61,
           "authorId": "1750652"
         },
         {
           "name": "O. Tafjord",
-          "hIndex": 38,
+          "hIndex": 39,
           "authorId": "3385516"
         }
       ],
@@ -5313,7 +5313,7 @@
       "topAuthors": [
         {
           "name": "K. Wynn",
-          "hIndex": 46,
+          "hIndex": 47,
           "authorId": "5745658"
         }
       ],
@@ -5691,12 +5691,12 @@
       "topAuthors": [
         {
           "name": "Jonathan Berant",
-          "hIndex": 60,
+          "hIndex": 61,
           "authorId": "1750652"
         },
         {
           "name": "Mor Geva",
-          "hIndex": 35,
+          "hIndex": 36,
           "authorId": "22245981"
         }
       ],
@@ -5947,9 +5947,9 @@
       "doi": "10.48550/arXiv.1706.03762",
       "arxivId": "1706.03762",
       "pdf": "https://arxiv.org/pdf/1706.03762",
-      "citationCount": 201069,
+      "citationCount": 201234,
       "referenceCount": 41,
-      "influentialCitationCount": 21398,
+      "influentialCitationCount": 21409,
       "source": "avi-thesis.bib: Attention is all you need",
       "addedAt": "2026-09-12",
       "score": 6.779661016949152
@@ -5963,7 +5963,7 @@
       "topAuthors": [
         {
           "name": "Nasa",
-          "hIndex": 16,
+          "hIndex": 17,
           "authorId": "2260893767"
         }
       ],
@@ -5998,7 +5998,7 @@
         },
         {
           "name": "A. Radford",
-          "hIndex": 31,
+          "hIndex": 32,
           "authorId": "38909097"
         }
       ],
@@ -6011,9 +6011,9 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 15655,
+      "citationCount": 15659,
       "referenceCount": 73,
-      "influentialCitationCount": 1400,
+      "influentialCitationCount": 1401,
       "source": "avi-thesis.bib: Improving language understanding by generative pre-training",
       "addedAt": "2026-09-12",
       "score": 0
@@ -6040,7 +6040,7 @@
       "doi": "10.5840/persforum19873112",
       "arxivId": null,
       "pdf": null,
-      "citationCount": 2456,
+      "citationCount": 2457,
       "referenceCount": 0,
       "influentialCitationCount": 79,
       "source": "avi-thesis.bib: Society of mind",
@@ -6070,7 +6070,7 @@
         },
         {
           "name": "Kai-Fu Zhang",
-          "hIndex": 16,
+          "hIndex": 17,
           "authorId": "2304530663"
         }
       ],
@@ -6085,7 +6085,7 @@
       "pdf": null,
       "citationCount": 41,
       "referenceCount": 49,
-      "influentialCitationCount": 4,
+      "influentialCitationCount": 3,
       "source": "avi-thesis.bib: The bitter lesson",
       "addedAt": "2026-09-12",
       "score": 6.779661016949152
@@ -6100,7 +6100,7 @@
       "topAuthors": [
         {
           "name": "S. Dehaene",
-          "hIndex": 158,
+          "hIndex": 161,
           "authorId": "1787332"
         },
         {
@@ -6135,12 +6135,12 @@
       "topAuthors": [
         {
           "name": "R. Power",
-          "hIndex": 26,
+          "hIndex": 30,
           "authorId": "144585612"
         },
         {
           "name": "Sandra Williams",
-          "hIndex": 16,
+          "hIndex": 17,
           "authorId": "145280410"
         }
       ],
@@ -6275,7 +6275,7 @@
       "doi": "10.48550/arXiv.1905.00537",
       "arxivId": "1905.00537",
       "pdf": null,
-      "citationCount": 3052,
+      "citationCount": 3055,
       "referenceCount": 87,
       "influentialCitationCount": 344,
       "source": "avi-thesis.bib: Superglue: A stickier benchmark for general-purpose language understanding systems",
@@ -6410,7 +6410,7 @@
         },
         {
           "name": "C. Bentz",
-          "hIndex": 17,
+          "hIndex": 18,
           "authorId": "3255675"
         }
       ],
@@ -6439,7 +6439,7 @@
       "topAuthors": [
         {
           "name": "J. Tiedemann",
-          "hIndex": 51,
+          "hIndex": 52,
           "authorId": "143675545"
         }
       ],
@@ -6499,12 +6499,12 @@
       "topAuthors": [
         {
           "name": "S. Dehaene",
-          "hIndex": 158,
+          "hIndex": 161,
           "authorId": "1787332"
         },
         {
           "name": "E. Spelke",
-          "hIndex": 99,
+          "hIndex": 100,
           "authorId": "2252285"
         }
       ],
@@ -6536,7 +6536,7 @@
       "topAuthors": [
         {
           "name": "C. Gallistel",
-          "hIndex": 61,
+          "hIndex": 62,
           "authorId": "2646034"
         },
         {
@@ -6813,7 +6813,7 @@
       "topAuthors": [
         {
           "name": "E. Spelke",
-          "hIndex": 99,
+          "hIndex": 100,
           "authorId": "2252285"
         },
         {
@@ -6951,7 +6951,7 @@
       "topAuthors": [
         {
           "name": "A. Dowker",
-          "hIndex": 32,
+          "hIndex": 33,
           "authorId": "4029060"
         },
         {
@@ -6998,7 +6998,7 @@
       "doi": null,
       "arxivId": null,
       "pdf": null,
-      "citationCount": 168,
+      "citationCount": 169,
       "referenceCount": 8,
       "influentialCitationCount": 43,
       "source": "avi-thesis.bib: WordNet: a lexical database for English",
@@ -7033,7 +7033,7 @@
       "doi": "10.2139/ssrn.4412788",
       "arxivId": "2304.07619",
       "pdf": "https://doi.org/10.2139/ssrn.4412788",
-      "citationCount": 436,
+      "citationCount": 437,
       "referenceCount": 79,
       "influentialCitationCount": 24,
       "source": "avi-thesis.bib: Can ChatGPT Forecast Stock Price Movements? Return Predictability and Large Language Models",
@@ -7120,7 +7120,7 @@
       "topAuthors": [
         {
           "name": "German Rigau",
-          "hIndex": 42,
+          "hIndex": 41,
           "authorId": "1785173"
         },
         {
