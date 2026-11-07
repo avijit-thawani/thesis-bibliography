@@ -10,3 +10,15 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
+# --- past month ---
+# zip2zip++: Towards Inference-Time Token Compression with Minimal Quality Loss
+#   A. Gentilini (h=13) · EPFL · 2026 · 0 citations · past month · cites 10 in your list
+https://arxiv.org/abs/2610.13605
+
+# Beyond Clean Accuracy: The Practical Challenges and Benefits of Pixel-Based Language Models
+#   Hinrich Schutze (h=22) · CIS, LMU Munich · 2026 · 0 citations · past month · cites 8 in your list
+https://arxiv.org/abs/2610.24290
+
+# The Right Byte First: How UTF-16 Helps Multilingual Boundary Prediction
+#   Hyunsik Kim (h=3) · Samsung (South Korea) · 2026 · 0 citations · past month · cites 6 in your list
+https://arxiv.org/abs/2610.22071
