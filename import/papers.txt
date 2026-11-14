@@ -10,3 +10,23 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
+# --- past month ---
+# Tokenizer Myths and Where To Find Them
+#   Rylan Schaeffer (h=23) · Stanford University · 2026 · 0 citations · past month · cites 11 in your list
+https://arxiv.org/abs/2611.04215
+
+# Beyond Clean Accuracy: The Practical Challenges and Benefits of Pixel-Based Language Models
+#   Hinrich Schutze (h=22) · CIS, LMU Munich · 2026 · 0 citations · past month · cites 9 in your list
+https://arxiv.org/abs/2610.24290
+
+# MoTo: Mixture of Tokenizers Towards Fair Multilingual Language Modeling
+#   Colin A. Raffel (h=19) · 2026 · 0 citations · past month · cites 9 in your list
+https://arxiv.org/abs/2611.11027
+
+# When does text encoding matter for language modeling?
+#   Terra Blevins (h=17) · University of Washington · 2026 · 0 citations · past month · cites 7 in your list
+https://arxiv.org/abs/2611.14459
+
+# Going Deeper With Memories
+#   Afshin Khadangi (h=6) · University of Luxembourg · 2026 · 0 citations · past month · cites 7 in your list
+https://arxiv.org/abs/2611.05255
