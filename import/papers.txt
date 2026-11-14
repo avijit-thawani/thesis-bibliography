@@ -10,3 +10,43 @@
 # Commit this file and the survey rebuilds itself. Lines starting with # are
 # ignored. Anything that could not be looked up is left here so you can fix it.
 
+# --- past year ---
+# Bolmo: Byteifying the Next Generation of Language Models
+#   E. Ponti (h=37) · Allen Institute for AI · 2025 · 14 citations · past year · cites 13 in your list
+https://arxiv.org/abs/2512.15586
+
+# Retrofitting language models to operate over bytes
+#   E. Ponti (h=37) · Allen Institute for Artificial Intelligence · 2026 · 3 citations · past year · cites 12 in your list
+https://doi.org/10.1038/s41586-026-11111-4
+
+# zip2zip++: Towards Inference-Time Token Compression with Minimal Quality Loss
+#   A. Gentilini (h=13) · EPFL · 2026 · 0 citations · past year · cites 11 in your list
+https://arxiv.org/abs/2610.13605
+
+# Proxy Compression for Language Modeling
+#   Lin Zheng (h=11) · The University of Hong Kong · 2026 · 3 citations · past year · cites 14 in your list
+https://arxiv.org/abs/2602.04289
+
+# Scratchpad Patching: Decoupling Compute from Patch Size in Byte-Level Language Models
+#   L. Rimell (h=21) · The University of Hong Kong · 2026 · 1 citations · past year · cites 13 in your list
+https://arxiv.org/abs/2605.09630
+
+# CONE: Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics
+#   M. Gubanov (h=16) · Florida State Univesrity · 2026 · 0 citations · past year · cites 12 in your list
+https://arxiv.org/abs/2603.04741
+
+# Rate-Utility Frontiers for Language Encodings: Comparing Tokens, Bytes, and Pixels Under Controlled Linguistic Content
+#   Desmond Elliott (h=5) · University of Copenhagen · 2026 · 0 citations · past year · cites 12 in your list
+https://arxiv.org/abs/2607.16117
+
+# Stop Taking Tokenizers for Granted: They Are Core Design Decisions in Large Language Models
+#   Md Tahmid Rahman Laskar (h=21) · York University · 2026 · 13 citations · past year · cites 8 in your list
+https://arxiv.org/abs/2601.13260
+
+# Phonemes to the Rescue: Multilingual Tokenization Based on International Phonetic Alphabet
+#   Ekaterina Shutova (h=10) · University of Amsterdam · 2026 · 2 citations · past year · cites 11 in your list
+https://arxiv.org/abs/2606.20993
+
+# Fast Byte Latent Transformer
+#   Artidoro Pagnoni (h=12) · Stanford University · 2026 · 6 citations · past year · cites 8 in your list
+https://arxiv.org/abs/2605.08044
