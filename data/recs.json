@@ -1,21 +1,21 @@
 {
-  "updatedAt": "2026-11-17T13:32:03.704Z",
+  "updatedAt": "2026-11-18T13:08:05.990Z",
   "recs": [
     {
       "id": "14dd3ed9484ee7722c89821b01ec03f48f5900e9",
       "title": "Tokenizer Myths and Where To Find Them",
       "authors": [
         "Rylan Schaeffer",
-        "Sanmi Koyejo"
+        "S. Koyejo"
       ],
       "topAuthors": [
         {
           "name": "Rylan Schaeffer",
-          "hIndex": 23,
+          "hIndex": 24,
           "authorId": "1749176844"
         },
         {
-          "name": "Sanmi Koyejo",
+          "name": "S. Koyejo",
           "hIndex": 19,
           "authorId": "123593472"
         }
@@ -35,10 +35,10 @@
       "referenceCount": 126,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 11,
       "direction": "forward",
-      "score": 42.41443618091601,
+      "score": 42.44457396200565,
       "why": "past month · cites 11 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
@@ -56,12 +56,12 @@
       "topAuthors": [
         {
           "name": "Colin A. Raffel",
-          "hIndex": 60,
+          "hIndex": 69,
           "authorId": "2402716"
         },
         {
           "name": "G. Altintas",
-          "hIndex": 5,
+          "hIndex": 8,
           "authorId": "100464585"
         }
       ],
@@ -78,10 +78,10 @@
       "referenceCount": 100,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 9,
       "direction": "forward",
-      "score": 29.254567840849415,
+      "score": 29.37458715284218,
       "why": "past month · cites 9 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
@@ -124,10 +124,10 @@
       "referenceCount": 54,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 7,
       "direction": "forward",
-      "score": 27.942731856778575,
+      "score": 27.917918716193224,
       "why": "past month · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
@@ -139,11 +139,11 @@
       "id": "9fc31562a43c570fa1a64c8559798e7627fdd158",
       "title": "Going Deeper With Memories",
       "authors": [
-        "Afshin Khadangi"
+        "A. Khadangi"
       ],
       "topAuthors": [
         {
-          "name": "Afshin Khadangi",
+          "name": "A. Khadangi",
           "hIndex": 6,
           "authorId": "3452069"
         }
@@ -163,10 +163,10 @@
       "referenceCount": 25,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 7,
       "direction": "forward",
-      "score": 17.88434020654031,
+      "score": 17.872295873659567,
       "why": "past month · cites 7 in your list",
       "fromReferences": false,
       "freshWindow": "past month",
@@ -181,6 +181,7 @@
         "Benjamin Minixhofer",
         "Tyler Murray",
         "Tomasz Limisiewicz",
+        "A. Korhonen",
         "Luke S. Zettlemoyer",
         "Noah A. Smith",
         "E. Ponti",
@@ -189,14 +190,14 @@
       ],
       "topAuthors": [
         {
+          "name": "A. Korhonen",
+          "hIndex": 57,
+          "authorId": "145762466"
+        },
+        {
           "name": "E. Ponti",
           "hIndex": 37,
           "authorId": "3381663"
-        },
-        {
-          "name": "Luca Soldaini",
-          "hIndex": 35,
-          "authorId": "3328733"
         }
       ],
       "affiliations": [
@@ -214,10 +215,10 @@
       "referenceCount": 107,
       "influentialCitationCount": 4,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 13,
       "direction": "forward",
-      "score": 62.832321892903956,
+      "score": 63.75873810565339,
       "why": "past year · cites 13 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -232,6 +233,7 @@
         "Benjamin Minixhofer",
         "Tyler Murray",
         "Tomasz Limisiewicz",
+        "A. Korhonen",
         "Luke S. Zettlemoyer",
         "Noah A. Smith",
         "E. Ponti",
@@ -240,14 +242,14 @@
       ],
       "topAuthors": [
         {
+          "name": "A. Korhonen",
+          "hIndex": 57,
+          "authorId": "145762466"
+        },
+        {
           "name": "E. Ponti",
           "hIndex": 37,
           "authorId": "3381663"
-        },
-        {
-          "name": "Benjamin Minixhofer",
-          "hIndex": 10,
-          "authorId": "2090357303"
         }
       ],
       "affiliations": [
@@ -266,10 +268,10 @@
       "referenceCount": 101,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 12,
       "direction": "forward",
-      "score": 58.055210865214235,
+      "score": 58.9088085015718,
       "why": "past year · cites 12 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -315,10 +317,10 @@
       "referenceCount": 46,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 11,
       "direction": "forward",
-      "score": 54.11885966668066,
+      "score": 54.07218463312604,
       "why": "past year · cites 11 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -363,10 +365,10 @@
       "referenceCount": 119,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 14,
       "direction": "forward",
-      "score": 53.95094205036537,
+      "score": 53.86285665714999,
       "why": "past year · cites 14 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -380,7 +382,7 @@
       "authors": [
         "Lin Zheng",
         "Vasilisa Bashlovkina",
-        "Tim Dozat",
+        "Timothy Dozat",
         "Dan Garrette",
         "L. Rimell",
         "Joshua Maynez"
@@ -392,9 +394,9 @@
           "authorId": "2554988"
         },
         {
-          "name": "Joshua Maynez",
-          "hIndex": 13,
-          "authorId": "2124977868"
+          "name": "Timothy Dozat",
+          "hIndex": 18,
+          "authorId": "2277385"
         }
       ],
       "affiliations": [
@@ -412,10 +414,10 @@
       "referenceCount": 103,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 13,
       "direction": "forward",
-      "score": 53.179302099480566,
+      "score": 53.098071712563375,
       "why": "past year · cites 13 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -428,7 +430,7 @@
       "title": "CONE: Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics",
       "authors": [
         "Gyanendra Shrestha",
-        "A. Pyayt",
+        "Anna L. Pyayt",
         "M. Gubanov"
       ],
       "topAuthors": [
@@ -438,8 +440,8 @@
           "authorId": "1705924"
         },
         {
-          "name": "A. Pyayt",
-          "hIndex": 14,
+          "name": "Anna L. Pyayt",
+          "hIndex": 13,
           "authorId": "1743601"
         }
       ],
@@ -458,10 +460,10 @@
       "referenceCount": 84,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 12,
       "direction": "forward",
-      "score": 49.73300421203929,
+      "score": 49.68891472519866,
       "why": "past year · cites 12 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -504,10 +506,10 @@
       "referenceCount": 55,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 12,
       "direction": "forward",
-      "score": 43.381425035147544,
+      "score": 43.28703472294265,
       "why": "past year · cites 12 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -553,10 +555,10 @@
       "referenceCount": 92,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 8,
       "direction": "forward",
-      "score": 39.425066132873454,
+      "score": 39.387771483533584,
       "why": "past year · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -600,10 +602,10 @@
       "referenceCount": 67,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 11,
       "direction": "forward",
-      "score": 36.03668676558054,
+      "score": 36.004101145855,
       "why": "past year · cites 11 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -627,7 +629,7 @@
       "topAuthors": [
         {
           "name": "Artidoro Pagnoni",
-          "hIndex": 12,
+          "hIndex": 13,
           "authorId": "51152502"
         },
         {
@@ -652,10 +654,10 @@
       "referenceCount": 65,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 8,
       "direction": "forward",
-      "score": 34.85453149133854,
+      "score": 34.927147423517376,
       "why": "past year · cites 8 in your list",
       "fromReferences": false,
       "freshWindow": "past year",
@@ -676,7 +678,7 @@
       "topAuthors": [
         {
           "name": "O. Firat",
-          "hIndex": 50,
+          "hIndex": 51,
           "authorId": "2345617"
         },
         {
@@ -701,7 +703,7 @@
       "referenceCount": 22,
       "influentialCitationCount": 17,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 8,
       "direction": "backward",
       "score": 100,
@@ -743,10 +745,10 @@
       "referenceCount": 39,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 17,
       "direction": "forward",
-      "score": 95.20445205986522,
+      "score": 95.13592399010223,
       "why": "cites 17 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
@@ -766,7 +768,7 @@
       "topAuthors": [
         {
           "name": "D. Stolten",
-          "hIndex": 82,
+          "hIndex": 83,
           "authorId": "2852152"
         },
         {
@@ -790,10 +792,10 @@
       "referenceCount": 175,
       "influentialCitationCount": 3,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 12,
       "direction": "forward",
-      "score": 93.7593512756474,
+      "score": 93.72149991147046,
       "why": "cites 12 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
@@ -826,10 +828,10 @@
       "referenceCount": 35,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 16,
       "direction": "forward",
-      "score": 93.27824730351738,
+      "score": 93.21038379190357,
       "why": "cites 16 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
@@ -849,12 +851,12 @@
       "topAuthors": [
         {
           "name": "G. Pasi",
-          "hIndex": 40,
+          "hIndex": 45,
           "authorId": "145645971"
         },
         {
           "name": "S. Verberne",
-          "hIndex": 22,
+          "hIndex": 31,
           "authorId": "1702730"
         }
       ],
@@ -874,10 +876,10 @@
       "referenceCount": 107,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 16,
       "direction": "forward",
-      "score": 91.90471397564193,
+      "score": 92.23467980186025,
       "why": "cites 16 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
@@ -920,10 +922,10 @@
       "referenceCount": 30,
       "influentialCitationCount": 45,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 9,
       "direction": "backward",
-      "score": 90.72478355006457,
+      "score": 90.65947994123289,
       "why": "cited by 9 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
@@ -947,7 +949,7 @@
         },
         {
           "name": "D. Sontag",
-          "hIndex": 56,
+          "hIndex": 60,
           "authorId": "1746662"
         }
       ],
@@ -967,10 +969,10 @@
       "referenceCount": 54,
       "influentialCitationCount": 165,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 13,
       "direction": "backward",
-      "score": 88.6913491621011,
+      "score": 88.62750921731646,
       "why": "cited by 13 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
@@ -1014,10 +1016,10 @@
       "referenceCount": 54,
       "influentialCitationCount": 115,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 11,
       "direction": "backward",
-      "score": 84.65152693909559,
+      "score": 84.59059485432313,
       "why": "cited by 11 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
@@ -1062,10 +1064,10 @@
       "referenceCount": 38,
       "influentialCitationCount": 0,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 13,
       "direction": "forward",
-      "score": 82.61461765054825,
+      "score": 82.55076143598833,
       "why": "cites 13 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
@@ -1111,10 +1113,10 @@
       "referenceCount": 38,
       "influentialCitationCount": 9,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 7,
       "direction": "backward",
-      "score": 81.91378553390898,
+      "score": 81.85482407267301,
       "why": "cited by 7 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
@@ -1138,7 +1140,7 @@
         },
         {
           "name": "R. Barzilay",
-          "hIndex": 101,
+          "hIndex": 108,
           "authorId": "1741283"
         }
       ],
@@ -1158,10 +1160,10 @@
       "referenceCount": 36,
       "influentialCitationCount": 51,
       "source": null,
-      "addedAt": "2026-11-17",
+      "addedAt": "2026-11-18",
       "overlap": 9,
       "direction": "backward",
-      "score": 78.10036198986862,
+      "score": 78.04414542710124,
       "why": "cited by 9 in your list",
       "fromReferences": false,
       "batchPrUrl": "https://github.com/avijit-thawani/thesis-bibliography/pull/56",
